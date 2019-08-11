@@ -1,4 +1,8 @@
-@title NetNewsWire 5 Help
+@title NetNewsWire 5 for Mac Help
+@template index.html
+
+# NetNewsWire 5 for Mac Help
+
 
 
 Getting Started

@@ -14,53 +14,46 @@ a {
 	text-decoration: none;
 }
 a:link {
-	color: rgba(70, 140, 220, 1.0);
+	color: #086aee;
 }
 a:visited {
 	color: rgba(110, 153, 139, 1.0);
 }
 h1, h2, h3, h4, h5, h6 {
-	color: black;
+	color: #333;
 }
 h1 {
 	font-size: 34px;
 }
 h2 {
 	font-size: 28px;
+	margin-top: 2em;
 }
 h3 {
 	font-size: 22px;
-}
-h3 a:link, h3 a:visited {
-	color: #333;
-}
-h3 a:hover {
-	color: rgba(70, 140, 220, 1.0);
 }
 h4 {
 	margin-bottom: 1em;
 	color: #444;
 }
-
+.centeredImage {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
 header {
 	line-height: 2em;
-	padding-top: 48px;
-	padding-bottom: 12px;
+	padding-top: 8px;
+	padding-bottom: 8px;
 	text-align: center;
-	background-color: rgb(68, 80, 136);
-	color: rgba(255, 255, 255, 0.75);
-	}
-#biglink {
-	font-size: 36px;
-	display: block;
+	font-size: 24px;
 	font-weight: bold;
-	margin-bottom: 0.3em;
+	background-color: rgba(0, 0, 0, 0.8);
 }
-#biglink a:link, #biglink a:visited {
-	color: rgba(255, 255, 255, 0.9);
+header a:link, header a:visited {
+	color: rgba(255, 255, 255, 1.0);
 	text-decoration: none;
 }
-
 main {
 	padding-top: 40px;
 	padding-bottom: 2em;
@@ -76,14 +69,13 @@ nav {
   padding-top: 52px;
   border-top: 1px solid #ddd;
 }
-
 footer {
 	margin-bottom: 0;
 	padding-top: 14px;
 	padding-bottom: 32px;
 	color: #999;
 	text-align: center;
-	}
+}
 footer p {
 	margin-bottom: 18px;
 }
@@ -96,7 +88,6 @@ code, pre {
 	color: #666;
 	white-space: pre-wrap;
 }
-
 @media (max-width: 760px) {
 	main {
 		width: 500px;
