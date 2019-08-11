@@ -14,11 +14,11 @@ Reading Feeds
 
 [How to sort the timeline](sorting-the-timeline)
 
-Tour of the built-in smart feeds: Today, All Unread, Starred
+[Smart feeds: Today, All Unread, Starred](smart-feeds)
 
 [Keyboard shortcuts](keyboard-shortcuts)
 
-Sharing to other apps, including MarsEdit and Micro.blog
+[Sharing to other apps, including MarsEdit and Micro.blog](sharing-articles)
 
 
 Managing Feeds
@@ -32,15 +32,13 @@ Managing Feeds
 
 How to add special Micro.blog feeds
 
-How to rename feeds and folders
+[How to rename feeds and folders](renaming-feeds)
 
-How to get and copy feed information
+[How to get and copy feed information](feed-info)
 
 
 Accounts
 --------
-
-Accounts overview
 
 [About the On My Mac account](on-my-mac)
 
