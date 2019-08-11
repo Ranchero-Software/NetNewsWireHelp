@@ -1,6 +1,5 @@
 @title What is RSS? What are feeds?
 
-# What is RSS? What are feeds?
 
 Lots of websites have news or updates of some kind.
 
@@ -8,7 +7,7 @@ They also have a bunch of other things — a header at the top of the page, and 
 
 Like this imaginary squished-down web page:
 
-<img src="images/websitediagram.png" width="255" height="256" alt="Website diagram that shows the good part — where RSS comes from" />
+<img src="../../../images/websitediagram.png" width="255" height="256" alt="Website diagram that shows the good part — where RSS comes from" />
 
 The good part is the part in the middle — that’s the part with the news. That’s the part that you read. That’s the part you’re interested in.
 

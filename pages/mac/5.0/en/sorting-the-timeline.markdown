@@ -1,6 +1,5 @@
 @title Sorting the NetNewsWire timeline
 
-# Sorting the NetNewsWire timeline
 
 The NetNewsWire timeline is the list of articles shown in the centre pane.
 

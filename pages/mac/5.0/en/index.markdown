@@ -1,32 +1,34 @@
 @title NetNewsWire 5 Help
 
-## Getting Started
 
-[What is RSS? What are feeds?](what-is-rss.html)
+Getting Started
+---------------
+
+[What is RSS? What are feeds?](what-is-rss)
 
 
+Reading Feeds
+-------------
 
-## Reading Feeds
+[How to go through your articles](reading-articles)
 
-[How to go through your articles](reading-articles.html)
-
-[How to sort the timeline](sorting-the-timeline.html)
+[How to sort the timeline](sorting-the-timeline)
 
 Tour of the built-in smart feeds: Today, All Unread, Starred
 
-[Keyboard shortcuts](keyboard-shortcuts.html)
+[Keyboard shortcuts](keyboard-shortcuts)
 
 Sharing to other apps, including MarsEdit and Micro.blog
 
 
+Managing Feeds
+--------------
 
-## Managing Feeds
+[How to add a feed](adding-feeds)
 
-[How to add a feed](adding-feeds.html)
+[Installing and using the Safari Extension to add feeds](safari-extension)
 
-[Installing and using the Safari Extension to add feeds](safari-extension.html)
-
-[How to delete feeds and folders](deleting-feeds-folders.html)
+[How to delete feeds and folders](deleting-feeds-folders)
 
 How to add special Micro.blog feeds
 
@@ -35,43 +37,33 @@ How to rename feeds and folders
 How to get and copy feed information
 
 
-
-## Accounts
+Accounts
+--------
 
 Accounts overview
 
-[About the On My Mac account](on-my-mac.html)
+[About the On My Mac account](on-my-mac)
 
-[How to add a syncing account](syncing-accounts.html)
-
-
-
-## NetNewsWire Data
-
-[Where NetNewsWire data is stored](userdata-location.html)
-
-[How to import OPML](import-opml.html)
-
-[How to export OPML](export-opml.html)
+[How to add a syncing account](syncing-accounts)
 
 
+NetNewsWire Data
+----------------
 
-## The NetNewsWire Project
+[Where NetNewsWire data is stored](userdata-location)
 
-[How to Update NetNewsWire](updating.html)
+[How to import OPML](import-opml)
 
-[How to get NetNewsWire news](netnewswire-news.html)
-
-[NetNewsWire and your privacy](privacy.html)
-
-[How to contribute to NetNewsWire](contributing.html)
+[How to export OPML](export-opml)
 
 
+The NetNewsWire Project
+-----------------------
 
-## Other ideas? Add them here.
+[How to Update NetNewsWire](updating)
 
+[How to get NetNewsWire news](netnewswire-news)
 
+[NetNewsWire and your privacy](privacy)
 
----
-
-Credits: The Help book was written by [Brent Simmons](https://inessential.com/), [Ryan Dotson](https://nostodnayr.net), your name here, etc.
+[How to contribute to NetNewsWire](contributing)
