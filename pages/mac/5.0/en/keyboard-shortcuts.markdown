@@ -1,11 +1,9 @@
 @title Keyboard shortcuts
 
-# Keyboard shortcuts
 
 NetNewsWire’s interface is easily navigable using keyboard shortcuts.
 
 The most useful shortcuts are for reading articles: **space** to scroll articles and jump to the next unread one, or **n** to jump immediately to the next unread article. There’s also **b** to open the article in your browser (the **Return** or **Enter** keys work too).
-
 
 
 In-app list of keyboard shortcuts
@@ -19,7 +17,6 @@ The list opens in a separate window which you can leave open to remind you of th
 ### Do I need to use the Command key?
 
 No, the Command (⌘) key isn’t required for these advanced keyboard shortcuts – just press the key by itself. 
-
 
 
 NetNewsWire’s keyboard shortcuts

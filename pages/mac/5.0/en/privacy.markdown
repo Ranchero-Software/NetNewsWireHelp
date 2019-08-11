@@ -1,13 +1,11 @@
 @title NetNewsWire and your privacy
 
-# NetNewsWire and your privacy
 
-[The NetNewsWire Privacy Policy](https://github.com/brentsimmons/NetNewsWire/blob/master/Technotes/privacypolicy.markdown)
+[The NetNewsWire Privacy Policy](https://ranchero.com/netnewswire/privacypolicy)
 
 NetNewsWire has a very strict privacy policy – we don’t want any private information about you.
 
 The only data we collect about how you use NetNewsWire, *only if you agree and opt in*, is crash logs.
-
 
 
 Changes to the Privacy Policy

@@ -1,6 +1,5 @@
 @title How to import OPML
 
-# How to import OPML
 
 You can use an OPML subscription list to import your subscriptions from another app or service into NetNewsWire.
 
