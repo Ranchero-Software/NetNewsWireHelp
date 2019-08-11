@@ -1,4 +1,5 @@
 @title Help Books for NetNewsWire
+@template helpBooksIndex.html
 
 [NetNewsWire](https://ranchero.com/netnewswire/) is a free and open source RSS reader for Mac and iOS.
 
