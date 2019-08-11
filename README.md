@@ -50,9 +50,9 @@ Put images in the `images` folder at the root of the project.
 
 When linking to images, use a relative path. For example, use:
 
-`../../../images/`*`linked-image.png`*
+`../../../images/linked-image.png`
 
-when you’re linking from a page at `mac/5.0/en/`*`page.markdown`*.
+when you’re linking from a page at `mac/5.0/en/page.markdown`.
 
 **NOTE:** It’s not a good idea to take screenshots yet! The UI is still subject to change. That won’t be true for too much longer, but it’s true for now.
 
