@@ -62,9 +62,9 @@ Because all images are saved in a single directory, it’s best to name files so
 
 `mac-en-check_for_updates.png`
 
-#### Screenshots can wait – for now
+#### Screenshots
 
-It’s not a good idea to take screenshots yet! The UI is still subject to change. That won’t be true for too much longer, but it’s true for now.
+Screenshots must be taken on a retina device. We’ll use retina images even for non-retina machines (rather than doing double the number of screenshots). It’s fine.
 
 
 Style Suggestions
