@@ -73,3 +73,21 @@ Style Suggestions
 In the English Help Book, we use **strong/bold** text for actions (keys to press, menu items to open) taken by the user:
 
 > Choose **File → Quit** from the menu bar to quit the app.
+
+
+Building Locally
+----------------
+
+You’ll need Wildcat, as previously mentioned. At the top level of this folder you’ll need a `wildcat_settings` file which should look something like this:
+
+	@site_name NetNewsWire Help
+	@site_url https://ranchero.com/netnewswire/help/
+	@output_file_suffix (empty-string)
+	@output_folder /Users/brent/Sites/NetNewsWireHelp/
+	@favicon_url https://ranchero.com/images/nnw_icon_32.png
+	@icon_url https://ranchero.com/images/nnw_icon_256.png
+	@has_blog false
+
+Change `@output_folder` to whatever makes sense on your machine.
+
+Note: this doesn’t build a truly self-contained website. We’d like to make that possible in the future. But at this writing (11 Aug. 2019) the higher priority is shipping NetNewsWire 5.0. :)
