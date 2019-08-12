@@ -1,5 +1,5 @@
 @title Where NetNewsWire data is stored
-
+@template nnw5mac_en.html
 
 NetNewsWire remembers your feeds and article read status, as well as your account information and preferences. This information is stored in two different locations on your Mac, but separately from the NetNewsWire app.
 

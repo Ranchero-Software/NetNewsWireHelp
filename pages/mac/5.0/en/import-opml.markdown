@@ -1,5 +1,5 @@
 @title How to import OPML
-
+@template nnw5mac_en.html
 
 You can use an OPML subscription list to import your subscriptions from another app or service into NetNewsWire.
 

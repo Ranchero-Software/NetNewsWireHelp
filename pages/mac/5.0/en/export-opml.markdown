@@ -1,5 +1,5 @@
 @title How to export OPML
-
+@template nnw5mac_en.html
 
 Your subscription list is portable, meaning you can easily switch to another app or service at any time. NetNewsWire can export an OPML file containing all your subscriptions. This file format is well-established and widely supported for just this purpose.
 

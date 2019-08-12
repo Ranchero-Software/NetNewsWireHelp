@@ -1,5 +1,5 @@
 @title NetNewsWire and your privacy
-
+@template nnw5mac_en.html
 
 [The NetNewsWire Privacy Policy](https://ranchero.com/netnewswire/privacypolicy)
 

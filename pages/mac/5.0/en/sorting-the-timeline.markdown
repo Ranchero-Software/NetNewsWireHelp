@@ -1,5 +1,5 @@
 @title Sorting the NetNewsWire timeline
-
+@template nnw5mac_en.html
 
 The NetNewsWire timeline is the list of articles shown in the centre pane.
 

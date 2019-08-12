@@ -1,5 +1,5 @@
 @title Installing and using the Safari Extension to add feeds
-
+@template nnw5mac_en.html
 
 NetNewsWire provides a Safari Extension which adds a *Subscribe to Feed* button to your Safari toolbar. This allows you to quickly add a site’s feed without entering an address manually into NetNewsWire.
 

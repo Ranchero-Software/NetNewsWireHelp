@@ -1,5 +1,5 @@
 @title The On My Mac account
-
+@template nnw5mac_en.html
 
 The On My Mac account is the simplest way to use NetNewsWire. Using it requires no additional service or software. It’s just you, your subscriptions and NetNewsWire.
 

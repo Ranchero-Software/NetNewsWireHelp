@@ -1,5 +1,5 @@
 @title How to get and copy feed information
-
+@template nnw5mac_en.html
 
 Sometimes you’re subscribed to a feed you really want to share with a friend. The quickest way to get the feed URL or the site URL is to copy them from NetNewsWire.
 

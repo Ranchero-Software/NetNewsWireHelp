@@ -1,5 +1,5 @@
 @title Keyboard shortcuts
-
+@template nnw5mac_en.html
 
 NetNewsWire’s interface is easily navigable using keyboard shortcuts.
 

@@ -1,5 +1,5 @@
 @title Sharing to other apps
-
+@template nnw5mac_en.html
 
 You can share any article you’re reading to other apps using macOS Share Extensions. Use the **Share** button on the NetNewsWire toolbar, or Control-click on the article in the timeline and select **Share**.
 

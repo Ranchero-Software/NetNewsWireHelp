@@ -1,5 +1,5 @@
 @title How to Update NetNewsWire
-
+@template nnw5mac_en.html
 
 NetNewsWire can check for and install updated versions of itself. This can be done for you automatically in the background or you can check for updates manually.
 

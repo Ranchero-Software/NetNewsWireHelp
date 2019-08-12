@@ -1,5 +1,5 @@
 @title How to go through your articles
-
+@template nnw5mac_en.html
 
 NetNewsWire was built to make it easy to read your articles one-handed. This is perfect for when your other hand is occupied with a warm drink or an insistent furry friend.
 
