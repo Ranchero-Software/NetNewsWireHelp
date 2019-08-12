@@ -13,7 +13,7 @@ When you first launch NetNewsWire you’ll be asked whether it should periodical
 Manually checking for updates
 -----------------------------
 
-You may have declined automatic checks for updates or just [read about a great new update](netnewswire-news) and want to download it now. You can always check for updates manually by selecting **NetNewsWire → Check for Updates…** from the menu bar.
+You may have declined automatic checks for updates or just [read about a great new update](netnewswire-news) and want to download it now. You can always check for updates manually by choosing **NetNewsWire → Check for Updates…** from the menu bar.
 
 If a new update is found, NetNewsWire can download and install it for you.
 

@@ -46,6 +46,8 @@ is sufficient to link to the final HTML version of the `export-opml.markdown` pa
 
 ### Images
 
+#### Save Location
+
 Put images in the `images` folder at the root of the project.
 
 When linking to images, use a relative path. For example, use:
@@ -54,7 +56,15 @@ When linking to images, use a relative path. For example, use:
 
 when you’re linking from a page at `mac/5.0/en/page.markdown`.
 
-**NOTE:** It’s not a good idea to take screenshots yet! The UI is still subject to change. That won’t be true for too much longer, but it’s true for now.
+#### File Name
+
+Because all images are saved in a single directory, it’s best to name files so they’re easy to identify. For example:
+
+`mac-en-check_for_updates.png`
+
+#### Screenshots can wait – for now
+
+It’s not a good idea to take screenshots yet! The UI is still subject to change. That won’t be true for too much longer, but it’s true for now.
 
 
 Style Suggestions
@@ -62,4 +72,4 @@ Style Suggestions
 
 In the English Help Book, we use **strong/bold** text for actions (keys to press, menu items to open) taken by the user:
 
-> Select **File → Quit** from the menu bar to quit the app.
+> Choose **File → Quit** from the menu bar to quit the app.
