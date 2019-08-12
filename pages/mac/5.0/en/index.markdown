@@ -34,7 +34,7 @@ Managing Feeds
 
 [How to delete feeds and folders](deleting-feeds-folders)
 
-How to add special Micro.blog feeds
+<!-- How to add special Micro.blog feeds -->
 
 [How to rename feeds and folders](renaming-feeds)
 
@@ -46,7 +46,7 @@ Accounts
 
 [About the On My Mac account](on-my-mac)
 
-[How to add a syncing account](syncing-accounts)
+<!-- [How to add a syncing account](syncing-accounts) -->
 
 
 NetNewsWire Data
