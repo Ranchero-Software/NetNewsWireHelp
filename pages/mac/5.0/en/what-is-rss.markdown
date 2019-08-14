@@ -13,7 +13,8 @@ The good part is the part in the middle — that’s the part with the news. Tha
 
 And that’s what RSS is — it’s just that part, minus the rest of the stuff.
 
-#### Details
+Details
+-------
 
 That “good part” is actually made available as a *feed.* A feed is just a specially-formatted text file that readers like NetNewsWire can read. The files look weird — they kind of look like the source behind web pages, with angle brackets and everything.
 
@@ -21,7 +22,8 @@ The important thing is: it’s NetNewsWire’s job to know how to read the feed.
 
 By doing this — by running NetNewsWire — you can let NetNewsWire find out when there’s something new. You don’t have to go to the websites and check to see if there’s something new. You can save time, and not have to rely on your memory.
 
-#### Types of feeds
+Types of feeds
+--------------
 
 People often talk or write about RSS — but sometimes they mention Atom, too. Atom does the same thing as RSS. Sometimes they mention the JSON Feed format, which does the same thing as RSS too.
 

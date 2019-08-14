@@ -9,6 +9,8 @@ Automatic checks for updates
 
 When you first launch NetNewsWire you’ll be asked whether it should periodically check for updates. You will be notified of any new updates and can choose to update when you’re ready.
 
+If you change your mind later, you can [change the automatic update checking preference](hidden-preferences) manually.
+
 
 Manually checking for updates
 -----------------------------

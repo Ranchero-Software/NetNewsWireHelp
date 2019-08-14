@@ -46,7 +46,7 @@ Accounts
 
 [About the On My Mac account](on-my-mac)
 
-<!-- [How to add a syncing account](syncing-accounts) -->
+[How to add a syncing account](syncing-accounts)
 
 
 NetNewsWire Data

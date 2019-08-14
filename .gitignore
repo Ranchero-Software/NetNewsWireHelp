@@ -1,2 +1,7 @@
 .DS_Store
 wildcat_settings
+
+# [rd]
+# pages/images is a symbolic link to ../images to make
+# preview in BBEdit work without adding an extra ../ whilst testing
+pages/images

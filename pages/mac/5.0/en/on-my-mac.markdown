@@ -3,11 +3,11 @@
 
 The On My Mac account is the simplest way to use NetNewsWire. Using it requires no additional service or software. It’s just you, your subscriptions and NetNewsWire.
 
-On My Mac subscriptions are wholly managed by NetNewsWire. It keeps your subscription list and is responsible for fetching the feeds and checking for updates. This means it also keeps track of what items you’ve read or not.
+NetNewsWire manages everything for the On My Mac account. It keeps your subscription list and is responsible for fetching the feeds and checking for updates. This means it also keeps track of what items you’ve read or not.
 
-The On My Mac account does not sync this data to any other location. It works best for those people who only read NetNewsWire feeds on one Mac and nowhere else.
+On My Mac account data *does not sync* to any other location. It works best for those people who only read NetNewsWire feeds on one Mac, and nowhere else.
 
-*NetNewsWire can also be used with a [syncing account](syncing-accounts) service like Feedbin.*
+*NetNewsWire can also be used with a [syncing service](syncing-accounts) like Feedbin.*
 
 
 Refreshing On My Mac feeds
@@ -31,7 +31,7 @@ To hide the On My Mac account, place the mouse over the **On My Mac** listing in
 
 Disabling the On My Mac account can be done in NetNewsWire’s preferences.
 
-1. Open the NetNewsWire preferences from **NetNewsWire → Preferences…** (⌘-,)
+1. Open the NetNewsWire preferences by choosing **NetNewsWire → Preferences…** (⌘-,)
 2. Click on **Accounts** and choose **On My Mac**
 3. Deselect the **Active** checkbox
 
