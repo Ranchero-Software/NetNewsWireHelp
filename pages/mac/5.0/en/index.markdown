@@ -59,6 +59,12 @@ NetNewsWire Data
 [How to export OPML](export-opml)
 
 
+Advanced Topics
+---------------
+
+[Hidden Preferences](hidden-preferences)
+
+
 The NetNewsWire Project
 -----------------------
 
