@@ -8,21 +8,21 @@ NetNewsWire remembers your feeds and article read status, as well as your accoun
 Preferences file
 ----------------
 
-Your NetNewsWire preferences file is called `com.ranchero.NetNewsWire-Evergreen.plist`. It’s stored in your account’s Preferences folder, which can be found in the Finder by navigating to:
+Your NetNewsWire preferences file is called `com.ranchero.NetNewsWire-Evergreen.plist`. It’s stored in your account’s Preferences folder, which can be found in the Finder by opening:
 
 *Your home folder* › Library › Preferences
 
 
 ### Preferences caching
 
-The contents in the preferences `plist` file are cached by macOS. If you make any changes or delete the file, log out and log back in before relaunching NetNewsWire to make sure the old settings are fully cleared. (Alternatively, if you prefer, you can also run `killall cfprefsd` from Terminal to reload the preferences cache.)
+The contents in the preferences `.plist` file are cached by macOS. If you make any changes or delete the file, log out and log back in before relaunching NetNewsWire to make sure the old settings are fully cleared. (Alternatively, if you prefer, you can also run `killall cfprefsd` from Terminal to reload the preferences cache.)
 
 
 
 Feeds and accounts data
 -----------------------
 
-Information about your subscribed feeds, article read status and accounts (On my Mac and Feedbin) are stored in your account’s Application Support folder. This can be found in the Finder by navigating to:
+Information about your subscribed feeds, article read status and accounts (On my Mac and Feedbin) are stored in your account’s Application Support folder. This can be found in Finder by opening:
 
 *Your home folder* › Library › Application Support › NetNewsWire
 
@@ -43,4 +43,4 @@ You may also want to delete these files if you want to completely remove NetNews
 
 ### Can’t find the Library folder?
 
-If you can’t see the Library folder in the Finder, you can open it by holding down the Option (⌥) key and clicking **Go → Library**. For more information, see the [Library folder](https://support.apple.com/en-gb/guide/mac-help/aside/mh35934/10.14/mac/10.14) note in the macOS Documentation.
+If you can’t see the Library folder in the Finder, you can open it by holding down the Option (⌥) key and choosing **Go → Library**. For more information, see the [Library folder](https://support.apple.com/en-gb/guide/mac-help/aside/mh35934/10.14/mac/10.14) note in the macOS Documentation.

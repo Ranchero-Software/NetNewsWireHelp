@@ -3,6 +3,11 @@
 
 When you’re reading an interesting article, you may feel compelled to share it with a friend, your blog or social media account. NetNewsWire works with macOS Share Extensions so you to share articles with other apps on your Mac.
 
+<img src="../../../images/mac-en-share_button_toolbar.png"
+     alt="A screenshot of NetNewsWire’s toolbar, calling out the Share button."
+     class="centeredImage"
+     width="45%" />
+
 To share an article, use the **Share** button on the NetNewsWire toolbar, or Control-click on the article in the timeline and choose **Share**. Information about the article, its URL, title and content will be passed on to the receiving app.
 
 
@@ -42,6 +47,6 @@ You may have an app that doesn’t appear in the Share menu. This could be becau
 <img src="../../../images/mac-en-share_menu_more_selected.png"
      alt="A screenshot of the macOS Share menu showing the ‘More…’ item highlighted."
      class="centeredImage"
-     width="33%" />
+     width="30%" />
 
-Click the **Share** button again and choose **More…** to browse the list of available apps in System Preferences. If you find your app, select its checkbox so it will appear in the Share menu.
+Click the **Share** button again and choose **More…** to browse the list of available apps in System Preferences. If you find your app, select its checkbox so it will appear in the Share menu then try again in NetNewsWire.
