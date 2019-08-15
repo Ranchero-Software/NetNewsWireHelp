@@ -30,7 +30,7 @@ Text is written in Markdown. The `.markdown` files will be turned into HTML by a
 
 Include the page title by using `@title` on the first line of a document.
 
-	@title Ceci est une titre
+	@title Ceci est le titre
 	
 A top-level page heading (h1) and the HTML page header will be generated automatically.
 
