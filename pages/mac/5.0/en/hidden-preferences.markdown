@@ -34,15 +34,3 @@ You can choose to use an expanded title bar which displays *NetNewsWire*. (This 
 To use the typical combined title bar and toolbar appearance, enter:
 
 	defaults write com.ranchero.NetNewsWire-Evergreen KafasisTitleMode -bool NO
-
-
-Enable or disable automatic update checking
--------------------------------------------
-
-If you declined [automatically checking for updates](updating) to NetNewsWire, you can enable the feature using this command:
-
-	defaults write com.ranchero.NetNewsWire-Evergreen SUEnableAutomaticChecks -bool YES
-
-or disable automatic update checking:
-
-	defaults write com.ranchero.NetNewsWire-Evergreen SUEnableAutomaticChecks -bool NO
