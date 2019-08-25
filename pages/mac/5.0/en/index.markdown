@@ -4,7 +4,6 @@
 # NetNewsWire 5 for Mac Help
 
 
-
 Getting Started
 ---------------
 
@@ -34,7 +33,7 @@ Managing Feeds
 
 [How to delete feeds and folders](deleting-feeds-folders)
 
-<!-- How to add special Micro.blog feeds -->
+[How to add special Micro.blog feeds](micro-blog-feeds)
 
 [How to rename feeds and folders](renaming-feeds)
 
