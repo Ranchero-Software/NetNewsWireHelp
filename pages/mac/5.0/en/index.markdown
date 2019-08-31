@@ -53,9 +53,15 @@ NetNewsWire Data
 
 [Where NetNewsWire data is stored](userdata-location)
 
-[How to import OPML](import-opml)
+[How to import feeds with OPML](import-opml)
 
-[How to export OPML](export-opml)
+[How to export feeds with OPML](export-opml)
+
+
+Need more help?
+---------------
+
+[Where to go for more help](getting-more-help)
 
 
 Advanced Topics
@@ -63,11 +69,13 @@ Advanced Topics
 
 [Hidden Preferences](hidden-preferences)
 
+[Adding password-protected feeds](adding-authenticated-feeds)
+
 
 The NetNewsWire Project
 -----------------------
 
-[How to Update NetNewsWire](updating)
+[How to update NetNewsWire](updating)
 
 [How to get NetNewsWire news](netnewswire-news)
 
