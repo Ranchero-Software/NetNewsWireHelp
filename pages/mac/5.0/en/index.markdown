@@ -51,7 +51,7 @@ Accounts
 Personalisation
 ---------------
 
-[Customising NetNewsWire](customising) – Dock icon badge
+[Customizing NetNewsWire](customizing) – Dock icon badge
 
 
 NetNewsWire Data
