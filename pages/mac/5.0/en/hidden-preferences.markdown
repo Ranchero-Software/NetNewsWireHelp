@@ -15,13 +15,7 @@ Occasionally we implement preferences for one or a few users. The features are o
 Hide unread badge in Dock
 -------------------------
 
-To hide the red badge showing how many unread articles you’ve got, use this command:
-
-	defaults write com.ranchero.NetNewsWire-Evergreen JustinMillerHideDockUnreadCount -bool YES
-	
-Revert to the default behaviour, showing the unread badge, by entering:
-
-	defaults write com.ranchero.NetNewsWire-Evergreen JustinMillerHideDockUnreadCount -bool NO
+If you’re using NetNewsWire 5.0.1, you can [change the Dock bage setting][customising] in NetNewsWire’s Preferences window. The use a `defaults` command is no longer necessary.
 
 
 Use a traditional window title bar

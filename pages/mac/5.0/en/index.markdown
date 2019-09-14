@@ -48,6 +48,12 @@ Accounts
 [How to add a syncing account](syncing-accounts)
 
 
+Personalisation
+---------------
+
+[Customising NetNewsWire](customising) – Dock icon badge
+
+
 NetNewsWire Data
 ----------------
 
