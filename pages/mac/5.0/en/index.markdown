@@ -48,7 +48,7 @@ Accounts
 [How to add a syncing account](syncing-accounts)
 
 
-Personalisation
+Personalization
 ---------------
 
 [Customizing NetNewsWire](customizing) – Dock icon badge
