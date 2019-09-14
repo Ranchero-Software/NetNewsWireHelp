@@ -75,8 +75,6 @@ Advanced Topics
 
 [Hidden Preferences](hidden-preferences)
 
-[Adding password-protected feeds](adding-authenticated-feeds)
-
 
 The NetNewsWire Project
 -----------------------
