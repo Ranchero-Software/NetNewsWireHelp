@@ -1,4 +1,5 @@
-body {
+body
+{
 	margin-top: 0px;
 	margin-bottom: 0px;
 	margin-left: 0px;
@@ -10,39 +11,43 @@ body {
 	background-color: white;
 }
 
-a {
-	text-decoration: none;
-}
-a:link {
-	color: #086aee;
-}
-a:visited {
-	color: rgba(110, 153, 139, 1.0);
-}
-h1, h2, h3, h4, h5, h6 {
-	color: #333;
-}
-h1 {
+a { text-decoration: none; }
+a:link { color: #086aee; }
+a:visited { color: rgba(110, 153, 139, 1.0); }
+
+h1, h2, h3, h4, h5, h6 { color: #333; }
+
+h1
+{
 	font-size: 34px;
 	line-height: 1.3em;
 }
-h2 {
+
+h2
+{
 	font-size: 28px;
 	margin-top: 2em;
 }
+
 h3 {
 	font-size: 22px;
 }
-h4 {
+
+h4
+{
 	margin-bottom: 1em;
 	color: #444;
 }
-.centeredImage {
+
+.centeredImage
+{
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
 }
-header {
+
+header
+{
 	line-height: 2em;
 	padding-top: 8px;
 	padding-bottom: 8px;
@@ -51,11 +56,15 @@ header {
 	font-weight: bold;
 	background-color: rgba(0, 0, 0, 0.8);
 }
-header a:link, header a:visited {
+
+header a:link, header a:visited
+{
 	color: rgba(255, 255, 255, 1.0);
 	text-decoration: none;
 }
-main {
+
+main
+{
 	padding-top: 40px;
 	padding-bottom: 2em;
 	max-width: 650px;
@@ -63,50 +72,83 @@ main {
 	margin-right: auto;
 }
 
-nav {
-	padding-top: 0;
-  color: #999;
-  text-align: center;
-  padding-top: 52px;
-  border-top: 1px solid #ddd;
+table { font-size: inherit; line-height: inherit; }
+
+th, caption {
+	font-size: 22px;
 }
-footer {
+
+table.keyboard-shortcuts {
+	width: 80%;
+	margin: 0 auto;
+	-webkit-border-horizontal-spacing: 0;
+	-webkit-border-vertical-spacing: 0;
+}
+
+table.keyboard-shortcuts tbody tr:nth-child(odd) {
+	background-color: #F0F0F0;
+}
+
+table.keyboard-shortcuts tr td:first-child {
+	width: 70%;
+}
+
+table.keyboard-shortcuts th { font-style: italic; }
+
+nav
+{
+	color: #999;
+	text-align: center;
+	padding-top: 52px;
+	border-top: 1px solid #ddd;
+}
+
+footer
+{
 	margin-bottom: 0;
 	padding-top: 14px;
 	padding-bottom: 32px;
 	color: #999;
 	text-align: center;
 }
-footer p {
-	margin-bottom: 18px;
-}
-footer a:link, #footer a:visited {
-	color: rgba(70, 140, 220, 0.75);	
-}
-code, pre {
+
+footer p { margin-bottom: 18px; }
+footer a:link, #footer a:visited { color: rgba(70, 140, 220, 0.75); }
+
+code, pre
+{
 	font-family: "SF Mono", Menlo, "Courier", monospace;
 	font-size: 16px;
 	color: #666;
 	white-space: pre-wrap;
 }
-@media (max-width: 760px) {
-	main {
+
+@media (max-width: 760px)
+{
+	main
+	{
 		width: 500px;
 		max-width: 500px;
 		min-width: 500px;
-		}
+	}
 }
-@media (max-width: 600px) {
-	main {
+
+@media (max-width: 600px)
+{
+	main
+	{
 		width: 450px;
 		max-width: 450px;
 		min-width: 450px;
-		}
+	}
 }
-@media (max-width: 480px) {
-	main {
+
+@media (max-width: 480px)
+{
+	main
+	{
 		width: 300px;
 		max-width: 300px;
 		min-width: 300px;
-		}
+	}
 }
