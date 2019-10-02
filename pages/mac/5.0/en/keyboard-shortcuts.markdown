@@ -65,10 +65,6 @@ Many keyboard shortcuts work everywhere in the app, no matter where you last cli
 			<td> <strong> m </strong> </td>
 		</tr>
 		<tr>
-			<td> Mark as unread </td>
-			<td> <strong> u </strong> </td>
-		</tr>
-		<tr>
 			<td> Toggle starred status </td>
 			<td> <strong> s </strong> </td>
 		</tr>
