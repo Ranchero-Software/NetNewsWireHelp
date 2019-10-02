@@ -45,7 +45,7 @@ What if my app isn’t in the Share menu?
 You may have an app that doesn’t appear in the Share menu. This could be because the app doesn’t provide a share extension. It may do, though!
 
 <img src="../../../images/mac-en-share_menu_more_selected.png"
-     alt="A screenshot of the macOS Share menu showing the ‘More…’ item highlighted."
+     alt="A screenshot of the macOS Share menu showing the “More…” item highlighted."
      class="centeredImage"
      width="30%" />
 

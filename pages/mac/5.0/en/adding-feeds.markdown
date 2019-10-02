@@ -5,7 +5,7 @@ NetNewsWire collects items for you from feeds published on web sites. To do this
 
 *It’s okay if you don’t know that.* NetNewsWire will look at any web page and try to find it for you. All you need to give is the site’s URL, like `cate.blog`. (Entering `http://` or `https://` isn’t necessary.)
 
-To get started, click the Add Feed button on the toolbar, or use **File → New Feed** (⌘-N) from the menu bar.
+To get started, click the Add Feed button on the toolbar, or use **File** → **New Feed** (⌘N) from the menu bar.
 
 If you’ve got the address already – great! Type it or paste it into the URL box. Otherwise, just enter the website’s address into the box. 
 
@@ -17,7 +17,7 @@ Click **Add** and NetNewsWire will fetch the URL you entered. If you entered an 
 Choosing an alternative name for a feed
 ---------------------------------------
 
-Feeds specify their own name, but you may want to change it to something shorter or easier to remember. ‘Cate’ rather than ‘Accidentally in Code’, for example. You also [rename it later](renaming-feeds).
+Feeds specify their own name, but you may want to change it to something shorter or easier to remember. “Cate” rather than “Accidentally in Code”, for example. You also [rename it later](renaming-feeds).
 
 
 Choosing a feed’s folder

@@ -27,5 +27,5 @@ You can edit a feed or folder’s name any time using the *Rename* command or by
 ## Renaming using the Inspector
 
 1. Select the feed or folder in the sidebar
-2. Choose **Window → Info** from the menu bar
+2. Choose **Window** → **Info** from the menu bar
 3. Enter the new name and press **Return**

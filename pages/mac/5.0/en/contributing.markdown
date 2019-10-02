@@ -20,5 +20,5 @@ GitHub
 The [NetNewsWire project on GitHub][nnw-git] is the place to raise formal issues like bugs and feature requests. If you want to make contributions to NetNewsWire’s code or documentation, please refer to our [contribution guidelines][contrib] page on GitHub.
 
 [nnw-git]: https://github.com/brentsimmons/NetNewsWire/
-[slack]: https://netnewswire.slack.com/join/shared_invite/enQtNjM4MDA1MjQzMDkzLTNlNjBhOWVhYzdhYjA4ZWFhMzQ1MTUxYjU0NTE5ZGY0YzYwZWJhNjYwNTNmNTg2NjIwYWY4YzhlYzk5NmU3ZTc
+[slack]: https://ranchero.com/netnewswire/slack
 [contrib]: https://github.com/brentsimmons/NetNewsWire/blob/master/CONTRIBUTING.md

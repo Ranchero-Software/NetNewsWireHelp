@@ -9,44 +9,155 @@ The most useful shortcuts are for reading articles: **space** to scroll articles
 In-app list of keyboard shortcuts
 ---------------------------------
 
-A comprehensive list of NetNewsWire’s keyboard shortcuts is always accessible to you in NetNewsWire. Just click on **Help → Keyboard Shortcuts** in the menu bar.
+A comprehensive list of NetNewsWire’s keyboard shortcuts is always accessible to you in NetNewsWire. Just choose **Help → Keyboard Shortcuts** in the menu bar.
 
-The list opens in a separate window which you can leave open to remind you of the keys to press. *You’ll be a NetNewsWire keyboard magician in no time.*
+The list opens in a separate window. You could even leave it open to remind you of the keys to press. *You’ll be a NetNewsWire keyboard magician in no time.*
 
 
 ### Do I need to use the Command key?
 
-No, the Command (⌘) key isn’t required for these advanced keyboard shortcuts – just press the key by itself. 
+No, the Command (⌘) key isn’t required for these advanced keyboard shortcuts – just press the key by itself. Some have alternatives using the Command key, though.
 
 
 NetNewsWire’s keyboard shortcuts
 --------------------------------
 
-Many of NetNewsWire’s shortcuts work from anywhere in the app. Others only work when a certain pane is active and highlighted.
+Many keyboard shortcuts work everywhere in the app, no matter where you last clicked and what’s in focus and selected.
 
-<!-- From in-app shortcut page -->
-<table>
-    <tr><th>Everywhere in NetNewsWire</th></tr>
-       <tr><td>Scroll or go to next unread</td>             <td>space</td></tr>
-       <tr><td>Go to next unread</td>                       <td>n or +</td></tr>
-       <tr><td>Mark as read</td>                            <td>r</td></tr>
-       <tr><td>Mark all as read</td>                        <td>k</td></tr>
-       <tr><td>Mark older articles as read</td>             <td>o</td></tr>
-       <tr><td>Mark all as read, go to next unread</td>     <td>l</td></tr>
-       <tr><td>Mark as unread, go to next unread</td>       <td>m</td></tr>
-       <tr><td>Mark as unread</td>                          <td>u</td></tr>
-       <tr><td>Open in browser</td>                         <td>b or &#9166; or Enter</td></tr>
-       <tr><td>Previous subscription</td>                   <td>a</td></tr>
-       <tr><td>Next subscription</td>                       <td>z</td></tr>
-    <tr><th>Feed list (left pane)</th></tr>
-       <tr><td>Collapse</td>                                <td>, or &#8997;+&larr;</td></tr>
-       <tr><td>Expand</td>                                  <td>. or &#8997;+&rarr;</td></tr>
-       <tr><td>Collapse All (except for group items)</td>   <td>; or &#8997;+&#8984;+&larr;</td></tr>
-       <tr><td>Expand All</td>                              <td>' or &#8997;+&#8984;+&rarr;</td></tr>
-       <tr><td>Move focus to headlines</td>                 <td>&rarr;</td></tr>
-    <tr><th>Article list timeline (centre pane)</th></tr>
-       <tr><td>Move focus to subscriptions</td>             <td>&larr;</td></tr>
-	   <tr><td>Move focus to detail</td>                    <td>&rarr;</td></tr>
-	<tr><th>Article reader (right pane)</th></tr>
-	   <tr><td>Move focus to headlines</td>                 <td>&larr;</td></tr>
+
+<table class="keyboard-shortcuts">
+	<thead>
+		<tr>
+			<th colspan="2"> Everywhere in NetNewsWire </th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td> Scroll or go to next unread </td>
+			<td> <strong> space </strong> </td>
+		</tr>
+		<tr>
+			<td> Go to next unread </td>
+			<td> <strong> n </strong> <em>or</em>
+			     <strong> + </strong>
+			</td>
+		</tr>
+		<tr>
+			<td> Toggle read status </td>
+			<td> <strong> r </strong> <em>or</em>
+			     <strong> u </strong>
+			</td>
+		</tr>
+		<tr>
+			<td> Mark all as read </td>
+			<td> <strong> k </strong> </td>
+		</tr>
+		<tr>
+			<td> Mark older articles as read </td>
+			<td> <strong> o </strong> </td>
+		</tr>
+		<tr>
+			<td> Mark all as read, go to next unread </td>
+			<td> <strong> l </strong> </td>
+		</tr>
+		<tr>
+			<td> Mark as unread, go to next unread </td>
+			<td> <strong> m </strong> </td>
+		</tr>
+		<tr>
+			<td> Mark as unread </td>
+			<td> <strong> u </strong> </td>
+		</tr>
+		<tr>
+			<td> Toggle starred status </td>
+			<td> <strong> s </strong> </td>
+		</tr>
+		<tr>
+			<td> Open in browser </td>
+			<td> <strong> b     </strong> <em>or</em>
+			     <strong> ⏎    </strong> <em>or</em>
+			     <strong> Enter </strong>
+			</td>
+		</tr>
+		<tr>
+			<td> Previous subscription </td>
+			<td> <strong> a </strong> </td>
+		</tr>
+		<tr>
+			<td> Next subscription </td>
+			<td> <strong> z </strong> </td>
+		</tr>
+	</tbody>
+</table>
+
+The following shortcuts only apply depending on the current focus (where your current selection is, or the area where you last clicked).
+
+<table class="keyboard-shortcuts">
+	<thead>
+		<tr>
+			<th colspan="2"> Feed list </th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td> Collapse </td>
+			<td><strong> ,   </strong> <em>or</em>
+			    <strong> ⌥← </strong>
+			</td>
+		</tr>
+		<tr>
+			<td> Expand </td>
+			<td><strong> .   </strong> <em>or</em>
+			    <strong> ⌥→ </strong>
+			</td>
+		</tr>
+		<tr>
+			<td> Collapse All (except for group items) </td>
+			<td><strong> ;     </strong> <em>or</em>
+			    <strong> ⌥⌘← </strong>
+			</td>
+		</tr>
+		<tr>
+			<td> Expand All </td>
+			<td><strong> '     </strong> <em>or</em>
+			    <strong> ⌥⌘→ </strong>
+			</td>
+		</tr>
+		<tr>
+			<td> Move focus to headlines </td>
+			<td> <strong> → </strong> </td>
+		</tr>
+	</tbody>
+</table>
+
+<table class="keyboard-shortcuts">
+	<thead>
+		<tr>
+			<th colspan="2"> Article list timeline </th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td> Move focus to subscriptions </td>
+			<td> <strong> ← </strong> </td>
+		</tr>
+		<tr>
+			<td> Move focus to detail </td>
+			<td> <strong> → </strong> </td>
+		</tr>
+	</tbody>
+</table>
+
+<table class="keyboard-shortcuts">
+	<thead>
+		<tr>
+			<th colspan="2"> Article detail </th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td> Move focus to article list timeline </td>
+			<td> <strong> ← </strong> </td>
+		</tr>
+	</tbody>
 </table>

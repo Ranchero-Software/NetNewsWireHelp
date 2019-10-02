@@ -27,7 +27,7 @@ If you change your mind later, you can switch update checking on or off in the A
 Manually checking for updates
 -----------------------------
 
-You may have declined automatic checks for updates or just [read about a great new update](netnewswire-news) you want to download immediately. You can always check for updates manually by choosing **NetNewsWire → Check for Updates…** from the menu bar.
+You may have declined automatic checks for updates or just [read about a great new update](netnewswire-news) you want to download immediately. You can always check for updates manually by choosing **NetNewsWire** → **Check for Updates…** from the menu bar.
 
 If a new update is found, NetNewsWire can download and install it for you.
 
@@ -47,7 +47,7 @@ If you want to help test new features, or just want to be at the bleeding edge, 
 You can report bugs and enhancement requests by filing issues on the [NetNewsWire GitHub page][nnw-issues]. You can also share and discuss issues on the [NetNewsWire Slack][slack] group.
 
 [nnw-issues]: https://github.com/brentsimmons/NetNewsWire/issues
-[slack]: https://netnewswire.slack.com/join/shared_invite/enQtNjM4MDA1MjQzMDkzLTNlNjBhOWVhYzdhYjA4ZWFhMzQ1MTUxYjU0NTE5ZGY0YzYwZWJhNjYwNTNmNTg2NjIwYWY4YzhlYzk5NmU3ZTc
+[slack]: https://ranchero.com/netnewswire/slack
 
 
 Privacy

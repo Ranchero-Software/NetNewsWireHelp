@@ -21,7 +21,7 @@ The Unread smart feed is simple – it shows you any article that’s unread.
 
 *You don’t have to read everything!*
 
-You can use the Unread smart feed to quickly clear out all old unread articles. Choose **Article → Mark All as Read** if you’re ever feeling stressed about ‘catching up’ on your reading.
+You can use the Unread smart feed to quickly clear out all old unread articles. Choose **Article** → **Mark All as Read** (⌘K) if you’re ever feeling stressed about “catching up” on your reading.
 
 
 Starred

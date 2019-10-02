@@ -21,7 +21,7 @@ If you’re using NetNewsWire 5.0.1 or newer, you can [change the Dock bage sett
 Use a traditional window title bar
 ----------------------------------
 
-You can choose to use an expanded title bar which displays *NetNewsWire*. (This preference also enables the ‘Text and Icon’ option for toolbar buttons.) Enter this command:
+You can choose to use an expanded title bar which displays *NetNewsWire*. (This preference also enables the “Text and Icon” option for toolbar buttons.) Enter this command:
 
 	defaults write com.ranchero.NetNewsWire-Evergreen KafasisTitleMode -bool YES
 

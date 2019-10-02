@@ -18,5 +18,5 @@ You can make feature requests and add bug reports to our [bug tracker on GitHub]
 
 [faq]: https://ranchero.com/netnewswire/frequently-asked-questions
 [tn]: https://github.com/brentsimmons/NetNewsWire/tree/master/Technotes
-[slack]: https://netnewswire.slack.com/join/shared_invite/enQtNjM4MDA1MjQzMDkzLTNlNjBhOWVhYzdhYjA4ZWFhMzQ1MTUxYjU0NTE5ZGY0YzYwZWJhNjYwNTNmNTg2NjIwYWY4YzhlYzk5NmU3ZTc
+[slack]: https://ranchero.com/netnewswire/slack
 [gh]: https://github.com/brentsimmons/NetNewsWire/issues

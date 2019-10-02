@@ -7,7 +7,7 @@ First you need to get an OPML file. This should be pretty easy – look for expo
 
 Once you’ve got the OPML file, NetNewsWire can make quick work of importing the items within.
 
-1. From the menu bar, choose **File → Import Subscriptions…**
+1. From the menu bar, choose **File** → **Import Subscriptions…**
 2. If you have multiple accounts, select which account will receive the new subscriptions
 3. Navigate to the OPML file’s location
 4. Select it and click **Open**

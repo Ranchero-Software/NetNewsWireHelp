@@ -13,8 +13,8 @@ However, if you leave unread items between visits to NetNewsWire, the badge can 
 Choose **NetNewsWire** → **Preferences** and uncheck **Show unread count**.
 
 <img src="../../../images/mac-en-prefs_general_dock_badge.png"
-     alt="A screenshot of NetNewsWire’s General preferences, highlighting the checkbox for ‘Show unread count’."
+     alt="A screenshot of NetNewsWire’s General preferences, highlighting the checkbox for “Show unread count”."
      class="centeredImage"
      width="75%" />
 
-Nonetheless, we advocate liberal use of ‘Mark as Read’ — you don’t have to read everything!
+Nonetheless, we advocate liberal use of *Mark as Read* — you don’t have to read everything!

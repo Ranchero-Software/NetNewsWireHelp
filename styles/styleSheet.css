@@ -80,7 +80,7 @@ th, caption {
 
 table.keyboard-shortcuts {
 	width: 80%;
-	margin: 0 auto;
+	margin: 0 auto 2em auto;
 	-webkit-border-horizontal-spacing: 0;
 	-webkit-border-vertical-spacing: 0;
 }

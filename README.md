@@ -12,7 +12,7 @@ If you’d like to write or edit the Help book, translate into another language 
 
 Every community member is expected to abide by the code of conduct included in the [NetNewsWire Contributing][contrib] page.
 
-[slack]: https://netnewswire.slack.com/join/shared_invite/enQtNjM4MDA1MjQzMDkzLTNlNjBhOWVhYzdhYjA4ZWFhMzQ1MTUxYjU0NTE5ZGY0YzYwZWJhNjYwNTNmNTg2NjIwYWY4YzhlYzk5NmU3ZTc
+[slack]: https://ranchero.com/netnewswire/slack
 [contrib]: https://github.com/brentsimmons/NetNewsWire/blob/master/CONTRIBUTING.md
 
 
@@ -73,7 +73,7 @@ You can use the standard Markdown syntax for images:
 But for better control, it’s best to just use HTML.
 
 	<img src="../../../images/mac-en-share_menu_more_selected.png"
-    	alt="A screenshot of the macOS Share menu showing the ‘More…’ item highlighted."
+    	alt="A screenshot of the macOS Share menu showing the “More…” item highlighted."
     	class="centeredImage"
     	width="33%" />
 
@@ -89,7 +89,7 @@ Style suggestions
 
 In the English Help Book, we use **strong/bold** text for actions (keys to press, menu items to open) taken by the user:
 
-> Choose **File → Quit** from the menu bar to quit the app.
+> Choose **File** → **Quit** from the menu bar to quit the app.
 
 As much as possible, we follow the [Apple Style Guide][asg].
 
