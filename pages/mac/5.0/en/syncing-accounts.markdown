@@ -20,7 +20,7 @@ To add a syncing account to NetNewsWire, start by opening NetNewsWire Preference
 
 NetNewsWire will then add the account and sync your feeds.
 
-You can find the sync account feeds in the NetNewsWire sidebar, after Smart Feeds and any On My Mac feeds.
+You can find the sync account feeds in the NetNewsWire sidebar, under Smart Feeds and any On My Mac feeds.
 
 
 Changing synced account information

@@ -33,6 +33,6 @@ Disabling the On My Mac account can be done in NetNewsWire’s preferences.
 
 1. Open the NetNewsWire preferences by choosing **NetNewsWire** → **Preferences…** (⌘,)
 2. Click on **Accounts** and choose **On My Mac**
-3. Deselect the **Active** checkbox
+3. Uncheck the **Active** checkbox
 
 You’ll no longer see the On My Mac account in the NetNewsWire sidebar.

@@ -12,4 +12,4 @@ Once you’ve got the OPML file, NetNewsWire can make quick work of importing th
 3. Navigate to the OPML file’s location
 4. Select it and click **Open**
 
-NetNewsWire won’t replace your current subscription list. The new subscriptions will be added in addition to your current ones.
+*This won’t replace your current subscription list.* The new subscriptions will be added to your current list of feeds.

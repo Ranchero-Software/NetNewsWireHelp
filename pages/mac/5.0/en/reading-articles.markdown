@@ -3,7 +3,7 @@
 
 NetNewsWire was built to make it easy to read your articles one-handed. This is perfect for when your other hand is occupied with a warm drink or an insistent furry friend.
 
-One-handed reading is accomplished with keyboard shortcuts. NetNewsWire’s shortcuts are special because they only require pressing *a single key*.
+One-handed reading can be accomplished with keyboard shortcuts. NetNewsWire’s shortcuts are special because many only require pressing *a single key*.
 
 (For a full list of keyboard shortcuts, including Command (⌘) key alternatives, see the [Keyboard Shortcuts](keyboard-shortcuts) help page, or use **Help** → **Keyboard Shortcuts** in NetNewsWire.)
 
@@ -29,14 +29,17 @@ Moving around lists
 
 You may not always want to read linearly – imagine there’s a new article on [Julia Evans’](https://jvns.ca) site you want to read first. You still don’t need to leave the keyboard.
 
-Pressing the left and right arrow keys will move you between the three panes in the NetNewsWire interface. Those panes are, from the left, the subscriptions list (sidebar), articles list timeline (centre pane) and the full article detail pane (right). The selected item’s highlight color gives you a hint to which pane is active.
+Pressing the Left and Right Arrow keys will move you between the three panes in the NetNewsWire interface. Those panes are, from the left, the subscriptions list (left sidebar), articles list timeline (center pane) and the full article detail pane (right). The selected item’s highlight color gives you a hint to which pane is active.
 
-In the subscription and article lists, the up and down arrow keys will change the currently selected item.
+In the subscription and article lists, the Up and Down Arrow keys will change the currently selected item.
 
 
 Marking as read or unread
 -------------------------
 
 As you zip through the NetNewsWire interface, you may want to mark an article as read or unread. The easiest way to do this is use either the **r** or **u** key – they both toggle between read and unread.
+
+…and more!
+----------
 
 Again, see the [Keyboard Shortcuts](keyboard-shortcuts) help page or **Help** → **Keyboard Shortcuts** in NetNewsWire for a full list of keyboard shortcuts.

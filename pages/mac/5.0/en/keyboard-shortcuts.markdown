@@ -3,20 +3,20 @@
 
 NetNewsWire’s interface is easily navigable using keyboard shortcuts.
 
-The most useful shortcuts are for reading articles: **space** to scroll articles and jump to the next unread one, or **n** to jump immediately to the next unread article. There’s also **b** to open the article in your browser (the **Return** or **Enter** keys work too).
+The most useful shortcuts are for reading articles: **space** to scroll articles and jump to the next unread one, or **n** to jump immediately to the next unread article. There’s also **b** to open the article in your browser, but the **Return** or **Enter** keys work too.
 
 
 In-app list of keyboard shortcuts
 ---------------------------------
 
-A comprehensive list of NetNewsWire’s keyboard shortcuts is always accessible to you in NetNewsWire. Just choose **Help → Keyboard Shortcuts** in the menu bar.
+A comprehensive list of NetNewsWire’s keyboard shortcuts is always accessible to you in NetNewsWire. Just choose **Help** → **Keyboard Shortcuts** in the menu bar.
 
 The list opens in a separate window. You could even leave it open to remind you of the keys to press. *You’ll be a NetNewsWire keyboard magician in no time.*
 
 
 ### Do I need to use the Command key?
 
-No, the Command (⌘) key isn’t required for these advanced keyboard shortcuts – just press the key by itself. Some have alternatives using the Command key, though.
+No, the Command (⌘) key isn’t used for these keyboard shortcuts – just press the key by itself. Some have alternatives using the Command key, though.
 
 
 NetNewsWire’s keyboard shortcuts
@@ -98,25 +98,25 @@ The following shortcuts only apply depending on the current focus (where your cu
 		<tr>
 			<td> Collapse </td>
 			<td><strong> ,   </strong> <em>or</em>
-			    <strong> ⌥← </strong>
+			    <strong> ⌥ ← </strong>
 			</td>
 		</tr>
 		<tr>
 			<td> Expand </td>
 			<td><strong> .   </strong> <em>or</em>
-			    <strong> ⌥→ </strong>
+			    <strong> ⌥ → </strong>
 			</td>
 		</tr>
 		<tr>
 			<td> Collapse All (except for group items) </td>
 			<td><strong> ;     </strong> <em>or</em>
-			    <strong> ⌥⌘← </strong>
+			    <strong> ⌥⌘ ← </strong>
 			</td>
 		</tr>
 		<tr>
 			<td> Expand All </td>
 			<td><strong> '     </strong> <em>or</em>
-			    <strong> ⌥⌘→ </strong>
+			    <strong> ⌥⌘ → </strong>
 			</td>
 		</tr>
 		<tr>
@@ -157,3 +157,5 @@ The following shortcuts only apply depending on the current focus (where your cu
 		</tr>
 	</tbody>
 </table>
+
+*The* ← *and* → *symbols are the Left and Right Arrow keys on your keyboard.*

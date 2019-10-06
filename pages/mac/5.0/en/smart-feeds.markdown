@@ -7,7 +7,7 @@ NetNewsWire has *Smart Feeds*, collections of articles built from your subscript
 Today
 -----
 
-The Today smart feed will show you articles published in the past day.
+The Today smart feed will show you articles published in the past day. It’s not strictly “today”, but the past 24 hours or so.
 
 This feed is a great for scanning. You can look through the article titles, images and previews to look for something you definitely want to read.
 
@@ -30,7 +30,7 @@ Starred
 Any article you mark as *Starred* will appear in this list. Stars can mean anything you want, but some common uses are:
 
 - an article to read later
-- something you really liked and might read again
+- something you liked and might read again
 - inspiration for your own future blog (or microblog) post
 
 

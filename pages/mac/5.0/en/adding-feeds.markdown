@@ -1,13 +1,15 @@
 @title How to add a feed to NetNewsWire
 @template nnw5mac_en.html
 
-NetNewsWire collects items for you from feeds published on web sites. To do this, NetNewsWire needs to know the address for the feed. For example: `https://cate.blog/feed/`
+NetNewsWire collects items for you from feeds published on web sites. To do this, NetNewsWire needs to know the address for the feed. For example: `https://jvns.ca/atom.xml` or `https://cate.blog/feed/`
 
-*It’s okay if you don’t know that.* NetNewsWire will look at any web page and try to find it for you. All you need to give is the site’s URL, like `cate.blog`. (Entering `http://` or `https://` isn’t necessary.)
+*It’s okay if you don’t know that.*
 
-To get started, click the Add Feed button on the toolbar, or use **File** → **New Feed** (⌘N) from the menu bar.
+NetNewsWire will look at any web page and try to find the feed’s address for you. All you need to give is the site’s URL, like `jvns.ca` or `cate.blog`. You don’t even need to enter `http://` or `https://` there.
 
-If you’ve got the address already – great! Type it or paste it into the URL box. Otherwise, just enter the website’s address into the box. 
+To get started, click the New Feed button on the toolbar, or choose **File** → **New Feed** (⌘N) from the menu bar.
+
+If you’ve got the address already – great! If NetNewsWire sees something like a URL on the Clipboard, it’ll enter it for you. Otherwise, just type the website’s address into the box.
 
 Before you finish, you can choose an alternative name for the feed and where it will be stored (see below).
 
@@ -17,7 +19,7 @@ Click **Add** and NetNewsWire will fetch the URL you entered. If you entered an 
 Choosing an alternative name for a feed
 ---------------------------------------
 
-Feeds specify their own name, but you may want to change it to something shorter or easier to remember. “Cate” rather than “Accidentally in Code”, for example. You also [rename it later](renaming-feeds).
+Feeds specify their own name, but you may want to change it to something shorter or easier to remember. “Cate” rather than “Accidentally in Code”, for example. You [rename it anytime later](renaming-feeds), too.
 
 
 Choosing a feed’s folder
@@ -33,9 +35,9 @@ In either case, if you use folders, you can also choose which one keep the feed 
 What to do when NetNewsWire can’t find a feed
 ---------------------------------------------
 
-Sometimes NetNewsWire won’t be able to find a feed for a site. Either the site doesn’t offer a feed, or the feed isn’t advertised in a way that NetNewsWire can find it.
+Sometimes NetNewsWire won’t be able to find a feed for a site. Either the site doesn’t offer a feed, or the feed isn’t advertised in a way that NetNewsWire can understand.
 
-You may be able to find a feed manually by visiting the site. There, look for a link to an RSS, Atom or JSON feed. If one exists, you can add this direct URL to NetNewsWire using the process above. Right-click on the link and copy the URL to paste into NetNewsWire.
+You may be able to find a feed manually by visiting the site. There, look for a link to an RSS, Atom or JSON feed. If one exists, you can add this direct URL to NetNewsWire using the process above. Control-click on the link and copy the URL to paste into NetNewsWire.
 
 
 Other ways to add feeds

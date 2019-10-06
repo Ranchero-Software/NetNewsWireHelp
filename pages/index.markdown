@@ -3,7 +3,7 @@
 
 [NetNewsWire](https://ranchero.com/netnewswire/) is a free and open source RSS reader for Mac and iOS.
 
-So far we’ve got just one help book. It’s in progress.
+So far we’ve got just one help book.
 
 **[NetNewsWire 5 for Mac Help Book](mac/5.0/en/)** (English)
 

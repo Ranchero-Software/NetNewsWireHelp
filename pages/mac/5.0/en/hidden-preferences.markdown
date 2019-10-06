@@ -3,28 +3,28 @@
 
 NetNewsWire has very few preferences – only what’s strictly necessary.
 
-Occasionally we implement preferences for one or a few users. The features are often esoteric so they’re not included in the Preferences window. Instead they’re set using the `defaults` command, performed in Terminal.
+We may occasionally implement esoteric features. In those cases, rather than overloading the Preferences window with options most people won’t use, we make them *hidden* or *expert* preferences. They can only be changed by hand, using a Terminal command.
 
-**Before you begin, please note:**
+If you use any of these, **please note**:
 
-- You should quit NetNewsWire before running these commands
-- These commands are run using the Terminal app (or suitable replacement)
-- After pasting the `defaults` command into the Terminal window and pressing return, you will receive no feedback; restart NetNewsWire to see the changes made
+- These commands are run using the Terminal app
+- You should quit NetNewsWire before running a `defaults` command
+- After pasting the `defaults` command into the Terminal window and pressing return, you will receive no feedback – open NetNewsWire to see the changes
 
 
 Hide unread badge in Dock
 -------------------------
 
-If you’re using NetNewsWire 5.0.1 or newer, you can [change the Dock bage setting](customizing) in NetNewsWire’s Preferences window. This was a hidden preference in 5.0, but now it’s visible, and so the use of a `defaults` command is no longer necessary.
+If you’re using NetNewsWire 5.0.1 or newer, you can [change the Dock bage setting](customizing) in NetNewsWire’s Preferences window. This was a hidden preference in 5.0, but now it’s visible,  so the use of a `defaults` command is no longer necessary.
 
 
 Use a traditional window title bar
 ----------------------------------
 
-You can choose to use an expanded title bar which displays *NetNewsWire*. (This preference also enables the “Text and Icon” option for toolbar buttons.) Enter this command:
+You can use the traditional-style title bar which displays the title bar and toolbar separately. This also enables the “Icon and Text” option for toolbar buttons. Enter this command:
 
 	defaults write com.ranchero.NetNewsWire-Evergreen KafasisTitleMode -bool YES
 
-To use the typical combined title bar and toolbar appearance, enter:
+To restore the default, modern-style combined title bar and toolbar appearance, enter:
 
 	defaults write com.ranchero.NetNewsWire-Evergreen KafasisTitleMode -bool NO

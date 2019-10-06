@@ -75,9 +75,9 @@ But for better control, it’s best to just use HTML.
 	<img src="../../../images/mac-en-share_menu_more_selected.png"
     	alt="A screenshot of the macOS Share menu showing the “More…” item highlighted."
     	class="centeredImage"
-    	width="33%" />
+    	style="width: 33%;" />
 
-You can use the `centeredImage` CSS class to centre your image. You can adjust the size of your image using a relative unit (like `33%` above) or in absolute pixel units.
+You can use the `centeredImage` CSS class to centre your image. You can adjust the size of your image using a relative unit (like `33%` above). You can also specify absolute pixel units with `width` and `height` attributes in the `<img>` tag.
 
 #### Screenshots
 

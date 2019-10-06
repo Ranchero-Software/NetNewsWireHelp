@@ -1,7 +1,7 @@
 @title How to Update NetNewsWire
 @template nnw5mac_en.html
 
-NetNewsWire can check for and install updated versions of itself. This can be done for you automatically in the background or you can check for updates manually.
+NetNewsWire can check for and install updated versions of itself. This can be done for you automatically in the background, or you can check for updates manually.
 
 
 Automatic checks for updates
@@ -12,16 +12,16 @@ After you’ve used NetNewsWire a bit, it will ask if it should periodically che
 <img src="../../../images/mac-en-check_for_updates.png"
      alt="A screenshot of NetNewsWire asking if it should automatically check for updates."
      class="centeredImage"
-     width="70%" />
+     style="width: 70%;" />
 
 If you select *Check Automatically*, NetNewsWire will periodically check for updates. When an update is available, you’ll be prompted to download and install it. To check for updates manually, select *Don’t Check*.
 
-If you change your mind later, you can switch update checking on or off in the Advanced pane in NetNewsWire’s preferences.
+If you change your mind later, you can switch update checking on or off in the *Advanced* pane of NetNewsWire’s preferences.
 
 <img src="../../../images/mac-en-prefs_advanced_autocheck.png"
      alt="A screenshot of NetNewsWire’s Advanced preferences pane, highlighting the app update checking preference."
      class="centeredImage"
-     width="70%" />
+     style="width: 70%;" />
 
 
 Manually checking for updates
@@ -40,7 +40,7 @@ If you want to help test new features, or just want to be at the bleeding edge, 
 <img src="../../../images/mac-en-prefs_advanced_check_for.png"
      alt="A screenshot of NetNewsWire’s Advanced preferences pane, highlighting the option to download release builds or test builds of NetNewsWire."
      class="centeredImage"
-     width="70%" />
+     style="width: 70%;" />
 
 **If you use test builds, please note:** Test builds may have bugs. You may lose data. NetNewsWire may crash.
 

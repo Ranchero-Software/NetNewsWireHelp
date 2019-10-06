@@ -58,9 +58,11 @@ You’ll need to know the word which corresponds to an emoji, so consult the [Di
 
 Meow!
 
-***
 
-All the details of Micro.blog’s feeds are available at their [feeds help page][mb-feeds].
+All the details
+---------------
+
+Full documentation of Micro.blog’s feeds are available at their [feeds help page][mb-feeds].
 
 
 [d]: https://micro.blog/discover

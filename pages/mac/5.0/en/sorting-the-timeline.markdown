@@ -6,7 +6,7 @@ The NetNewsWire timeline is the list of articles shown in the center pane.
 <img src="../../../images/mac-en-main_window_timeline.png"
      alt="A screenshot of the NetNewsWire window calling out the timeline in the middle of the window."
      class="centeredImage"
-     width="90%" />
+     style="width: 90%;" />
 
 By default, this list displays newer articles at the top.
 
