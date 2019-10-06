@@ -15,7 +15,7 @@ If you use any of these, **please note**:
 Hide unread badge in Dock
 -------------------------
 
-If you’re using NetNewsWire 5.0.1 or newer, you can [change the Dock bage setting](customizing) in NetNewsWire’s Preferences window. This was a hidden preference in 5.0, but now it’s visible,  so the use of a `defaults` command is no longer necessary.
+If you’re using NetNewsWire 5.0.1 or newer, you can [change the Dock bage setting](customizing) in NetNewsWire’s Preferences window. This was a hidden preference in 5.0, but now it’s visible, so the use of a `defaults` command is no longer necessary.
 
 
 Use a traditional window title bar

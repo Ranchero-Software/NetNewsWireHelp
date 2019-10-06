@@ -19,7 +19,7 @@ Click **Add** and NetNewsWire will fetch the URL you entered. If you entered an 
 Choosing an alternative name for a feed
 ---------------------------------------
 
-Feeds specify their own name, but you may want to change it to something shorter or easier to remember. “Cate” rather than “Accidentally in Code”, for example. You [rename it anytime later](renaming-feeds), too.
+Feeds specify their own name, but you may want to change it to something shorter or easier to remember. “Cate” rather than “Accidentally in Code”, for example. You can [rename it anytime later](renaming-feeds), too.
 
 
 Choosing a feed’s folder
