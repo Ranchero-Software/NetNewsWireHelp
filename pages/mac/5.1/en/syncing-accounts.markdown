@@ -13,7 +13,7 @@ Adding a syncing account to NetNewsWire
 
 To add a syncing account to NetNewsWire, start by opening NetNewsWire Preferences.
 
-1. Choose **NetNewsWire** → **Preferences…** (⌘,) from the menu bar
+1. Choose **NetNewsWire › Preferences…** (⌘,) from the menu bar
 2. Select **Accounts**
 3. Click the **+** button or select your service from the list
 4. Enter the email or username and password for your account and click **Create**
@@ -35,7 +35,7 @@ The name of your sync account will be the name of the service by default. You ca
 
 If you change any information for logging into the sync account – user name, email address, password – you may need to update the credentials stored in NetNewsWire.
 
-1. Choose **NetNewsWire** → **Preferences…** (⌘,) from the menu bar
+1. Choose **NetNewsWire › Preferences…** (⌘,) from the menu bar
 2. Select **Accounts**
 3. Select your account from the list
 4. Click the **Credentials** button and enter your updated login information

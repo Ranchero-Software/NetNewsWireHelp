@@ -15,6 +15,23 @@ a { text-decoration: none; }
 a:link { color: #086aee; }
 a:visited { color: rgba(110, 153, 139, 1.0); }
 
+header
+{
+	line-height: 2em;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	text-align: center;
+	font-size: 24px;
+	font-weight: bold;
+	background-color: rgba(0, 0, 0, 0.8);
+}
+
+header a:link, header a:visited
+{
+	color: rgba(255, 255, 255, 1.0);
+	text-decoration: none;
+}
+
 h1, h2, h3, h4, h5, h6 { color: #333; }
 
 h1
@@ -39,28 +56,51 @@ h4
 	color: #444;
 }
 
+/** B A D G E S **/
+span.badge-warning,
+span.badge-warning-small,
+span.badge-note,
+span.badge-note-small,
+span.badge-distro,
+span.badge-distro-small {
+	padding: 0.2em 0.5em;
+	font-weight: bold;
+	border: 2px solid;
+	border-radius: 6px;
+}
+
+span.badge-warning,
+span.badge-warning-small {
+	background-color: #FFCA00;
+	border-color: #F1A100;
+	color: black;
+}
+
+span.badge-note,
+span.badge-note-small {
+	background-color: #00AF88;
+	border-color: #008C6D;
+	color: white;
+}
+
+span.badge-distro,
+span.badge-distro-small {
+	background-color: #3170DC;
+	border-color: #1E49AF;
+	color: white;
+}
+
+span.badge-warning-small,
+span.badge-note-small,
+span.badge-distro-small {
+	font-size: 1rem;
+}
+
 .centeredImage
 {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-}
-
-header
-{
-	line-height: 2em;
-	padding-top: 8px;
-	padding-bottom: 8px;
-	text-align: center;
-	font-size: 24px;
-	font-weight: bold;
-	background-color: rgba(0, 0, 0, 0.8);
-}
-
-header a:link, header a:visited
-{
-	color: rgba(255, 255, 255, 1.0);
-	text-decoration: none;
 }
 
 main

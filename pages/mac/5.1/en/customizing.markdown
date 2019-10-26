@@ -10,7 +10,7 @@ NetNewsWire shows a red badge on its icon whenever you’ve got unread items. If
 
 However, if you leave unread items between visits to NetNewsWire, the badge can become distracting, less meaningful, or even stressful. You may find that turning it off is helpful.
 
-Choose **NetNewsWire** → **Preferences** and unselect **Show unread count**.
+Choose **NetNewsWire › Preferences** and unselect **Show unread count**.
 
 <img src="../../../images/mac-en-prefs_general_dock_badge.png"
      alt="A screenshot of NetNewsWire’s General preferences, highlighting the checkbox for “Show unread count”."

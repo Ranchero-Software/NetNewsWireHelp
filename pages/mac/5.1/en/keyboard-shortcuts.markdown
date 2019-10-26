@@ -9,7 +9,7 @@ The most useful shortcuts are for reading articles: **space** to scroll articles
 In-app list of keyboard shortcuts
 ---------------------------------
 
-A comprehensive list of NetNewsWire’s keyboard shortcuts is always accessible to you in NetNewsWire. Just choose **Help** → **Keyboard Shortcuts** in the menu bar.
+A comprehensive list of NetNewsWire’s keyboard shortcuts is always accessible to you in NetNewsWire. Just choose **Help › Keyboard Shortcuts** in the menu bar.
 
 The list opens in a separate window. You could even leave it open to remind you of the keys to press. *You’ll be a NetNewsWire keyboard magician in no time.*
 

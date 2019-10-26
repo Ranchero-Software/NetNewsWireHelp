@@ -26,7 +26,7 @@ Your NetNewsWire preferences file is called `com.ranchero.NetNewsWire-Evergreen.
 
 ### Can’t find the Library folder?
 
-If you can’t see the Library folder in the Finder, you can open it by holding down the Option (⌥) key and choosing **Go** → **Library**. For more information, see the [Library folder][lib] note in the macOS Documentation.
+If you can’t see the Library folder in the Finder, you can open it by holding down the Option (⌥) key and choosing **Go › Library**. For more information, see the [Library folder][lib] note in the macOS Documentation.
 
 [lib]: https://support.apple.com/en-gb/guide/mac-help/aside/mh35934/10.14/mac/10.14 "Library folder - Apple Support"
 

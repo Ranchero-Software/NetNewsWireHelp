@@ -7,7 +7,7 @@ NetNewsWire collects items for you from feeds published on web sites. To do this
 
 NetNewsWire will look at any web page and try to find the feed’s address for you. All you need to give is the site’s URL, like `jvns.ca` or `cate.blog`. You don’t even need to enter `http://` or `https://` there.
 
-To get started, click the New Feed button on the toolbar, or choose **File** → **New Feed** (⌘N) from the menu bar.
+To get started, click the New Feed button on the toolbar, or choose **File › New Feed** (⌘N) from the menu bar.
 
 If you’ve got the address already – great! If NetNewsWire sees something like a URL on the Clipboard, it’ll enter it for you. Otherwise, just type the website’s address into the box.
 

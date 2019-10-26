@@ -6,7 +6,7 @@ NetNewsWire is open-source and contributions from the community are welcomed.
 There are two channels for contributing:
 
 * For discussing the app and work around it, we use a [Slack group][slack]
-* For filing tickets, and contributing code or documentation, we use [GitHub][nnw-git].
+* For filing tickets, and contributing code or documentation, we use [GitHub][nnw-git]
 
 Every community member is expected to abide by the code of conduct included in the [NetNewsWire Contributing][contrib] page.
 

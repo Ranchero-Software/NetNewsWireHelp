@@ -5,7 +5,7 @@ Your subscription list is portable, meaning you can easily switch to another app
 
 This file is saved in the OPML format. It’s a widely supported *open* format that’s effectively the standard for sharing feed subscription lists.
 
-1. From the menu bar, choose **File** → **Export Subscriptions…**
+1. From the menu bar, choose **File › Export Subscriptions…**
 2. If you have multiple accounts, select which account’s subscriptions will be exported
 3. Choose the name and location for the OPML file
 4. Click **Export OPML**

@@ -89,7 +89,7 @@ Style suggestions
 
 In the English Help Book, we use **strong/bold** text for actions (keys to press, menu items to open) taken by the user:
 
-> Choose **File** → **Quit** from the menu bar to quit the app.
+> Choose **File › Quit** from the menu bar to quit the app.
 
 As much as possible, we follow the [Apple Style Guide][asg].
 
