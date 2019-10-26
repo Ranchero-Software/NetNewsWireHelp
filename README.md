@@ -44,9 +44,35 @@ Links are made using standard Markdown syntax but when linking to another Help B
 is sufficient to link to the final HTML version of the `export-opml.markdown` page.
 
 
+### Badges
+
+There are three styles of badges (and associated small sized versions) you can use in pages where needed. You should use `&nbsp;` instead of spaces so that the badges don’t break and wrap.
+
+#### Warnings
+
+<span style="padding: 0.2em 0.5em;font-weight: bold;border: 2px solid #F1A100;border-radius: 6px;background-color: #FFCA00;color: black;">iOS&nbsp;and&nbsp;iPadOS Only</span>
+
+This is produced using the `badge-warning` style.
+
+There’s also an inline `badge-warning-small` style: <span style="padding: 0.2em 0.5em;font-weight: bold;border: 2px solid #F1A100;border-radius: 6px;background-color: #FFCA00;color: black;font-size:1rem;">iOS&nbsp;and&nbsp;iPadOS Only</span>
+
+<span style="padding: 0.2em 0.5em;font-weight: bold;border: 2px solid #008C6D;border-radius: 6px;background-color: #00AF88;color: white;">New&nbsp;in&nbsp;5.1</span>
+
+This is produced using the `badge-note` style.
+
+There’s also an inline `badge-note-small` style: <span style="padding: 0.2em 0.5em;font-weight: bold;border: 2px solid #008C6D;border-radius: 6px;background-color: #00AF88;color: white;font-size: 1rem;">New&nbsp;in&nbsp;5.1</span>
+
+<span style="padding: 0.2em 0.5em;font-weight: bold;border: 2px solid #1E49AF;border-radius: 6px;background-color: #3170DC;color: white;">Mac&nbsp;App&nbsp;Store&nbsp;version</span>
+
+This is produced using the `badge-distro` style.
+
+There’s also an inline `badge-distro-small` style: <span style="padding: 0.2em 0.5em;font-weight: bold;border: 2px solid #1E49AF;border-radius: 6px;background-color: #3170DC;color: white;font-size: 1rem;">Mac&nbsp;App&nbsp;Store&nbsp;version</span>
+
+
 ### Images
 
-#### Save Location
+
+#### Save Location for images
 
 Put images in the `images` folder at the root of the project.
 
@@ -54,13 +80,15 @@ When linking to images, use a relative path. For example, use:
 
 	../../../images/linked-image.png
 
-when you’re linking from a page at `mac/5.0/en/page.markdown`.
+when you’re linking from a page at `mac/5.1/en/page.markdown`.
 
-#### File Name
+
+#### How to name images
 
 Because all images are saved in a single directory, it’s best to name files so they’re easy to identify. For example:
 
 	mac-en-check_for_updates.png
+
 
 #### Using images in pages
 
@@ -79,9 +107,11 @@ But for better control, it’s best to just use HTML.
 
 You can use the `centeredImage` CSS class to centre your image. You can adjust the size of your image using a relative unit (like `33%` above). You can also specify absolute pixel units with `width` and `height` attributes in the `<img>` tag.
 
+
 #### Screenshots
 
 Screenshots must be taken on a retina device. We’ll use retina images even for non-retina machines (rather than doing double the number of screenshots). It’s fine.
+
 
 
 Style suggestions
@@ -94,6 +124,7 @@ In the English Help Book, we use **strong/bold** text for actions (keys to press
 As much as possible, we follow the [Apple Style Guide][asg].
 
 [asg]: https://books.apple.com/jp/book/apple-style-guide/id1161855204?l=en "Apple Style Guide on Apple Books"
+
 
 
 Building locally
@@ -112,6 +143,7 @@ You’ll need Wildcat, as previously mentioned. At the top level of this folder 
 Change `@output_folder` to whatever makes sense on your machine.
 
 Note: this doesn’t build a truly self-contained website. We’d like to make that possible in the future. But at this writing (11 Aug. 2019) the higher priority is shipping NetNewsWire 5.0. :)
+
 
 ### Previewing in BBEdit
 
