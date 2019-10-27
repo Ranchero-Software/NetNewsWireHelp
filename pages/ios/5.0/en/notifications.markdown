@@ -15,7 +15,7 @@ This feature works for individual feeds, so you don’t have to turn it on for e
 ## To turn on notifications for a feed
 
 1. From the Feeds screen, **touch and hold on the feed**
-2. Choose **Get Info**
+2. Choose **Get Info** from the contextual menu
 3. Turn on **Notify About New Articles**
 4. Tap **Done**
 
