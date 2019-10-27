@@ -10,7 +10,7 @@ Work in progress key
 
 ░     work has yet to begin
 ░▒    in progress
-░▒▓   writing believed to be complete, needs revising
+░▒▓   writing believed to be complete, needs final editing
 ░▒▓█  complete
 
   ✶   review for suitability
@@ -21,7 +21,7 @@ Work in progress key
 Getting Started
 ---------------
 
-[What is RSS? What are feeds?](what-is-rss) <!--░▒▓-->
+[What is RSS? What are feeds?](what-is-rss) <!--░▒▓█-->
 
 
 Reading Feeds
@@ -29,15 +29,15 @@ Reading Feeds
 
 [How to go through your articles](reading-articles) <!--░-->
 
-[How to sort the timeline](sorting-the-timeline) <!--░-->
+[How to sort the timeline](sorting-the-timeline) <!--░▒▓-->
 
-[Smart feeds: Today, All Unread, Starred](smart-feeds) <!--░▒▓-->
+[Smart feeds: Today, All Unread, Starred](smart-feeds) <!--░▒▓█-->
 
 [Keyboard shortcuts](keyboard-shortcuts) <!-- ✶ on iPad? -->
 
 [Sharing to other apps, including MarsEdit and Micro.blog](sharing-articles) <!--░-->
 
-[Be notified of new articles](notifications) <!--░-->
+[Be notified of new articles](notifications) <!--░▒▓-->
 
 
 Managing Feeds
@@ -45,9 +45,9 @@ Managing Feeds
 
 [How to add a feed](adding-feeds) <!--░-->
 
-[Installing and using the Safari Extension to add feeds](safari-extension)  <!-- ✶ will there be one? -->
+[Enabling and using the Share Extension to add feeds](share-extension) <!--░-->
 
-[How to delete feeds and folders](deleting-feeds-folders) <!--░-->
+[How to delete feeds and folders](deleting-feeds-folders) <!--░▒▓-->
 
 [How to add special Micro.blog feeds](micro-blog-feeds) <!--░-->
 
@@ -79,17 +79,17 @@ NetNewsWire Data
 Need more help?
 ---------------
 
-[Where to go for more help](getting-more-help)  <!--░▒-->
+[Where to go for more help](getting-more-help)  <!--░▒▓█-->
 
 
 
 The NetNewsWire Project
 -----------------------
 
-[How to update NetNewsWire](updating)
+[How to get NetNewsWire news](netnewswire-news)<!--░▒▓█-->
 
-[How to get NetNewsWire news](netnewswire-news)
+[NetNewsWire TestFlight program](testflight)
 
-[NetNewsWire and your privacy](privacy)
+[NetNewsWire and your privacy](privacy) <!--░▒▓█-->
 
-[How to contribute to NetNewsWire](contributing)
+[How to contribute to NetNewsWire](contributing) <!--░▒▓█-->

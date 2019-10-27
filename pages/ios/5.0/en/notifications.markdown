@@ -1,8 +1,6 @@
 @title Be notified of new articles
 @template nnw5ios_en.html
 
-# Be notified of new articles
-
 <span class="badge-warning">iOS and iPadOS Only</span>
 
 NetNewsWire for iOS and iPadOS can notify you when it gets new articles for your favorite feeds.
@@ -14,12 +12,19 @@ NetNewsWire for iOS and iPadOS can notify you when it gets new articles for your
 
 This feature works for individual feeds, so you don’t have to turn it on for everything – just those you want to see first.
 
-To get notifications for a feed:
+## To turn on notifications for a feed
 
-1. From the feed list, **touch and hold on the feed**
+1. From the Feeds screen, **touch and hold on the feed**
 2. Choose **Get Info**
 3. Turn on **Notify About New Articles**
 4. Tap **Done**
+
+
+## To turn off notifications
+
+If you no longer want to be notified of a feed’s new entries, you can turn off **Notify About New Articles** in the feed’s settings, using the same procedure.
+
+This must be done for each feed. If you don’t want any notifications *at all*, you can turn off notifications in *System Settings*.
 
 
 ## How quickly will I be notified?
