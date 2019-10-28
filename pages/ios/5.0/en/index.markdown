@@ -25,20 +25,33 @@ Getting Started
 [What is RSS? What are feeds?](what-is-rss)
 
 
+
+Accounts
+--------
+
+[Add and manage syncing accounts](syncing-accounts) <!--░▒▓█-->
+
+[Local accounts: On My iPhone and On My iPad](on-my-ios-device)
+
+[How to import feeds from other apps with OPML](import-opml) <!--░▒▓█-->
+
+
+
 Reading Feeds
 -------------
 
 [How to go through your articles](reading-articles) <!--░▒▓█-->
 
-[How to sort the timeline](sorting-the-timeline) <!--░▒-->
+[How to sort the timeline](sorting-the-timeline)
 
 [Smart feeds: Today, All Unread, Starred](smart-feeds)
 
-[Keyboard shortcuts](keyboard-shortcuts) <!--████ on iPad? -->
+[Keyboard shortcuts](keyboard-shortcuts) <!--░▒▓-->
 
-[Sharing to other apps, including MarsEdit and Micro.blog](sharing-articles) <!--░▒▓█-->
+[Sharing to other apps](sharing-articles) <!--░▒▓█-->
 
-[Be notified of new articles](notifications) <!--░▒▓-->
+[Be notified of new articles](notifications)
+
 
 
 Managing Feeds
@@ -46,41 +59,24 @@ Managing Feeds
 
 [How to add a feed](adding-feeds) <!--░▒▓█-->
 
-[Enabling and using the Share Extension to add feeds](share-extension) <!--░▒▓█-->
+[Using the Share Extension to add feeds](share-extension) <!--░▒▓█-->
 
-[How to delete feeds and folders](deleting-feeds-folders) <!--░▒-->
+[How to delete feeds and folders](deleting-feeds-folders)
 
-[How to add special Micro.blog feeds](micro-blog-feeds) <!--░▒▓█-->
+[How to add special Micro.blog feeds](micro-blog-feeds)
 
 [How to rename feeds and folders](renaming-feeds) <!--░▒▓█-->
 
-[How to get and copy feed information](feed-info) <!--░▒-->
-
-
-Accounts
---------
-
-Accounts overview <!--░▒▓█-->
-
-[About the On My iPhone/iPad account](on-my-ios-device)<!--░▒▓█-->
-
-[How to add a syncing account](syncing-accounts)<!--░▒▓█-->
-
-
-NetNewsWire Data
-----------------
-
-*This section will probably be removed/renamed/merged with some start-up section*
-
-[How to import feeds with OPML](import-opml) <!--░▒▓█-->
+[How to get and copy feed information](feed-info)
 
 [How to export feeds with OPML](export-opml) <!--░▒▓█-->
+
 
 
 Need more help?
 ---------------
 
-[Where to go for more help](getting-more-help)
+[Where to go for more help using NetNewsWire](getting-more-help)
 
 
 
