@@ -4,7 +4,7 @@
 Sometimes you’re subscribed to a feed that you want to share with a friend. The quickest way to get the address for the feed or the site’s home page is to get them from NetNewsWire.
 
 
-## Use the feed’s contextual menu
+## Copy feed URLs from the contextual menu
 
 It’s easy to copy the feed URL or the site home page URL using the feed’s contextual menu.
 

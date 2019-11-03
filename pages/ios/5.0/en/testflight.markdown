@@ -1,11 +1,7 @@
 @title NetNewsWire TestFlight program
 @template nnw5ios_en.html
 
-
-TestFlight builds
------------------
-
-NetNewsWire will have a public TestFlight program once we’re ready to start publishing betas. Soon.
+NetNewsWire will have a public TestFlight program once we’re ready to start publishing betas – soon.
 
 <!--
 If you want to help test new features, or just want to be at the bleeding edge, you can join the TestFlight program for NetNewsWire.

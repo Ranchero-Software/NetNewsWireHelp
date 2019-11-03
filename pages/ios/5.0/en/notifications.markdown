@@ -29,7 +29,7 @@ This must be done for each feed. If you don’t want any notifications *at all*,
 
 ## How quickly will I be notified?
 
-You will be notified when NetNewsWire downloads the article. When this happens depends on how frequently NetNewsWire is set to refresh feeds, and when the last refresh was completed.
+You are notified when NetNewsWire downloads the article. When they’re downloaded depends on the refresh interval, set in NetNewsWire’s settings, and when the last refresh was completed.
 
 If you want notifications sooner, Feedbin make [*Feedbin Notifier*][fbn], a notification app for use with their service. It will probably notify you sooner than NetNewsWire can do.
 

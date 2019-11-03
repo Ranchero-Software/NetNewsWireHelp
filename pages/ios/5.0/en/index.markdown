@@ -33,7 +33,7 @@ Accounts
 
 [Local accounts: On My iPhone and On My iPad](on-my-ios-device)
 
-[How to import feeds from other apps with OPML](import-opml) <!--░▒▓█-->
+[How to import feeds from other apps with OPML](import-opml)
 
 
 
@@ -46,7 +46,7 @@ Reading Feeds
 
 [Smart feeds: Today, All Unread, Starred](smart-feeds)
 
-[Keyboard shortcuts](keyboard-shortcuts) <!--░▒▓-->
+[Keyboard shortcuts](keyboard-shortcuts) <!--***░▒▓***-->
 
 [Sharing to other apps](sharing-articles) <!--░▒▓█-->
 
@@ -59,17 +59,17 @@ Managing Feeds
 
 [How to add a feed](adding-feeds) <!--░▒▓█-->
 
-[Using the Share Extension to add feeds](share-extension) <!--░▒▓█-->
+[Using the Share Extension to add feeds](add-with-share-extension) <!--░▒▓█-->
 
 [How to delete feeds and folders](deleting-feeds-folders)
 
 [How to add special Micro.blog feeds](micro-blog-feeds)
 
-[How to rename feeds and folders](renaming-feeds) <!--░▒▓█-->
+[How to rename feeds and folders](renaming-feeds) <!--***░▒▓█***-->
 
 [How to get and copy feed information](feed-info)
 
-[How to export feeds with OPML](export-opml) <!--░▒▓█-->
+[How to export feeds with OPML](export-opml)
 
 
 

@@ -6,7 +6,7 @@ To delete a feed or folder, select it in the subscription list and choose **Edit
 1. From the Feeds screen, **touch and hold on the feed**
 2. Choose **Delete**
 
-You can also swipe right to left on the feed and choose **Delete**.
+You can also swipe left on the feed and choose **Delete**.
 
 
 You can undo!
