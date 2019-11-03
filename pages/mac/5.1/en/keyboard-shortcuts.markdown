@@ -22,7 +22,7 @@ No, the Command (⌘) key isn’t used for these keyboard shortcuts – just pr
 NetNewsWire’s keyboard shortcuts
 --------------------------------
 
-Many keyboard shortcuts work everywhere in the app, no matter where you last clicked and what’s in focus and selected.
+Many keyboard shortcuts work everywhere in the app, no matter where you last clicked and what’s selected.
 
 
 <table class="keyboard-shortcuts">
