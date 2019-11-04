@@ -46,27 +46,30 @@ is sufficient to link to the final HTML version of the `export-opml.markdown` pa
 
 ### Badges
 
-There are three styles of badges (and associated small sized versions) you can use in pages where needed. You should use `&nbsp;` instead of spaces so that the badges don’t break and wrap.
+There are three types of badge which can be used to point out important information or to provide guideposts to readers.
 
-#### Warnings
+An amber/yellow *warning* badge which can be used as such:
 
-<span style="padding: 0.2em 0.5em;font-weight: bold;border: 2px solid #F1A100;border-radius: 6px;background-color: #FFCA00;color: black;">iOS&nbsp;and&nbsp;iPadOS Only</span>
+	<span class="badge-warning">iOS and iPadOS Only</span>
 
-This is produced using the `badge-warning` style.
+A blue *distro* badge should be used for pointing out differences between versions of the app.
 
-There’s also an inline `badge-warning-small` style: <span style="padding: 0.2em 0.5em;font-weight: bold;border: 2px solid #F1A100;border-radius: 6px;background-color: #FFCA00;color: black;font-size:1rem;">iOS&nbsp;and&nbsp;iPadOS Only</span>
+	<span class="badge-distro">Mac App Store</span>
+	<span class="badge-distro">Direct Download</span>
 
-<span style="padding: 0.2em 0.5em;font-weight: bold;border: 2px solid #008C6D;border-radius: 6px;background-color: #00AF88;color: white;">New&nbsp;in&nbsp;5.1</span>
+A green *note* badge which could be used for pointers and tips, or new feature notes
 
-This is produced using the `badge-note` style.
+	<span class="badge-note">New in 5.1</span>
 
-There’s also an inline `badge-note-small` style: <span style="padding: 0.2em 0.5em;font-weight: bold;border: 2px solid #008C6D;border-radius: 6px;background-color: #00AF88;color: white;font-size: 1rem;">New&nbsp;in&nbsp;5.1</span>
+#### Small versions of badges
 
-<span style="padding: 0.2em 0.5em;font-weight: bold;border: 2px solid #1E49AF;border-radius: 6px;background-color: #3170DC;color: white;">Mac&nbsp;App&nbsp;Store&nbsp;version</span>
+If these badges are used inline, it’s better to use their small versions:
 
-This is produced using the `badge-distro` style.
+	<span class="badge-warning-small">iOS and iPadOS Only</span>
+	<span class="badge-distro-small">Mac App Store</span>
+	<span class="badge-distro-small">Direct Download</span>
+	<span class="badge-note-small">New in 5.1</span>
 
-There’s also an inline `badge-distro-small` style: <span style="padding: 0.2em 0.5em;font-weight: bold;border: 2px solid #1E49AF;border-radius: 6px;background-color: #3170DC;color: white;font-size: 1rem;">Mac&nbsp;App&nbsp;Store&nbsp;version</span>
 
 
 ### Images
@@ -98,14 +101,20 @@ You can use the standard Markdown syntax for images:
 
 	![Alt text](/path/to/img.jpg "Optional title")
 	
-But for better control, it’s best to just use HTML.
+But for more control, it’s best to just use HTML.
 
 	<img src="../../../images/mac-en-share_menu_more_selected.png"
     	alt="A screenshot of the macOS Share menu showing the “More…” item highlighted."
     	class="centeredImage"
     	style="width: 33%;" />
 
+##### Centring images
+
 You can use the `centeredImage` CSS class to centre your image. You can adjust the size of your image using a relative unit (like `33%` above). You can also specify absolute pixel units with `width` and `height` attributes in the `<img>` tag.
+
+##### Drop shadows on images
+
+A standard shadow can be added to an image using the `shadowedBox` class.
 
 
 #### Screenshots
