@@ -3,20 +3,6 @@
 
 # NetNewsWire 5 for iOS and iPadOS Help
 
-<!--
-
-Work in progress key
---------------------
-
-░▒▓█  work has yet to begin
-░▒▓   in progress
-░▒    writing believed to be complete, needs final editing
-░     final checks
-      complete
-      
-████  review for suitability
-
--->
 
 
 Getting Started
@@ -59,7 +45,7 @@ Managing Feeds
 
 [How to add a feed](adding-feeds) <!--░▒▓█-->
 
-[Using the Share Extension to add feeds](add-with-share-extension) <!--░▒▓█-->
+[Using the Share Extension to add feeds](share-extension)
 
 [How to delete feeds and folders](deleting-feeds-folders)
 

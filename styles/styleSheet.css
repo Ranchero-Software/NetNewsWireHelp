@@ -103,6 +103,11 @@ span.badge-distro-small {
 	margin-right: auto;
 }
 
+.listImage {
+	margin-top: 1.7em;
+	margin-bottom: 1.7em;
+}
+
 .shadowedBox
 {
 	box-shadow: 3px 3px 9px rgba(0, 0, 0, 0.3);

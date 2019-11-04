@@ -7,7 +7,7 @@ The very best way to get news about NetNewsWire is with NetNewsWire itself, usin
 Add the NetNewsWire News Feed
 -----------------------------
 
-The NetNewsWire News Feed is part of the default subscription list added the first time you used NetNewsWire. If it’s no longer in your list, it’s easy to add it back.
+The NetNewsWire News Feed is part of the default subscription list that was added when you first launched NetNewsWire. If it’s no longer in your list, it’s easy to add it back.
 
 From the Feeds screen, tap the **Settings** icon.
 
