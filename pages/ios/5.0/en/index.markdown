@@ -43,7 +43,7 @@ Reading Feeds
 Managing Feeds
 --------------
 
-[How to add a feed](adding-feeds) <!--░▒▓█-->
+[How to add a feed](adding-feeds)
 
 [Using the Share Extension to add feeds](share-extension)
 
@@ -51,7 +51,7 @@ Managing Feeds
 
 [How to add special Micro.blog feeds](micro-blog-feeds)
 
-[How to rename feeds and folders](renaming-feeds) <!--***░▒▓█***-->
+[How to rename feeds and folders](renaming-feeds)
 
 [How to get and copy feed information](feed-info)
 
