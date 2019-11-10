@@ -17,7 +17,7 @@ Accounts
 
 [Add and manage syncing accounts](syncing-accounts) <!--░▒▓█-->
 
-[Local accounts: On My iPhone and On My iPad](on-my-ios-device)
+[Local accounts: On My iPhone and On My iPad](on-my-ios-device-account)
 
 [How to import feeds from other apps with OPML](import-opml)
 
