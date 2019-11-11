@@ -8,7 +8,7 @@ First you need to get an OPML file. This should be pretty easy – look for expo
 Once you’ve got the OPML file saved, NetNewsWire can make quick work of importing the items within.
 
 1. From the Feeds screen, tap the **Settings** icon
-<img src="../../../images/iphone-en-settings_icon.png"
+<img src="../../../images/ios-en-settings_icon.png"
      alt="Screenshot of the NetNewsWire Feeds screen titlebar on iPhone with Settings icon circled."
      class="centeredImage shadowedBox listImage"
      style="width: 60%;">
