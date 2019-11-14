@@ -1,19 +1,21 @@
 @title Local accounts: On My iPhone and On My iPad
 @template nnw5ios_en.html
 
-A local account – On My iPhone and On My iPad – is the simplest way to use NetNewsWire. Using it requires no additional service or software. It’s just you, your subscriptions and NetNewsWire.
+A local account – *On My iPhone* and *On My iPad* – is the simplest way to use NetNewsWire. Using it requires no additional service or software. It’s just you, your subscriptions and NetNewsWire.
 
 NetNewsWire manages everything for these device-only accounts. It keeps your subscription list and is responsible for fetching the feeds and checking for updates. This means it also keeps track of what items you’ve read or not.
 
 On My iPhone and On My iPad account data *does not sync* to any other location. It works best for those people who only read NetNewsWire feeds on one device, and nowhere else.
 
-*NetNewsWire can also be used with a [syncing service](syncing-accounts) like Feedbin.*
+*NetNewsWire can also be used with a [syncing service](syncing-accounts) like Feedbin and Feedly.*
 
 
 Refreshing local account feeds
 ------------------------------
 
-The feeds in an On My iPhone or On My iPad account will be refreshed automatically based on the *Refresh Interval* in NetNewsWire’s settings. If you have *Background App Refresh* turned on in System Settings, this will happen even when NetNewsWire is closed.
+iOS will suggest the best times for NetNewsWire to check for new articles based on when you often open the app. 
+
+If you have turned off *Background App Refresh* in System Settings, your feeds will be refreshed when you open the app.
 
 
 Deactivate the On My iPhone or On My iPad account
