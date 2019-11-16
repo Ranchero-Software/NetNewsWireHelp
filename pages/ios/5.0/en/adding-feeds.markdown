@@ -5,7 +5,6 @@ NetNewsWire collects items for you from feeds published on web sites. To do this
 
 *It’s okay if you don’t know that.* NetNewsWire can help you find the address automatically.
 
-
 **Adding a feed from Safari:** When you’re using Safari, the easiest way is to use the [Share Extension](share-extension) by tapping on the Share button.
 
 
