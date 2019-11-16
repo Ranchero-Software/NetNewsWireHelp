@@ -1,11 +1,11 @@
 @title How to add a feed to NetNewsWire
 @template nnw5mac_en.html
 
-NetNewsWire collects items for you from feeds published on web sites. To do this, NetNewsWire needs to know the address for the feed. For example: `https://jvns.ca/atom.xml` or `https://cate.blog/feed/`
+NetNewsWire collects items for you from feeds published on web sites. To do this, NetNewsWire needs to know the address for the feed. For example: `https://cate.blog/feed/` or `http://mattgemmell.com/atom.xml`
 
 *It’s okay if you don’t know that.*
 
-NetNewsWire will look at any web page and try to find the feed’s address for you. All you need to give is the site’s URL, like `jvns.ca` or `cate.blog`. You don’t even need to enter `http://` or `https://` there.
+NetNewsWire will look at any web page and try to find the feed’s address for you. All you need to give is the site’s URL, like `cate.blog` or `mattgemmell.com`. You don’t even need to enter `http://` or `https://` there.
 
 To get started, click the New Feed button on the toolbar, or choose **File › New Feed** (⌘N) from the menu bar.
 

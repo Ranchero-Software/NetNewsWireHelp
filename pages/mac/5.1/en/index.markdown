@@ -3,19 +3,6 @@
 
 # NetNewsWire 5.1 for Mac Help
 
-<!--
-
-Work in progress key
---------------------
-
-░     work has yet to begin
-░▒    in progress
-░▒▓   writing believed to be complete, needs revising
-░▒▓█  complete
-
-  ✶   review for suitability
-
--->
 
 Getting Started
 ---------------
@@ -28,7 +15,7 @@ Reading Feeds
 
 [How to go through your articles](reading-articles)
 
-[Use reader view for full-text in NetNewsWire](reader-view) <span class="badge-note-small">5.1</span>
+[Use reader view for full-text in NetNewsWire](reader-view) <span class="badge-note-small">New in 5.1</span>
 
 [How to sort the timeline](sorting-the-timeline)
 
@@ -72,7 +59,7 @@ Personalization
 NetNewsWire Data
 ----------------
 
-[Where NetNewsWire data is stored](userdata-location) <!-- ░▒ affected by sandboxing -->
+[Where NetNewsWire data is stored](userdata-location) <!-- #todo update for sandboxing -->
 
 [How to import feeds with OPML](import-opml)
 
@@ -92,9 +79,9 @@ Advanced Topics
 
 
 The NetNewsWire Project
------------------------
+----------------------- 
 
-[How to update NetNewsWire](updating) <!-- ░▒ Notes on MAS -->
+[How to update NetNewsWire](updating) <!-- #todo update for MAS -->
 
 [How to get NetNewsWire news](netnewswire-news)
 

@@ -1,11 +1,11 @@
 @title Using syncing accounts with NetNewsWire
 @template nnw5mac_en.html
 
-In addition to the [On My Mac account](on-my-mac), NetNewsWire can also sync your feeds and articles with third-party feed aggregating services.
+NetNewsWire can sync your feeds and articles with third-party feed aggregating services like Feedbin and Feedly.
 
-Using a feed aggregator service allows you to use multiple apps across different platforms, but keep a single subscription list. The service handles fetching articles and keeping track of read status for you.
+Using these services lets you use multiple apps across different platforms, but keep a single subscription list. Article status is also tracked, so your unread and starred articles stay in sync too.
 
-**Note:** In NetNewsWire 5.0, [Feedbin](https://feedbin.com/) is the only sync service supported. Additional services will be supported in future 5.x releases.
+If you’re not using a feed aggregator, you can use NetNewsWire in local account mode with an [On My Mac account](on-my-mac).
 
 
 Adding a syncing account to NetNewsWire
