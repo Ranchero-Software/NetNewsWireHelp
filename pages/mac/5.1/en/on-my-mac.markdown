@@ -1,13 +1,13 @@
 @title The On My Mac account
 @template nnw5mac_en.html
 
-The On My Mac account is the simplest way to use NetNewsWire. Using it requires no additional service or software. It’s just you, your subscriptions and NetNewsWire.
+The *On My Mac* account is the simplest way to use NetNewsWire. Using it requires no additional service or software. It’s just you, your subscriptions and NetNewsWire.
 
 NetNewsWire manages everything for the On My Mac account. It keeps your subscription list and is responsible for fetching the feeds and checking for updates. This means it also keeps track of what items you’ve read or not.
 
 On My Mac account data *does not sync* to any other location. It works best for those people who only read NetNewsWire feeds on one Mac, and nowhere else.
 
-*NetNewsWire can also be used with a [syncing service](syncing-accounts) like Feedbin.*
+*NetNewsWire can also be used with a [syncing service](syncing-accounts) like Feedbin and Feedly.*
 
 
 Refreshing On My Mac feeds

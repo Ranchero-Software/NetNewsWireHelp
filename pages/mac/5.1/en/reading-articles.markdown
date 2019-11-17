@@ -13,7 +13,7 @@ Use the Space bar
 
 The easiest way to read articles in NetNewsWire is using the **space bar**.
 
-If you’re reading an article that can be scrolled, pressing **space bar** will scroll it – just like it would in Safari. If you’re at the end of the article, **space bar** will take you to the next unread article.
+If you’re reading an article that can be scrolled, pressing **space bar** will scroll it – just like it would in Safari. If you’re at the end of the article, pressing **space bar** will take you to the next unread article.
 
 
 Go to Next Unread

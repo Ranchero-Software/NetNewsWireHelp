@@ -17,7 +17,7 @@ You can add a syncing account in NetNewsWire’s Settings.
 <img src="../../../images/ios-en-settings_icon.png"
      alt="Screenshot of the NetNewsWire Feeds screen titlebar on iPhone with Settings icon circled."
      class="centeredImage shadowedBox listImage"
-     style="width: 60%;">
+     style="width: 60%;" />
 2. Tap **Add Account**, then select your service
 3. Enter the email or username, and password for your account (or tap *Show Passwords* to get it from your saved passwords)
 4. Tap the **Add Account** button, and wait as NetNewsWire logs into the service

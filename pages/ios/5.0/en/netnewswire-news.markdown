@@ -14,7 +14,7 @@ From the Feeds screen, tap the **Settings** icon.
 <img src="../../../images/ios-en-settings_icon.png"
      alt="Screenshot of the NetNewsWire Feeds screen titlebar on iPhone with Settings icon circled."
      class="centeredImage shadowedBox listImage"
-     style="width: 60%;">
+     style="width: 60%;" />
 
 Scroll down and tap **Add NetNewsWire News Feed**. NetNewsWire will open the [New Feed screen](adding-feeds) pre-filled with the name and address (`https://nnw.ranchero.com/feed.json`). Tap **Add**.
 

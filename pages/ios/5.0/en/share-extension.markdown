@@ -11,22 +11,25 @@ Just look for the Share icon – for example, in the Safari toolbar:
 
 <img src="../../../images/ios-en-ios_share_menu_icon.png"
      alt="A screenshot of Safari’s toolbar with the Share icon circled."
-     class="centeredImage shadowedBox"
-     style="width: 60%;">
+     class="centeredImage"
+     style="width: 60%;" />
 
-Tap on the Share icon and from the Share menu, look for the NetNewsWire icon. *Note:* You may need to scroll across the app icons and tap **More** to find it.
+Tap on the Share icon and from the Share menu, look for the NetNewsWire icon.
 
 <img src="../../../images/ios-en-ios_share_menu.png"
      alt="A screenshot of the iOS share sheet with the NetNewsWire icon visible."
-     class="centeredImage shadowedBox"
-     style="width: 50%;">
+     class="centeredImage"
+     style="width: 50%;" />
+     
+<span class="badge-warning-small">Note</span> You may need to scroll across the app list and tap **More** to find it.
+
 
 Tap on the NetNewsWire icon. In the resulting screen you have the opportunity to rename the feed and choose the folder where it will be saved. If you’ve got more than one account, each is represented as a folder, in addition to any folders within an account.
 
 <img src="../../../images/ios-en-ios_share_menu_add.png"
      alt="A screenshot of the add feed dialog in the iOS share sheet."
      class="centeredImage"
-     style="width: 50%;">
+     style="width: 50%;" />
 
 When everything is set, tap **Add Feed**.
 

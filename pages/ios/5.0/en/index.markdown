@@ -15,7 +15,7 @@ Getting Started
 Accounts
 --------
 
-[Add and manage syncing accounts](syncing-accounts) <!--░▒▓█-->
+[Add and manage syncing accounts](syncing-accounts)
 
 [Local accounts: On My iPhone and On My iPad](on-my-ios-device-account)
 
@@ -26,7 +26,7 @@ Accounts
 Reading Feeds
 -------------
 
-[How to go through your articles](reading-articles) <!--░▒▓█-->
+[How to go through your articles](reading-articles)
 
 [How to sort the timeline](sorting-the-timeline)
 
