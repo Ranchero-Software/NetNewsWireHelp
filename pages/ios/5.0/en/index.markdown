@@ -34,7 +34,7 @@ Reading Feeds
 
 [Keyboard shortcuts](keyboard-shortcuts) <!--***░▒▓***-->
 
-[Sharing to other apps](sharing-articles) <!--░▒▓█-->
+[Sharing to other apps](sharing-articles)
 
 [Be notified of new articles](notifications)
 

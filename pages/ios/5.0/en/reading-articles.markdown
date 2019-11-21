@@ -5,7 +5,7 @@ NetNewsWire is designed to make reading fast, easy and natural. Any time you’r
 
 <img src="../../../images/ios-en-next_unread.png"
      alt="A screenshot of NetNewsWire’s toolbar with the ‘Next Unread’ button circled and labelled."
-     class="centeredImage shadowedBox"
+     class="centeredImage"
      style="width: 60%;" />
 
 No matter where you are, tapping it will take you to the *next unread* item. It doesn’t matter if it’s in another feed, it just opens it straightaway.
