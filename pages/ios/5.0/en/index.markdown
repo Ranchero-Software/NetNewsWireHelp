@@ -10,6 +10,8 @@ Getting Started
 
 [What is RSS? What are feeds?](what-is-rss)
 
+[Moving from another RSS app](moving-from-another-app)
+
 
 
 Accounts
