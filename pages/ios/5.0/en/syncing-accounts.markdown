@@ -1,11 +1,15 @@
 @title Using syncing accounts with NetNewsWire
 @template nnw5ios_en.html
 
-NetNewsWire can sync your feeds and articles with third-party feed aggregating services like Feedbin and Feedly.
+NetNewsWire can sync your feeds and articles with third-party feed aggregating services like [Feedbin][] and [Feedly][].
 
 Using these services lets you use multiple apps across different platforms, but keep a single subscription list. Article status is also tracked, so your unread and starred articles stay in sync too.
 
 If you’re not using a feed aggregator, you can use NetNewsWire in local account mode with an [On My iPhone/iPad account](on-my-ios-device-account).
+
+[feedbin]: https://feedbin.com/ "Feedbin"
+[feedly]: https://feedly.com/i/welcome "Welcome to Feedly"
+
 
 
 Adding a syncing account to NetNewsWire
@@ -13,10 +17,10 @@ Adding a syncing account to NetNewsWire
 
 You can add a syncing account in NetNewsWire’s Settings.
 
-1. From the Feeds screen, tap the **Settings** icon
-<img src="../../../images/ios-en-settings_icon.png"
-     alt="Screenshot of the NetNewsWire Feeds screen titlebar on iPhone with Settings icon circled."
-     class="centeredImage shadowedBox listImage"
+1. From the Feeds screen, tap the **Settings** button
+<img src="../../../images/ios-en-settings_button.png"
+     alt="Screenshot of the NetNewsWire Feeds screen titlebar on iPhone with Settings button circled."
+     class="centeredImage lightBorder listImage"
      style="width: 60%;" />
 2. Tap **Add Account**, then select your service
 3. Enter the email or username, and password for your account (or tap *Show Passwords* to get it from your saved passwords)

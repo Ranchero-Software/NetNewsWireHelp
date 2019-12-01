@@ -112,9 +112,10 @@ But for more control, it’s best to just use HTML.
 
 You can use the `centeredImage` CSS class to centre your image. You can adjust the size of your image using a relative unit (like `33%` above). You can also specify absolute pixel units with `width` and `height` attributes in the `<img>` tag.
 
-##### Drop shadows on images
+##### Other image effects used
 
-A standard shadow can be added to an image using the `shadowedBox` class.
+- A standardised shadow can be added to an image by adding the `shadowedBox` class
+- A standardised border (useful for iOS) can be added by adding the `lightBorder` class
 
 
 #### Screenshots

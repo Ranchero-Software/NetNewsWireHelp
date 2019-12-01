@@ -9,10 +9,10 @@ On iPhone and iPad, you can export a subscription list and save it to a location
 
 **Note:** Your subscriptions in NetNewsWire are unaffected by this action. Nothing is changed or removed.
 
-1. From the Feeds screen, tap the **Settings** icon
-<img src="../../../images/ios-en-settings_icon.png"
-     alt="Screenshot of the NetNewsWire Feeds screen titlebar on iPhone with Settings icon circled."
-     class="centeredImage shadowedBox listImage"
+1. From the Feeds screen, tap the **Settings** button
+<img src="../../../images/ios-en-settings_button.png"
+     alt="Screenshot of the NetNewsWire Feeds screen titlebar on iPhone with the Settings button circled."
+     class="centeredImage lightBorder listImage"
      style="width: 60%;" />
 2. Scroll to the *Feeds* section and choose **Export Subscriptions**
 3. If you have multiple accounts, choose which account’s subscriptions will be exported

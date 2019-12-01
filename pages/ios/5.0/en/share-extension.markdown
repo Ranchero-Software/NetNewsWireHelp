@@ -7,14 +7,14 @@ NetNewsWire provides a Share Extension which allows you to subscribe to a site�
 Where to find the Share Extension
 ---------------------------------
 
-Just look for the Share icon – for example, in the Safari toolbar:
+Just look for the Share button – for example, in the Safari toolbar:
 
-<img src="../../../images/ios-en-safari_share_menu_icon.png"
-     alt="A screenshot of Safari’s toolbar with the Share icon circled."
+<img src="../../../images/ios-en-safari_share_menu_button.png"
+     alt="A screenshot of Safari’s toolbar with the Share button circled."
      class="centeredImage"
      style="width: 60%;" />
 
-Tap on the Share icon and from the Share menu, look for the NetNewsWire icon.
+Tap on the Share button and from the Share menu, look for the NetNewsWire icon.
 
 <img src="../../../images/ios-en-system_share_menu.png"
      alt="A screenshot of the iOS share sheet with the NetNewsWire icon visible."

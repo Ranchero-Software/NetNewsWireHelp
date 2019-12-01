@@ -17,7 +17,7 @@ Reader View
 
 Some web sites only publish extracts of their full articles. Reader View will try to fetch the full article text for you so you can keep reading in NetNewsWire. It can even get images.
 
-You can turn Reader View on for any article by tapping its icon in the toolbar.
+You can turn Reader View on for any article by tapping its button in the toolbar.
 
 <img src="../../../images/ios-en-reader_view_before_after.png"
      alt="Two screenshots, with the left showing a summary article and the right the full article extracted using Reader View."

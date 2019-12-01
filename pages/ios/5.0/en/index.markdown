@@ -30,6 +30,8 @@ Reading Feeds
 
 [How to go through your articles](reading-articles)
 
+[Using filters to hide read and empty feeds](filters)
+
 [How to sort the timeline](sorting-the-timeline)
 
 [Smart feeds: Today, All Unread, Starred](smart-feeds)

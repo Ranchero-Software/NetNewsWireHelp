@@ -108,9 +108,12 @@ span.badge-distro-small {
 	margin-bottom: 1.7em;
 }
 
-.shadowedBox
-{
+.shadowedBox {
 	box-shadow: 3px 3px 12px rgba(0, 0, 0, 0.2);
+}
+
+.lightBorder {
+	border: 1px solid #C7C7C7;
 }
 
 main
