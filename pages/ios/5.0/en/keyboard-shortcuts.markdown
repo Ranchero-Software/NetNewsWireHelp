@@ -3,7 +3,7 @@
 
 <span class="badge-warning">For keyboard-connected devices</span>
 
-If you use your iOS and iPadOS device with a keyboard connected, NetNewsWire’s interface is easily navigable using keyboard shortcuts.
+If you use your iOS and iPadOS device with a keyboard connected, NetNewsWire’s interface is navigable using keyboard shortcuts.
 
 The most useful shortcuts are for reading articles: **space** to scroll articles and jump to the next unread one, or **n** to jump immediately to the next unread article. There’s also **b** to open the article in your browser, but the **Return** or **Enter** keys work too.
 
@@ -12,8 +12,6 @@ In-app list of keyboard shortcuts
 ---------------------------------
 
 A comprehensive list of NetNewsWire’s keyboard shortcuts is always accessible to you in NetNewsWire. Just press and hold down the Command (⌘) key for a couple of seconds. You will be presented with a list of available shortcuts. (This works in all apps.)
-
-*You’ll be a NetNewsWire keyboard magician in no time.*
 
 
 ### Do I need to use the Command key?

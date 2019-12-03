@@ -1,21 +1,14 @@
 @title Local accounts: On My iPhone and On My iPad
 @template nnw5ios_en.html
 
-A local account – *On My iPhone* and *On My iPad* – is the simplest way to use NetNewsWire. Using it requires no additional service or software. It’s just you, your subscriptions and NetNewsWire.
+A local account – *On My iPhone* and *On My iPad* – is the simplest way to use NetNewsWire. Using it requires no additional service or software.
 
-NetNewsWire manages everything for these device-only accounts. It keeps your subscription list and is responsible for fetching the feeds and checking for updates. This means it also keeps track of what items you’ve read or not.
+NetNewsWire handles everything for these device-only accounts: the subscription list, checking for updates to them, and what articles have been read.
 
-On My iPhone and On My iPad account data *does not sync* to any other location. It works best for those people who only read NetNewsWire feeds on one device, and nowhere else.
+On My iPhone and On My iPad account data *does not sync* to any other location. It works best for people who only read NetNewsWire feeds on one device, or want to keep separate subscription lists on different devices. 
 
-*NetNewsWire can also be used with a [syncing service](syncing-accounts) like Feedbin and Feedly.*
+You can use NetNewsWire with a [syncing service](syncing-accounts) like Feedbin or Feedly, too.
 
-
-Refreshing local account feeds
-------------------------------
-
-iOS will suggest the best times for NetNewsWire to check for new articles based on when you often open the app. 
-
-If you have turned off *Background App Refresh* in System Settings, your feeds will be refreshed when you open the app.
 
 
 Deactivate the On My iPhone or On My iPad account
@@ -26,4 +19,11 @@ If you only use a syncing account with NetNewsWire, you may want to  deactivate 
 1. Tap and hold the **On My iPhone** or **On My iPad** item on the Feeds screen
 2. Choose **Deactivate** from the menu
 
-You’ll no longer see the account in the NetNewsWire Feeds list and its feeds won’t be refreshed again unless you activate the account again.
+You’ll no longer see the account in the Feeds list, and its feeds won’t be refreshed.
+
+
+
+How local accounts are refreshed
+--------------------------------
+
+If you have turned off *Background App Refresh* in System Settings, your feeds will be refreshed when you open the app. Otherwise, NetNewsWire will check for new articles throughout your day and at times you’re likely to open NetNewsWire.

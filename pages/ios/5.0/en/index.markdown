@@ -1,8 +1,8 @@
-@title NetNewsWire 5 for iOS Help
+@title NetNewsWire 5 for iPhone and iPad Help
 @template index.html
 
-# NetNewsWire 5 for iOS and iPadOS Help
-
+NetNewsWire 5 for iPhone and iPad Help
+======================================
 
 
 Getting Started
@@ -36,7 +36,7 @@ Reading Feeds
 
 [Smart feeds: Today, All Unread, Starred](smart-feeds)
 
-[Keyboard shortcuts](keyboard-shortcuts) <!--***░▒▓***-->
+[Keyboard shortcuts](keyboard-shortcuts)
 
 [Sharing to other apps](sharing-articles)
 
@@ -66,7 +66,7 @@ Managing Feeds
 Need more help?
 ---------------
 
-[Where to go for more help using NetNewsWire](getting-more-help)
+[Get more help using NetNewsWire](getting-more-help)
 
 
 

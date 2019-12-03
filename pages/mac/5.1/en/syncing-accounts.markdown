@@ -28,7 +28,7 @@ Changing synced account information
 
 ### Changing sync account name
 
-The name of your sync account will be the name of the service by default. You can change this name, which is especially useful if you multiple accounts on the same service. You can even use emoji. 🐝
+The name of your sync account will be the name of the service by default. You can change this name, which is especially useful if you have multiple accounts on the same service. You can even use emoji. 🐝
 
 
 ### Updating sync account credentials

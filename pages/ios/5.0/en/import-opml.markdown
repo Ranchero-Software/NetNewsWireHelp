@@ -3,7 +3,16 @@
 
 You can use an OPML subscription list to import your subscriptions from another app or service into NetNewsWire.
 
-First you need to get an OPML file. This should be pretty easy – look for export options in the app or the service’s web site. Save the `.opml` file to a location in the Files app.
+
+Get an OPML file
+----------------
+
+You will get the OPML file from your current app or service. Look for the export feature. It might be in the settings screen. On an iOS or iPadOS device, save the `.opml` file to a location in the Files app. From a Mac, save the file to iCloud drive or other syncing service connected to your device.
+
+
+
+Import the feeds
+----------------
 
 Once you’ve got the OPML file saved, NetNewsWire can make quick work of importing the items within.
 
@@ -16,8 +25,6 @@ Once you’ve got the OPML file saved, NetNewsWire can make quick work of import
 3. If you have multiple accounts, choose which account will receive the new subscriptions
 4. Tap on the OPML file from its location in the Files app
 
-The subscriptions are added to your Feeds list immediately.
+<span class="badge-note-small">Note</span> The new feeds will be added to your current subscription list.
 
-**Note:** *This won’t replace your current subscription list.* The new subscriptions will be added to your current list of feeds.
-
-Once you’ve finished importing the feed list, you can safely delete the downloaded `.opml` file. If you need a copy later, you can also [export your OPML subscription list](export-opml) from NetNewsWire.
+Once you’ve finished importing the feed list, you can delete the downloaded `.opml` file. If you need a copy later, you can [export your OPML subscription list](export-opml) from NetNewsWire.
