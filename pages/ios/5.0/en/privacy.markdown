@@ -12,7 +12,7 @@ To opt out of sharing crash logs
 
 To change whether crash reports are shared from your device, use the **Settings** app and choose **Privacy › Analytics & Improvements** and turn off **Share With App Developers**. 
 
-**Note:** This disables sharing crash logs for *all* non-Apple apps on your device.
+<span class="badge-small">Note</span> This disables sharing crash logs for *all* non-Apple apps on your device.
 
 
 Changes to the Privacy Policy

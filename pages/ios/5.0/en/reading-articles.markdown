@@ -44,9 +44,6 @@ Read in full-screen mode
 
 Sometimes you may want to fully immerse yourself into an article. Use full-screen mode to remove distractions as you read.
 
-<div class="columns">
-<div class="column-left">
-
 ### Full-screen mode on iPhone
 
 Turn on **Read in Full Screen** in Settings.
@@ -56,12 +53,10 @@ Turn on **Read in Full Screen** in Settings.
      alt="Screenshot of the NetNewsWire Feeds screen titlebar on iPhone with the Settings button circled."
      class="lightBorder"
      style="width: 70%;" />
- -->
+-->
 
 You can also turn on full-screen mode while viewing an article by tapping at the top of the screen. Tap again to turn it off.
 
-</div>
-<div class="column-right">
 
 ### Full-screen mode on iPad
 
@@ -69,14 +64,11 @@ Tap the Full Screen button in the navigation bar to turn on full-screen mode on 
 
 <img src="../../../images/ios-en-ipad-full_screen_button.png"
      alt="Full Screen button on iPad"
-     class="lightBorder" 
-     style="width: 100%;" />
+     class="centeredImage lightBorder" 
+     style="width: 80%;" />
 
 When you’re finished, tap the back button to see the timeline again.
 
-</div>
-
-</div>
 
 
 
