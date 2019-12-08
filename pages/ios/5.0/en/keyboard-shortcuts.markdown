@@ -1,11 +1,12 @@
 @title Keyboard shortcuts
 @template nnw5ios_en.html
 
-<span class="badge-warning">For keyboard-connected devices</span>
+<span class="badge">For keyboard-connected devices</span>
 
 If you use your iOS and iPadOS device with a keyboard connected, NetNewsWire’s interface is navigable using keyboard shortcuts.
 
 The most useful shortcuts are for reading articles: **space** to scroll articles and jump to the next unread one, or **n** to jump immediately to the next unread article. There’s also **b** to open the article in your browser, but the **Return** or **Enter** keys work too.
+
 
 
 In-app list of keyboard shortcuts
@@ -13,17 +14,14 @@ In-app list of keyboard shortcuts
 
 A comprehensive list of NetNewsWire’s keyboard shortcuts is always accessible to you in NetNewsWire. Just press and hold down the Command (⌘) key for a couple of seconds. You will be presented with a list of available shortcuts. (This works in all apps.)
 
+You only need to use the Command (⌘) key if it’s listed.
 
-### Do I need to use the Command key?
-
-In most cases, no, the Command (⌘) key isn’t required – just press the key by itself. You only need to use it if it’s listed explicitly.
 
 
 NetNewsWire’s keyboard shortcuts
 --------------------------------
 
 Many keyboard shortcuts work everywhere in the app, no matter where you last tapped and what’s selected.
-
 
 <table class="keyboard-shortcuts">
 	<thead>
@@ -86,7 +84,7 @@ Many keyboard shortcuts work everywhere in the app, no matter where you last tap
 	</tbody>
 </table>
 
-The following shortcuts only apply depending on the current focus (where your current selection is, or the area where you last tapped).
+The following shortcuts only work, depending on the current focus (where your current selection is, or the area where you last tapped).
 
 <table class="keyboard-shortcuts">
 	<thead>
@@ -157,5 +155,3 @@ The following shortcuts only apply depending on the current focus (where your cu
 		</tr>
 	</tbody>
 </table>
-
-*The* ← *and* → *symbols are the Left and Right Arrow keys on your keyboard.*

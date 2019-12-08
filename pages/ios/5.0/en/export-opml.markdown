@@ -10,7 +10,7 @@ Export your feeds
 
 On iPhone and iPad, you can export a subscription list and save it to a location in the Files app.
 
-<span class="badge-note-small">Note</span> Your subscriptions will be unaffected by exporting them – nothing is changed or removed.
+<span class="badge-small">Note</span> Your subscriptions will be unaffected by exporting them – nothing is changed or removed.
 
 1. From the Feeds screen, tap the **Settings** button
 <img src="../../../images/ios-en-settings_button.png"

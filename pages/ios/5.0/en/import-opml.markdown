@@ -25,6 +25,6 @@ Once you’ve got the OPML file saved, NetNewsWire can make quick work of import
 3. If you have multiple accounts, choose which account will receive the new subscriptions
 4. Tap on the OPML file from its location in the Files app
 
-<span class="badge-note-small">Note</span> The new feeds will be added to your current subscription list.
+<span class="badge-small">Note</span> The new feeds will be added to your current subscription list.
 
 Once you’ve finished importing the feed list, you can delete the downloaded `.opml` file. If you need a copy later, you can [export your OPML subscription list](export-opml) from NetNewsWire.

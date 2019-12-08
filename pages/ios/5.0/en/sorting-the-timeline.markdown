@@ -3,7 +3,7 @@
 
 The NetNewsWire timeline is the list of articles for a feed or Smart Feed.
 
-<span class="badge-warning">Screenshot!</span>
+<!-- <span class="badge">Screenshot!</span> -->
 
 By default, this list displays newer articles at the top.
 

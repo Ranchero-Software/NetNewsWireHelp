@@ -21,4 +21,4 @@ You can edit a feed or folder’s name any time using the feed info screen.
 
 From the Feeds screen, **touch and hold on the feed** then choose **Get Info**. Tap on the feed name to begin editing it.
 
-<span class="badge-note-small">Tip</span> When viewing a feed’s articles in the timeline, you can tap on the feed name in the title bar to access the feed info screen.
+<span class="badge-small">Tip</span> When viewing a feed’s articles in the timeline, you can tap on the feed name in the title bar to access the feed info screen.
