@@ -3,13 +3,14 @@
 
 We’re fans of [Micro.blog][mb], an open microblogging platform.
 
-Because it’s built on open web standards like RSS, apps like NetNewsWire can also provide a window into the content there.
+Because it’s built on open web standards like RSS, apps like NetNewsWire can be used to read posts and articles there.
 
 [mb]: https://micro.blog
 
 
+
 Subscribe to your own Micro.blog timeline
------------------------------------------
+--------------------------------------------
 
 To use NetNewsWire to read the Micro.blog posts that appear in your timeline (*not your posts*), use this feed format:
 
@@ -19,25 +20,28 @@ If your Micro.blog username is *abigail*, then you’d subscribe to:
 
 	https://micro.blog/feeds/abigail.xml
 
+
 ### Subscribe to another user’s timeline
 
-You can use the same format to subscribe to *someone else’s* timeline.
+You can use the same technique to subscribe to *someone else’s* timeline.
 
-Again, this is not their posts (for that see below), but the posts from people *they* follow. For example, if you want to read the same timeline as Miraz Jordan reads, subscribe to:
+This is not their posts – for that, see below. This allows you to see the posts from people *they* follow. For example, if you want to read the same timeline as Miraz Jordan reads, subscribe to:
 	
 	https://micro.blog/feeds/miraz.xml	
 
 
-Subscribe to someone Micro.blog posts
+
+Subscribe to someone’s Micro.blog posts
 ---------------------------------------
 
-To read the posts made to a single Micro.blog feed, you use a slightly different feed address:
+To read the posts made to someone’s Micro.blog feed, you use a slightly different feed address:
 
 	https://USERNAME.micro.blog/feed.xml
 
-So if you want to keep up with what Miraz is posting to her own blog, subscribe to:
+If you want to keep up with what Miraz is posting to her own blog, subscribe to:
 
 	https://miraz.micro.blog/feed.xml
+
 
 
 Other Micro.blog feeds
@@ -52,15 +56,16 @@ Posts in the Discover section of Micro.blog are categorised using [emoji][tagmoj
 
 	https://micro.blog/posts/discover/EMOJI
 	
-You’ll need to know the word which corresponds to an emoji, so consult the [Discover emoji][tagmoji] list, but they’re pretty obvious. Like cats:
+You’ll need to know the word which corresponds to an emoji, so consult the [Discover emoji][tagmoji] list. Some may be obvious, like 🐈 or 🐱:
 
 	https://micro.blog/posts/discover/cats
 
-Meow!
+*Meow!*
 
 
-All the details
----------------
+
+Get more help
+-------------
 
 Full documentation of Micro.blog’s feeds are available at their [feeds help page][mb-feeds].
 

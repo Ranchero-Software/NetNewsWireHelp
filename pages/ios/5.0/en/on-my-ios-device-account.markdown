@@ -16,7 +16,7 @@ Deactivate the On My iPhone or On My iPad account
 
 If you only use a syncing account with NetNewsWire, you may want to  deactivate the local account. You can do it in NetNewsWire’s settings, or simply from the Feeds list:
 
-1. Tap and hold the **On My iPhone** or **On My iPad** item on the Feeds screen
+1. Touch and hold the **On My iPhone** or **On My iPad** item on the Feeds screen
 2. Choose **Deactivate** from the menu
 
 You’ll no longer see the account in the Feeds list, and its feeds won’t be refreshed.
