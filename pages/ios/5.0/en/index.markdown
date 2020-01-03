@@ -75,7 +75,7 @@ The NetNewsWire Project
 
 [How to get NetNewsWire news](netnewswire-news)
 
-[NetNewsWire TestFlight program](testflight)
+[NetNewsWire for iOS TestFlight program](testflight)
 
 [NetNewsWire and your privacy](privacy)
 
