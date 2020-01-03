@@ -33,4 +33,4 @@ If you downloaded NetNewsWire from our site, you can turn off crash report shari
 Changes to the Privacy Policy
 -----------------------------
 
-The [full privacy policy](https://github.com/brentsimmons/NetNewsWire/blob/master/Technotes/privacypolicy.markdown) is stored in the NetNewsWire GitHub repository, where you can track any changes we might make.
+The [full privacy policy](https://github.com/Ranchero-Software/NetNewsWire/blob/master/Technotes/privacypolicy.markdown) is stored in the NetNewsWire GitHub repository, where you can track any changes we might make.

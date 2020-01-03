@@ -11,4 +11,4 @@ The only data we collect about how you use NetNewsWire, *only if you agree and o
 Changes to the Privacy Policy
 -----------------------------
 
-The [full privacy policy](https://github.com/brentsimmons/NetNewsWire/blob/master/Technotes/privacypolicy.markdown) is stored in the NetNewsWire GitHub repository, where you can track any changes we might make.
+The [full privacy policy](https://github.com/Ranchero-Software/NetNewsWire/blob/master/Technotes/privacypolicy.markdown) is stored in the NetNewsWire GitHub repository, where you can track any changes we might make.

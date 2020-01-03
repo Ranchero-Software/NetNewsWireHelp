@@ -46,7 +46,7 @@ If you want to help test new features, or just want to be at the bleeding edge, 
 
 You can report bugs and enhancement requests by filing issues on the [NetNewsWire GitHub page][nnw-issues]. You can also share and discuss issues on the [NetNewsWire Slack][slack] group.
 
-[nnw-issues]: https://github.com/brentsimmons/NetNewsWire/issues
+[nnw-issues]: https://github.com/Ranchero-Software/NetNewsWire/issues
 [slack]: https://ranchero.com/netnewswire/slack
 
 

@@ -13,7 +13,7 @@ If you’d like to write or edit the Help book, translate into another language 
 Every community member is expected to abide by the code of conduct included in the [NetNewsWire Contributing][contrib] page.
 
 [slack]: https://ranchero.com/netnewswire/slack
-[contrib]: https://github.com/brentsimmons/NetNewsWire/blob/master/CONTRIBUTING.md
+[contrib]: https://github.com/Ranchero-Software/NetNewsWire/blob/master/CONTRIBUTING.md
 
 
 Editing notes
@@ -23,7 +23,7 @@ Editing notes
 
 Text is written in Markdown. The `.markdown` files will be turned into HTML by a script ([wildcat][wc]) to appear on the NetNewsWire site: <https://ranchero.com/netnewswire/help/>.
 
-[wc]: https://github.com/brentsimmons/wildcat
+[wc]: https://github.com/Ranchero-Software/wildcat
 
 
 ### Titles
