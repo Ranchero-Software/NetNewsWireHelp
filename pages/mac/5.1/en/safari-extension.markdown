@@ -1,18 +1,18 @@
-@title Installing and using the Safari Extension to add feeds
+@title Install and add feeds using the the Subscribe to Feed Safari Extension
 @template nnw5mac_en.html
 
-NetNewsWire provides a Safari Extension which adds a *Subscribe to Feed* button to your Safari toolbar. With it, you can quickly add a site’s feed without entering an address manually into NetNewsWire.
+NetNewsWire provides a Safari Extension which adds a *Subscribe to Feed* button to your Safari toolbar. With it, you can quickly add a site’s feed without entering an address into NetNewsWire manually.
 
 
-Installing the NetNewsWire Safari Extension
--------------------------------------------
+Turn on the NetNewsWire Safari Extension
+-----------------------------------------
 
-The Safari Extension is installed automatically with NetNewsWire. However, it must be enabled before you can use it.
+The Safari Extension is installed automatically with NetNewsWire. However, it must be turned on before you can use it.
 
 1. Open Safari
 2. From the menu bar, choose **Safari** and then **Preferences…** (⌘,)
 3. Click the **Extensions** panel in the Preferences window
-4. From the list, select **Subscribe to Feed** to enable the extension
+4. From the list, select the **Subscribe to Feed** extension to turn it on
 5. Close the Preferences window
 
 <img src="../../../images/mac-en-safari_extension_preferences.png"
@@ -20,7 +20,7 @@ The Safari Extension is installed automatically with NetNewsWire. However, it mu
      class="centeredImage"
      style="width: 80%;" />
 
-Once this is done, the *Subscribe to Feed* button will be added to your Safari toolbar.
+The *Subscribe to Feed* button will be added to your Safari toolbar.
 
 <img src="../../../images/mac-en-safari_extension_toolbar.png"
      alt="An screenshot of Safari’s toolbar with the “Subscribe to Feed” button circled."
@@ -28,14 +28,24 @@ Once this is done, the *Subscribe to Feed* button will be added to your Safari t
      style="width: 100%" />
 
 
-Adding a feed using the Safari Extension
-----------------------------------------
+Add a feed using the Safari Extension
+-------------------------------------
 
-For any site that advertises its feeds, you can use the *Subscribe to Feed* button. Clicking it sends the feed’s address to NetNewsWire where you can set options like an alternative feed name, and the account and folder where it will be saved.
+In Safari, click the *Subscribe to Feed* button. This will open NetNewsWire to the [Add Feed](adding-feeds) dialog. There you can give it an alternative  name and choose the destination account and folder before adding it.
 
 
-### If the *Subscribe to Feed* button isn’t working
+Get help with *Subscribe to Feed*
+---------------------------------
 
-The *Subscribe to Feed* button will only be enabled for sites that advertise a feed in their code. If the button is greyed out and disabled, it wasn’t able to find any feeds automatically.
+### The button is dimmed
 
-You may be able to find a link to a feed by checking the site. There, look for a link to an RSS, Atom or JSON feed. If one exists, you can [add this URL to NetNewsWire directly](adding-feeds). Control-click on the link and copy the URL to paste into NetNewsWire.
+If the *Subscribe to Feed* is dimmed, it wasn’t able to find any feeds automatically. The button will only be turned on for sites that advertise a feed in their code. 
+
+You may be able to find a link to a feed by checking the site. There, look for a link to an RSS, Atom or JSON feed. If one exists, you can [add this URL to NetNewsWire directly](adding-feeds). Control-click on the link, copy the URL, and paste it into the Add Feed dialog in NetNewsWire.
+
+
+### The button opens another app
+
+The *Subscribe to Feed* button will open the default RSS app for your system. This is often Apple News.
+
+You can change the default RSS app from NetNewsWire. Choose **NetNewsWire** › **Preferences…** from the menu bar. In the Preferences window, choose NetNewsWire from the default RSS reader list.
