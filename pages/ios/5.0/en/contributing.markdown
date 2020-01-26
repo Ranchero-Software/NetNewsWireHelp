@@ -1,9 +1,7 @@
 @title Contributing
 @template nnw5ios_en.html
 
-NetNewsWire is open-source and contributions from the community are welcomed.
-
-There are two channels for contributing:
+NetNewsWire is open-source and contributions from the community are welcomed. We gather in two places:
 
 * For discussing the app and work around it, we use a [Slack group][slack]
 * For filing tickets, and contributing code or documentation, we use [GitHub][nnw-git]

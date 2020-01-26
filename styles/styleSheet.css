@@ -112,6 +112,11 @@ h2
 
 h3 {
 	font-size: 22px;
+	margin-bottom: 0;
+}
+
+h3 + p {
+	margin-top: 0;
 }
 
 h4
@@ -148,10 +153,6 @@ a { text-decoration: none; }
 a:link { color: #086aee; }
 a:visited { color: rgba(110, 153, 139, 1.0); }
 
-/* reduce the weight of plain strong items as they'll
-   be inline; make them just heavy enough to be noticeable */
-strong { font-weight: 600; }
-
 code, pre
 {
 	font-family: "SF Mono", Menlo, "Courier", monospace;
@@ -176,6 +177,16 @@ code, pre
 .listImage {
 	margin-top: 1.7em;
 	margin-bottom: 1.7em;
+}
+
+.ios-inline-button {
+	height: 1em;
+	vertical-align: -0.1em;
+}
+
+.ios-inline-button-large {
+	height: 1.2em;
+	vertical-align: -0.2em;
 }
 
 .shadowedBox
@@ -299,4 +310,4 @@ table.keyboard-shortcuts tr td:first-child {
 
 table.keyboard-shortcuts th { font-style: italic; }
 
-table.keyboard-shortcuts em { font-weight: 200; }
+table.keyboard-shortcuts em { font-weight: 200; font-style: normal; }

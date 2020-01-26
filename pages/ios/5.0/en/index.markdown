@@ -10,56 +10,57 @@ Getting Started
 
 [What is RSS? What are feeds?](what-is-rss)
 
-[Moving from another RSS app](moving-from-another-app)
+[Move your feeds from another RSS app](moving-from-another-app)
 
 
 
-Accounts
---------
+Accounts and syncing
+--------------------
 
 [Add and manage syncing accounts](syncing-accounts)
 
 [Local accounts: On My iPhone and On My iPad](on-my-ios-device-account)
 
-[How to import feeds from other apps with OPML](import-opml)
+[Import feeds from other apps with OPML](import-opml)
 
 
 
-Reading Feeds
--------------
+Read feeds
+----------
 
-[How to go through your articles](reading-articles)
+[Use <img src="../../../images/ios-icon-next_unread.png" alt="" class="ios-inline-button" /> Next Unread, <img src="../../../images/ios-icon-reader_view.png" alt="" class="ios-inline-button" /> Reader View, and <img src="../../../images/ios-icon-mark_all_read.png" alt="" class="ios-inline-button" /> Mark All As Read](reading-articles)
 
-[Using filters to hide read and empty feeds](filters)
+[Use the <img src="../../../images/ios-icon-filter.png" alt="" class="ios-inline-button" />
+Filter to hide read items](filters)
 
-[How to sort the timeline](sorting-the-timeline)
+[Use Smart Feeds: Today, All Unread, Starred](smart-feeds)
 
-[Smart feeds: Today, All Unread, Starred](smart-feeds)
+[Sort the timeline by oldest or newest](sorting-the-timeline)
 
-[Keyboard shortcuts](keyboard-shortcuts)
+[See notifications and badges for new articles](notifications)
 
-[Sharing to other apps](sharing-articles)
+[Share to other apps](sharing-articles)
 
-[Be notified of new articles](notifications)
+[Use keyboard shortcuts](keyboard-shortcuts)
 
 
 
-Managing Feeds
---------------
+Manage feeds
+------------
 
-[How to add a feed](adding-feeds)
+[Add a feed in NetNewsWire](adding-feeds)
 
-[Using the Share Extension to add feeds](share-extension)
+[Add feeds using the Share Extension](share-extension)
 
-[How to delete feeds and folders](deleting-feeds-folders)
+[Delete feeds and folders](deleting-feeds-folders)
 
-[How to add special Micro.blog feeds](micro-blog-feeds)
+[Rename feeds and folders](renaming-feeds)
 
-[How to rename feeds and folders](renaming-feeds)
+[Add special Micro.blog feeds](micro-blog-feeds)
 
-[How to get and copy feed information](feed-info)
+[Get and copy feed information](feed-info)
 
-[How to export feeds with OPML](export-opml)
+[Export feed subscriptions with OPML](export-opml)
 
 
 
@@ -73,10 +74,10 @@ Need more help?
 The NetNewsWire Project
 -----------------------
 
-[How to get NetNewsWire news](netnewswire-news)
+[Get NetNewsWire news](netnewswire-news)
 
-[NetNewsWire for iOS TestFlight program](testflight)
+[Join the NetNewsWire for iOS TestFlight program](testflight)
 
-[NetNewsWire and your privacy](privacy)
+[Learn about NetNewsWire and your privacy](privacy)
 
-[How to contribute to NetNewsWire](contributing)
+[Learn how to contribute to NetNewsWire](contributing)

@@ -1,17 +1,18 @@
-@title Using timeline filtering
+@title Use the Filter to hide read items
 @template nnw5ios_en.html
 
-NetNewsWire can automatically filter and hide feeds and articles that you have already read.
+NetNewsWire can filter out stuff you’ve already seen, and only show you what’s unread.
 
-Use the **Filter** button in the title bar.
 
-<img src="../../../images/ios-en-filter_button.png"
-     alt="Screenshot of the NetNewsWire Feeds screen titlebar on iPhone with the Feeds button circled."
-     class="centeredImage lightBorder listImage"
-     style="width: 60%;" />
+Turn on the read items filter
+-----------------------------
 
-You can filter in two locations: the Feeds screen, and in an article list – the timeline.
+Tap <img src="../../../images/ios-icon-filter.png" alt="the Filter button" class="ios-inline-button" /> to turn on the read items filter.
 
-Turning on the read filter in the Feeds list hides any feeds with no unread items. This way you can skim the list and find any feeds that you want to read first.
+### Filter the Feeds list
 
-Using the read filter on the timeline hides articles that you’ve read before. This is especially helpful when you’ve only selectively read articles in the list, or if you missed an item farther down the timeline.
+When you turn on the read items filter for the Feeds list, only feeds with unread items will appear.
+
+### Filter Timelines
+
+When you turn on the read items filter in the timeline, you’ll only see items that are unread. The filter only applies to that feed, so you can decide how each feed’s timeline will appear.

@@ -3,30 +3,20 @@
 
 NetNewsWire for iOS and iPadOS can notify you when it gets new articles for your favorite or most important feeds.
 
-<!-- 
-<img src="../../../images/iphone-en-lockscreen_notification.jpeg"
-     alt="A screenshot of the iPhone lock screen displaying a NetNewsWire notification for a new article published in the Daring Fireball feed."
-     class="centeredImage"
-     style="height: 40%;" />
- -->
-
 This feature works for individual feeds, so you don’t have to turn it on for everything – just those you want to know about first.
 
-Turn on notifications for a feed
---------------------------------
 
-1. From the Feeds screen, **touch and hold on the feed**
-2. Choose **Get Info** from the contextual menu
-3. Turn on **Notify About New Articles**
-4. Tap **Done**
+Turn notifications on or off
+----------------------------
+
+From the Feeds screen, touch and hold on the feed and choose Get Info. Turn on or turn off “Notify About New Articles” and tap Done.
 
 
-Turn off notifications
-----------------------
+Turn off all notifications and badges
+-------------------------------------
 
-If you no longer want to be notified of a feed’s new entries, you can turn *off* **Notify About New Articles** in the feed’s settings, using the steps above.
+You can turn off all of NetNewsWire’s notifications at once in the Settings app. Tap <img src="../../../images/ios-icon-settings.png" alt="the Settings button" class="ios-inline-button-large" /> on the Feeds screen and tap “Open System Settings”.
 
-This must be done for each feed. If you don’t want any notifications *at all*, you can turn off notifications in *System Settings*.
 
 
 How quickly will I be notified?

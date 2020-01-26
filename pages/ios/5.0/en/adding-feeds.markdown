@@ -6,7 +6,7 @@ NetNewsWire collects items for you from feeds published on web sites. To do this
 
 *It’s okay if you don’t know that.* NetNewsWire can help you find the address automatically.
 
-<span class="badge-small">Tip</span> When you’re using Safari, you can use the [Share Extension](share-extension) to add a feed. Tap the Share button.
+When you’re using Safari, tap <img src="../../../images/ios-icon-share.png" alt="" class="ios-inline-button-large" /> to add a feed using the [Share Extension](share-extension).
 
 
 
@@ -15,13 +15,13 @@ To add a feed directly in NetNewsWire
 
 NetNewsWire will look at any web page and try to find the feed’s address for you. All you need to give is the site’s URL – like `cate.blog` or `mattgemmell.com`. You don’t even need to enter `http://` or `https://` there.
 
-To get started, tap the **+** button from the Feeds screen.
+To get started, tap <img src="../../../images/ios-icon-add_feed.png" alt="the Add Feed button" class="ios-inline-button" /> on the Feeds screen.
 
 If you’ve got the address already – great! If NetNewsWire sees something like a URL on the Clipboard, it’ll enter it for you. Otherwise, just type the website’s address into the box.
 
-Before you finish, you can choose an alternative name for the feed and where it will be saved.
+If you want, you can choose an alternative name for the feed and where to save it.
 
-Tap **Add** and NetNewsWire will fetch the URL you entered. If you entered an address that’s not a feed, NetNewsWire will search the page and add the feed it finds.
+Tap Add and NetNewsWire will fetch the URL you entered. If you entered an address that’s not a feed, NetNewsWire will search the page and add the feed it finds.
 
 
 
@@ -49,10 +49,6 @@ If NetNewsWire can’t find a feed
 Sometimes NetNewsWire won’t be able to find a feed for a site. Either the site doesn’t offer a feed, or the feed isn’t advertised in a way that NetNewsWire can understand.
 
 You may be able to find a feed manually by visiting the site. There, look for a link to an RSS, Atom or JSON feed. If one exists, you can add this direct URL to NetNewsWire using the process above. Touch and hold on the link and copy the URL to paste into NetNewsWire.
-
-
-
-* * * *
 
 
 

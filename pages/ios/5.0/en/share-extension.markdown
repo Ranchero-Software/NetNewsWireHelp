@@ -1,47 +1,39 @@
-@title Using the Share Extension to add feeds
+@title Add feeds using the Share Extension
 @template nnw5ios_en.html
 
-NetNewsWire provides a Share Extension which allows you to subscribe to a site’s feed easily from within other apps.
+NetNewsWire provides a Share Extension which allows you to subscribe to a site’s feed from within other apps.
 
 
-Where to find the Share Extension
----------------------------------
+Add a subscription using the Share button
+-----------------------------------------
 
-Just look for the Share button – for example, in the Safari toolbar:
+1. Tap <img src="../../../images/ios-icon-share.png" alt="the Share button" class="ios-inline-button-large" /> to open the Share menu.
 
-<img src="../../../images/ios-en-safari_share_menu_button.png"
-     alt="A screenshot of Safari’s toolbar with the Share button circled."
-     class="centeredImage"
-     style="width: 60%;" />
-
-Tap on the Share button and from the Share menu, look for the NetNewsWire icon.
+2. Tap the NetNewsWire icon. You may need to scroll and tap More to find it.
 
 <img src="../../../images/ios-en-system_share_menu.png"
      alt="A screenshot of the iOS share sheet with the NetNewsWire icon visible."
-     class="centeredImage"
-     style="width: 50%;" />
-     
-<span class="badge-small">Note</span> You may need to scroll across the app list and tap **More** to find it.
+     class="centeredImage inlineImage"
+     style="width: 40%;" />
 
-
-Tap on the NetNewsWire icon. In the next screen you can rename the feed and choose the folder and account where it will be saved.
+3. If you want, rename the feed and choose where to save it.
 
 <img src="../../../images/ios-en-system_share_menu_add.png"
      alt="A screenshot of the add feed dialog in the iOS share sheet."
      class="centeredImage"
      style="width: 50%;" />
 
-When finished, tap **Add Feed**.
+4. Tap Add Feed.
 
 NetNewsWire will then look at the web page, locate its feed address and add it to your subscription list. The next time you open NetNewsWire, your new feed will be there.
 
 
 
-If the Share Extension isn’t able to locate a feed
---------------------------------------------------
+If the Share Extension can’t find a feed
+-----------------------------------------
 
-Some sites may not have a feed available, or may not list the feed address in an understandable way. In either case, NetNewsWire won’t be able to add the feed automatically.
+Some sites may not have a feed available, or may not list the feed address in an expected way. In either case, NetNewsWire won’t be able to add the feed automatically.
 
-You may be able to find a link to a feed by checking the site. There, look for a link to an RSS, Atom or JSON feed. If one exists, you can copy the address and [add it to NetNewsWire directly](adding-feeds).
+You may be able to find a link to a feed by browsing the site. Look for a link to an RSS, Atom or JSON feed. If one exists, you can copy the address and [add it to NetNewsWire directly](adding-feeds).
 
-If you can’t find a feed at all, you may consider writing to the web site author or administrator, and request they add one.
+If you can’t find a feed at all, you may not be able to subscribe to the site. Consider writing to the web site author or administrator to request they add one.

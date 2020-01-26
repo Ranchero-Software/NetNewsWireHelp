@@ -9,4 +9,4 @@ Copy feed URLs from the contextual menu
 
 Copy the feed URL or the site home page URL using the feed’s contextual menu.
 
-From the Feeds screen, **touch and hold on the feed** then choose **Copy Feed URL** or **Copy Home Page URL**.
+From the Feeds screen, touch and hold on the feed then choose Copy Feed URL or Copy Home Page URL.

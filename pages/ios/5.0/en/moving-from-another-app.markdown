@@ -1,4 +1,4 @@
-@title Moving from another RSS app
+@title Move from another RSS app
 @template nnw5ios_en.html
 
 There are lots of great feed readers. Fortunately, it’s easy to switch amongst them to find the perfect one for you.
@@ -7,24 +7,24 @@ NetNewsWire is no different: coming is just as easy as [going](export-opml). Tho
 
 
 
-If you use a feed fetching and syncing service
-----------------------------------------------
+If you use Feedbin or Feedly
+----------------------------
 
 You can use your Feedbin or Feedly account directly in NetNewsWire. [Add your account](syncing-accounts) to get started.
 
-Other syncing services aren’t supported yet, but you can still use a local account – see below.
+Other syncing services aren’t supported yet, but you can still use a local account.
 
 
 
-If you don’t use a feed fetching and syncing service
-----------------------------------------------------
+If you use another service, or none at all
+------------------------------------------
 
-Moving from one app to another is usually a breeze.
+Moving from one app to another is usually a breeze because subscription lists are commonly shared using an open standard format: OPML.
 
-Subscription lists are commonly shared using the OPML format. It’s just text (XML), easily readable by software – and even by humans, if they wanted.
+#### Export your subscription list
 
-In your current app, look for the export feature. It might be in the app’s settings. In Reeder, for example, go to Settings, tap on the account and then tap on *Export as OPML…*.
+How to export your subscription list will vary depending on the app, though it often appears in the app’s settings. Check the app’s documentation. In Reeder, for example, go to Settings, tap on the account, and then tap on *Export as OPML…*.
 
-It’s easiest to save the OPML file to a location in the Files app – on your device or to a cloud account like iCloud or Dropbox.
+Save the OPML file to a location in the Files app. Be sure to choose a service like iCloud Drive if you want to use the subscription list on another device.
 
-After you’ve saved the file, open NetNewsWire and follow the instructions to [import the OPML file](import-opml). We hope you enjoy using NetNewsWire.
+After you’ve saved the file, open NetNewsWire and [import the OPML file](import-opml). We hope you enjoy using NetNewsWire.
