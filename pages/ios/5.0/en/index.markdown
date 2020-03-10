@@ -58,7 +58,7 @@ Manage feeds
 
 [Add special Micro.blog feeds](micro-blog-feeds)
 
-[Get and copy feed information](feed-info)
+[Get and copy feed information](get-feed-info)
 
 [Export feed subscriptions with OPML](export-opml)
 
