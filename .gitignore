@@ -1,5 +1,14 @@
 .DS_Store
-wildcat_settings
+
+# Wildcat
+Gemfile*
+config*.rb
+model/
+renderer/
+server/
+utilities/
+wildcat*
+
 
 # [rd]
 # pages/images is a symbolic link to ../images to make
