@@ -8,8 +8,4 @@ The NetNewsWire timeline is the list of articles shown in the center pane.
      class="centeredImage"
      style="width: 90%;" />
 
-By default, this list displays newer articles at the top.
-
-You can change the sorting for the timeline in the View menu: choose **View** → **Sort by** → **Newest Article on Top** or **Oldest Article on Top**.
-
-This setting applies to all feeds.
+By default, newer articles appear at the top of the timeline. You can change this from the menu bar: choose **View** → **Sort by**. The setting applies to all feeds.
