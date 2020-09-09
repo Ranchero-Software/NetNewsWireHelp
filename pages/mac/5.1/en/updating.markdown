@@ -1,22 +1,13 @@
-@title How to Update NetNewsWire
+@title Update NetNewsWire
 @template nnw5mac_en.html
 
-NetNewsWire can check for and install updated versions of itself. This can be done for you automatically in the background, or you can check for updates manually.
+NetNewsWire can check for and install updated versions of the app.
 
 
-Automatic checks for updates
-----------------------------
+Check for updates
+-----------------
 
-After you’ve used NetNewsWire a bit, it will ask if it should periodically check for updates.
-
-<img src="../../../images/mac-en-check_for_updates.png"
-     alt="A screenshot of NetNewsWire asking if it should automatically check for updates."
-     class="centeredImage"
-     style="width: 70%;" />
-
-If you select *Check Automatically*, NetNewsWire will periodically check for updates. When an update is available, you’ll be prompted to download and install it. To check for updates manually, select *Don’t Check*.
-
-If you change your mind later, you can switch update checking on or off in the *Advanced* pane of NetNewsWire’s preferences.
+To turn on automatic update checking, choose **NetNewsWire** → **Preferences…** from the menu bar, and click Advanced. Then turn on “Check automatically”.
 
 <img src="../../../images/mac-en-prefs_advanced_autocheck.png"
      alt="A screenshot of NetNewsWire’s Advanced preferences pane, highlighting the app update checking preference."
@@ -24,27 +15,24 @@ If you change your mind later, you can switch update checking on or off in the *
      style="width: 70%;" />
 
 
-Manually checking for updates
------------------------------
+To check for an update manually, choose **NetNewsWire** → **Check for Updates…** from the menu bar.
 
-You may have declined automatic checks for updates or just [read about a great new update](netnewswire-news) you want to download immediately. You can always check for updates manually by choosing **NetNewsWire › Check for Updates…** from the menu bar.
-
-If a new update is found, NetNewsWire can download and install it for you.
+Whenever there’s an update, NetNewsWire will download and install it for you.
 
 
-Test build updates
-------------------
+Get test builds
+---------------
 
-If you want to help test new features, or just want to be at the bleeding edge, you can tell NetNewsWire to download *Test builds*. If you prefer to just get on with reading, selecting *Release builds* is the best option.
+If you want to help test new features, or just want to be at the bleeding edge, you can update to Test builds.
 
 <img src="../../../images/mac-en-prefs_advanced_check_for.png"
      alt="A screenshot of NetNewsWire’s Advanced preferences pane, highlighting the option to download release builds or test builds of NetNewsWire."
      class="centeredImage"
      style="width: 70%;" />
 
-**If you use test builds, please note:** Test builds may have bugs. You may lose data. NetNewsWire may crash.
+<span class="badge-warning-small">Important</span> Test builds may have bugs. You may lose data. NetNewsWire may crash.
 
-You can report bugs and enhancement requests by filing issues on the [NetNewsWire GitHub page][nnw-issues]. You can also share and discuss issues on the [NetNewsWire Slack][slack] group.
+To report bugs and make enhancement requests, file an issue on the [NetNewsWire GitHub page][nnw-issues]. You can also share and discuss issues on the [NetNewsWire Slack][slack] group.
 
 [nnw-issues]: https://github.com/Ranchero-Software/NetNewsWire/issues
 [slack]: https://ranchero.com/netnewswire/slack

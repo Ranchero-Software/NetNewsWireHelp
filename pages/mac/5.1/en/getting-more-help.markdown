@@ -1,4 +1,4 @@
-@title Where to go for more help using NetNewsWire
+@title Get more help with NetNewsWire
 @template nnw5mac_en.html
 
 NetNewsWire is open source and made by volunteers. As such, support comes from the community.
@@ -10,10 +10,10 @@ If not, consider joining the [NetNewsWire Slack group][slack]. You can ask quest
 You can also email <brent@ranchero.com>, but this is probably the slowest way to get help.
 
 
-Reporting bugs and making feature requests
-------------------------------------------
+Report bugs or make a feature request
+-------------------------------------
 
-You can make feature requests and add bug reports to our [bug tracker on GitHub][gh].
+To report a bug or make a feature request, file an issue on our [GitHub bug tracker][gh].
 
 
 [faq]: https://ranchero.com/netnewswire/frequently-asked-questions
