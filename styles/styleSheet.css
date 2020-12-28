@@ -290,11 +290,14 @@ span.badge-small {
 {
 	div.columns { display: flex; }
 	
-	div.column-left,
-		div.column-right
+	div.column-left
 	{
-		padding: 0.5em;
-		min-width: 50%;
+		padding: 0 0.5em 0 0;
+	}
+	
+	div.column-right
+	{
+		padding: 0 0 0 0.5em;
 	}
 }
 
