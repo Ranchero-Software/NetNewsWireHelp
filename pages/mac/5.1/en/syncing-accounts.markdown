@@ -1,42 +1,37 @@
-@title Using syncing accounts with NetNewsWire
+@title Add a syncing account
 @template nnw5mac_en.html
 
 NetNewsWire can sync your feeds and articles with third-party feed aggregating services like Feedbin and Feedly.
 
-Using these services lets you use multiple apps across different platforms, but keep a single subscription list. Article status is also tracked, so your unread and starred articles stay in sync too.
+If you use a feed aggregator service, you can keep your read status and subscription list in sync even when you use multiple apps.
 
-If you’re not using a feed aggregator, you can use NetNewsWire in local account mode with an [On My Mac account](on-my-mac).
-
-
-Adding a syncing account to NetNewsWire
----------------------------------------
-
-To add a syncing account to NetNewsWire, start by opening NetNewsWire Preferences.
-
-1. Choose **NetNewsWire › Preferences…** (⌘,) from the menu bar
-2. Select **Accounts**
-3. Click the **+** button or select your service from the list
-4. Enter the email or username and password for your account and click **Create**
-
-NetNewsWire will then add the account and sync your feeds.
-
-You can find the sync account feeds in the NetNewsWire sidebar, under Smart Feeds and any On My Mac feeds.
+If you’re not using a feed aggregator, you can use the [On My Mac account](on-my-mac).
 
 
-Changing synced account information
------------------------------------
+Add a syncing account
+---------------------
 
-### Changing sync account name
+To add a syncing account to NetNewsWire:
+
+1. Choose **NetNewsWire** → **Preferences…** (⌘,) from the menu bar, then click **Accounts**.
+2. Click the **+** button, then click the service.
+3. Enter your username and password, then click **Add Account**.
+
+The account and its feeds will appear in the NetNewsWire sidebar.
+
+
+Changing account information
+----------------------------
+
+### Account name
 
 The name of your sync account will be the name of the service by default. You can change this name, which is especially useful if you have multiple accounts on the same service. You can even use emoji. 🐝
 
 
-### Updating sync account credentials
+### Username or password
 
 If you change any information for logging into the sync account – user name, email address, password – you may need to update the credentials stored in NetNewsWire.
 
-1. Choose **NetNewsWire › Preferences…** (⌘,) from the menu bar
-2. Select **Accounts**
-3. Select your account from the list
-4. Click the **Credentials** button and enter your updated login information
-5. Click **Update** to verify and save your new credentials
+1. Choose **NetNewsWire** → **Preferences…** (⌘,) from the menu bar, then click **Accounts**.
+2. Select your account, then click **Credentials**.
+3. Enter your information, then click **Update**.

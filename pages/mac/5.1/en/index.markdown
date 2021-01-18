@@ -4,87 +4,86 @@
 # NetNewsWire 5.1 for Mac Help
 
 
-Getting Started
----------------
+Get started
+-----------
 
 [What is RSS? What are feeds?](what-is-rss)
 
 
-Reading Feeds
+Read feeds
+----------
+
+[Go through your articles](reading-articles)
+
+[Use Reader View to get the full text of any article](reader-view) <span class="badge-info-small">New</span>
+
+<!-- [How to sort the timeline](sorting-the-timeline) -->
+
+[Use the Today, All Unread, and Starred smart feeds](smart-feeds)
+
+[Use keyboard shortcuts](keyboard-shortcuts)
+
+[Share to other apps, like MarsEdit and Micro.blog](sharing-articles)
+
+<!-- [Undo Mark All as Read](undo-mark-all-as-read) -->
+
+
+Add feeds
+---------
+
+[Add a feed](adding-feeds)
+
+[Add feeds in Safari using the Subscribe to Feed extension](safari-extension)
+
+[Add special Micro.blog feeds](micro-blog-feeds)
+
+[Import feeds from OPML](import-opml)
+
+
+Manage feeds
+------------
+
+[Delete feeds or folders](deleting-feeds-folders)
+
+[Rename feeds or folders](renaming-feeds)
+
+[Get and copy feed information](feed-info)
+
+[Export feeds to OPML](export-opml)
+
+
+Manage accounts
+---------------
+
+[Use the On My Mac account](on-my-mac)
+
+[Add a syncing account](syncing-accounts)
+
+
+Customize NetNewsWire
+---------------------
+
+[Turn off the unread count in the Dock](customizing)
+
+<!-- [Use a traditional window title bar](hidden-preferences) -->
+
+
+
+Get more help
 -------------
 
-[How to go through your articles](reading-articles)
+[Get more help with NetNewsWire](getting-more-help)
 
-[Use reader view for full-text in NetNewsWire](reader-view) <span class="badge-note-small">New in 5.1</span>
-
-[How to sort the timeline](sorting-the-timeline)
-
-[Smart feeds: Today, All Unread, Starred](smart-feeds)
-
-[Keyboard shortcuts](keyboard-shortcuts)
-
-[Sharing to other apps, including MarsEdit and Micro.blog](sharing-articles)
+<!-- [Manage NetNewsWire preference files](userdata-location) -->
 
 
-Managing Feeds
---------------
+Learn about the NetNewsWire project
+-----------------------------------
 
-[How to add a feed](adding-feeds)
+[Update NetNewsWire](updating)
 
-[Installing and using the Safari Extension to add feeds](safari-extension)
+[Get NetNewsWire news](netnewswire-news)
 
-[How to delete feeds and folders](deleting-feeds-folders)
+[Learn about NetNewsWire and your privacy](privacy)
 
-[How to add special Micro.blog feeds](micro-blog-feeds)
-
-[How to rename feeds and folders](renaming-feeds)
-
-[How to get and copy feed information](feed-info)
-
-
-Accounts
---------
-
-[About the On My Mac account](on-my-mac)
-
-[How to add a syncing account](syncing-accounts)
-
-
-Personalization
----------------
-
-[Customizing NetNewsWire](customizing) – Dock icon badge
-
-
-NetNewsWire Data
-----------------
-
-[Where NetNewsWire data is stored](userdata-location) <!-- #todo update for sandboxing -->
-
-[How to import feeds with OPML](import-opml)
-
-[How to export feeds with OPML](export-opml)
-
-
-Need more help?
----------------
-
-[Where to go for more help](getting-more-help)
-
-
-Advanced Topics
----------------
-
-[Hidden Preferences](hidden-preferences)
-
-
-The NetNewsWire Project
------------------------ 
-
-[How to update NetNewsWire](updating) <!-- #todo update for MAS -->
-
-[How to get NetNewsWire news](netnewswire-news)
-
-[NetNewsWire and your privacy](privacy)
-
-[How to contribute to NetNewsWire](contributing)
+[Contribute to NetNewsWire](contributing)

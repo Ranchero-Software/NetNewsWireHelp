@@ -1,4 +1,4 @@
-@title Micro.blog feeds
+@title Add special Micro.blog feeds
 @template nnw5mac_en.html
 
 We’re fans of [Micro.blog][mb], an open microblogging platform.
@@ -11,13 +11,13 @@ Because it’s built on open web standards like RSS, apps like NetNewsWire can a
 Subscribe to your own Micro.blog timeline
 -----------------------------------------
 
-To use NetNewsWire to read the Micro.blog posts that appear in your timeline (*not your posts*), use this feed format:
+To use NetNewsWire to read the Micro.blog posts that appear in your timeline (not your posts), use this feed format:
 
 	https://micro.blog/feeds/USERNAME.xml
 
-If your Micro.blog username is *abigail*, then you’d subscribe to:
+If your Micro.blog username is *sienna*, then you’d subscribe to:
 
-	https://micro.blog/feeds/abigail.xml
+	https://micro.blog/feeds/sienna.xml
 
 ### Subscribe to another user’s timeline
 

@@ -24,6 +24,6 @@ How quickly will I be notified?
 
 You are notified when NetNewsWire downloads the article. iOS suggests the best times for NetNewsWire to check for new articles based on when you often open the app.
 
-If you want notifications sooner, Feedbin make [*Feedbin Notifier*][fbn], a notification app for use with their service. It notifies you as soon as Feedbin knows about a new item.
+If you want notifications sooner, Feedbin makes [*Feedbin Notifier*][fbn], a notification app for use with their service. It notifies you as soon as Feedbin knows about a new item.
 
 [fbn]: https://apps.apple.com/us/app/feedbin-notifier/id996164128

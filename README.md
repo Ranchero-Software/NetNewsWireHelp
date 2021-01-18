@@ -1,43 +1,47 @@
 # NetNewsWire Help Book
 
-Help book for NetNewsWire, a free and open source RSS reader for Mac and (soon!) iOS. 
+Help books for NetNewsWire, a free and open source RSS reader for Mac and iOS.
 
-The help book will be made available online as a web page. Right now we have English docs but *other languages are welcome*.
+Available on the web at <https://ranchero.com/netnewswire/help/>.
 
 
-Contributing to the help books
-------------------------------
 
-If you’d like to write or edit the Help book, translate into another language or help with screenshots, please bring it up on the [NetNewsWire Slack][slack] group in the *#helpbook* channel. We’ll coordinate there.
+Contribute to the help books
+----------------------------
+
+Right now we have English docs but *other languages are welcome*.
+
+If you’d like to write or edit the help books, translate them or help with anything at all, please bring it up on the [NetNewsWire Slack][slack] group in the *#helpbook* channel. We’ll coordinate there.
+
+If you find an error or have any suggestions, you can also [file an issue][issue].
 
 Every community member is expected to abide by the code of conduct included in the [NetNewsWire Contributing][contrib] page.
 
 [slack]: https://ranchero.com/netnewswire/slack
 [contrib]: https://github.com/Ranchero-Software/NetNewsWire/blob/master/CONTRIBUTING.md
+[issue]: https://github.com/Ranchero-Software/NetNewsWireHelp/issues
 
 
-Editing notes
--------------
+How we make the help books
+--------------------------
 
 ### Text
 
-Text is written in Markdown. The `.markdown` files will be turned into HTML by a script ([wildcat][wc]) to appear on the NetNewsWire site: <https://ranchero.com/netnewswire/help/>.
+Write in Markdown, and use HTML when necessary. Save pages as `.markdown` files. [Wildcat][wc] will tranform these into a site of HTML files. We publish the help books on the NetNewsWire site: <https://ranchero.com/netnewswire/help/>.
 
-[wc]: https://github.com/Ranchero-Software/wildcat
+[wc]: https://github.com/brentsimmons/wildcat
 
 
 ### Titles
 
-Include the page title by using `@title` on the first line of a document.
+Use a `@title` directive to set the page title. This sets it in the HTML page’s head and inserts a top level page heading (h1) when we generate the site:
 
-	@title Ceci est le titre
+	@title This cat is wild
 	
-A top-level page heading (h1) and the HTML page header will be generated automatically.
-
 
 ### Links
 
-Links are made using standard Markdown syntax but when linking to another Help Book page, *no file extension is needed*. Thus,
+Write links with standard Markdown syntax. When you link to another Help Book page, don’t include a file extension:
 
 	[Export](export-opml)
 
@@ -46,7 +50,7 @@ is sufficient to link to the final HTML version of the `export-opml.markdown` pa
 
 ### Badges
 
-There are three types of badge which can be used to point out important information or to provide guideposts to readers.
+There are three types of badge you can use to point out important information or to provide guideposts to readers.
 
 An amber/yellow *warning* badge which can be used as such:
 
@@ -86,14 +90,14 @@ When linking to images, use a relative path. For example, use:
 when you’re linking from a page at `mac/5.1/en/page.markdown`.
 
 
-#### How to name images
+#### File names
 
 Because all images are saved in a single directory, it’s best to name files so they’re easy to identify. For example:
 
 	mac-en-check_for_updates.png
 
 
-#### Using images in pages
+#### Insert images
 
 All images must include an `alt` attribute whose text is descriptive of the linked image.
 
@@ -108,11 +112,11 @@ But for more control, it’s best to just use HTML.
     	class="centeredImage"
     	style="width: 33%;" />
 
-##### Centring images
+##### Image alignment
 
 You can use the `centeredImage` CSS class to centre your image. You can adjust the size of your image using a relative unit (like `33%` above). You can also specify absolute pixel units with `width` and `height` attributes in the `<img>` tag.
 
-##### Other image effects used
+##### Other image effects
 
 - A standardised shadow can be added to an image by adding the `shadowedBox` class
 - A standardised border (useful for iOS) can be added by adding the `lightBorder` class
@@ -124,38 +128,56 @@ Screenshots must be taken on a retina device. We’ll use retina images even for
 
 
 
-Style suggestions
------------------
+Help book style
+---------------
 
-In the English Help Book, we use **strong/bold** text for actions (keys to press, menu items to open) taken by the user:
+As much as possible, we follow the [Apple Style Guide][asg] (also available on [Apple Books][asg-ab]).
 
-> Choose **File › Quit** from the menu bar to quit the app.
-
-As much as possible, we follow the [Apple Style Guide][asg].
-
-[asg]: https://books.apple.com/jp/book/apple-style-guide/id1161855204?l=en "Apple Style Guide on Apple Books"
+[asg]: https://help.apple.com/applestyleguide/ "Apple Style Guide"
+[asg-ab]: https://books.apple.com/jp/book/apple-style-guide/id1161855204?l=en "Apple Style Guide on Apple Books"
 
 
 
-Building locally
-----------------
+Build the help book site locally
+--------------------------------
 
-You’ll need Wildcat, as previously mentioned. At the top level of this folder you’ll need a `wildcat_settings` file which should look something like this:
+You’ll need [Wildcat][wc], Ruby and a handful of Gems.
+
+### Step 1. Set up and install Ruby and Gems
+
+Wildcat is written in Ruby, which comes with your Mac. Consider setting up your own Ruby environment with [rbenv][] or [Ruby Version Manager (rvm)][rvm], then install the required gems using the `Gemfile`:
+
+	gem install bundler
+	bundle install
+
+At the time of writing, these dependencies are `Kramdown` and `stringex`, if you want to install them manually.
+
+[rbenv]: https://github.com/rbenv/rbenv "rbenv/rbenv: Groom your app’s Ruby environment"
+[rvm]: https://rvm.io/ "RVM: Ruby Version Manager - RVM Ruby Version Manager - Documentation"
+
+### Step 2. Set up Wildcat
+
+Download or clone [Wildcat][wc], then copy the project’s contents to the `NetNewsWireHelp` folder. Git will ignore these files. Create a `wildcat_settings` file with these settings:
 
 	@site_name NetNewsWire Help
 	@site_url https://ranchero.com/netnewswire/help/
-	@output_file_suffix (empty-string)
+	@output_file_suffix .html
 	@output_folder /Users/brent/Sites/NetNewsWireHelp/
 	@favicon_url https://ranchero.com/images/nnw_icon_32.png
 	@icon_url https://ranchero.com/images/nnw_icon_256.png
 	@has_blog false
 
-Change `@output_folder` to whatever makes sense on your machine.
+Change `@output_folder` to whatever makes sense on your machine. On the site, we set `@output_file_suffix` to `(empty-string)`, but `.html` files may be easier to work with.
 
-Note: this doesn’t build a truly self-contained website. We’d like to make that possible in the future. But at this writing (11 Aug. 2019) the higher priority is shipping NetNewsWire 5.0. :)
+Note: This doesn’t build a truly self-contained website. We’d like to make that possible in the future.
+
+### Step 3. Build the site
+
+Run `ruby wildcat_publish.rb` to build the site to the folder you specified. You’ll need to provide the web server if you want a fully linked and working site.
 
 
-### Previewing in BBEdit
+Preview help book pages in BBEdit
+---------------------------------
 
 To get a general idea of how the pages will look, you can copy the stylesheet to BBEdit’s Preview CSS library (See BBEdit → Folders → Preview CSS). You might want to adjust the body margin and width to make it look a little nicer:
 

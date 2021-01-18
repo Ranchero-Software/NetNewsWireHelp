@@ -153,13 +153,23 @@ a { text-decoration: none; }
 a:link { color: #086aee; }
 a:visited { color: rgba(110, 153, 139, 1.0); }
 
-code, pre
-{
+code, pre {
 	font-family: "SF Mono", Menlo, "Courier", monospace;
 	font-size: 16px;
-	color: #666;
 	white-space: pre-wrap;
 }
+
+p > code, pre {
+	background-color: #eee;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+	padding: 0 0.25em;
+}
+
+pre {
+	margin-left: 2em;
+}
+
 
 
 
@@ -189,13 +199,20 @@ code, pre
 	vertical-align: -0.2em;
 }
 
-.shadowedBox
-{
+.mac-inline-toolbar-button {
+	height: 1em;
+	vertical-align: -0.2em;
+	padding: 0.1em 0.5em;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	background-color: #f8f8f8;
+}
+
+.shadowedBox {
 	box-shadow: 3px 3px 12px rgba(0, 0, 0, 0.2);
 }
 
-.lightBorder
-{
+.lightBorder {
 	border: 1px solid #C7C7C7;
 }
 
@@ -210,8 +227,8 @@ span.badge-warning,
 span.badge-warning-small,
 span.badge-note,
 span.badge-note-small,
-span.badge-distro,
-span.badge-distro-small,
+span.badge-info,
+span.badge-info-small,
 span.badge,
 span.badge-small {
 	padding: 0em 0.3em;
@@ -235,8 +252,8 @@ span.badge-note-small {
 	color: white;
 }
 
-span.badge-distro,
-span.badge-distro-small,
+span.badge-info,
+span.badge-info-small,
 span.badge,
 span.badge-small {
 	background-color: #3170DC;
@@ -247,7 +264,7 @@ span.badge-small {
 /* reduce the size for the -small ones */
 span.badge-warning-small,
 span.badge-note-small,
-span.badge-distro-small,
+span.badge-info-small,
 span.badge-small {
 	padding-top: 0.05em;
 	padding-bottom: 0.05em;
@@ -307,7 +324,3 @@ table.keyboard-shortcuts tbody tr:nth-child(odd) {
 table.keyboard-shortcuts tr td:first-child {
 	width: 70%;
 }
-
-table.keyboard-shortcuts th { font-style: italic; }
-
-table.keyboard-shortcuts em { font-weight: 200; font-style: normal; }

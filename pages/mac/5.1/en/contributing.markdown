@@ -1,12 +1,12 @@
-@title Contributing
+@title Contribute to NetNewsWire
 @template nnw5mac_en.html
 
 NetNewsWire is open-source and contributions from the community are welcomed.
 
 There are two channels for contributing:
 
-* For discussing the app and work around it, we use a [Slack group][slack]
-* For filing tickets, and contributing code or documentation, we use [GitHub][nnw-git]
+* [Slack][] to discuss the app and work around it.
+* [GitHub][nnw-git] to file bugs or feature requests, and to contribute code or documentation.
 
 Every community member is expected to abide by the code of conduct included in the [NetNewsWire Contributing][contrib] page.
 
@@ -14,7 +14,7 @@ Every community member is expected to abide by the code of conduct included in t
 Slack
 -----
 
-[Join the Slack group][slack] to talk with other NetNewsWire users – and to help out, if you’d like to. You can help by testing, coding, writing, providing feedback, or just helping us think things through. Everybody is welcome and encouraged to join.
+[Join the Slack group][slack] to talk with other NetNewsWire users – and to help out, if you’d like. You can help by testing, coding, writing, providing feedback, or just helping us think things through. Everybody is welcome and encouraged to join.
 
 
 GitHub

@@ -1,4 +1,4 @@
-@title How to get and copy feed information
+@title Get and copy feed information
 @template nnw5mac_en.html
 
 Sometimes you’re subscribed to a feed that you want to share with a friend. The quickest way to get the address for the feed or the site’s home page is to copy them from NetNewsWire.

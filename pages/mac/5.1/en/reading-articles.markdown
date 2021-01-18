@@ -1,45 +1,36 @@
-@title How to go through your articles
+@title Go through your articles
 @template nnw5mac_en.html
 
-NetNewsWire was built to make it easy to read your articles one-handed. This is perfect for when your other hand is occupied with a warm drink or an insistent furry friend.
-
-One-handed reading can be accomplished with keyboard shortcuts. NetNewsWire’s shortcuts are special because many only require pressing *a single key*.
-
-(For a full list of keyboard shortcuts, including Command (⌘) key alternatives, see the [Keyboard Shortcuts](keyboard-shortcuts) help page, or use **Help › Keyboard Shortcuts** in NetNewsWire.)
+NetNewsWire has lots of keyboard shortcuts to make it easy for you to go through your articles. NetNewsWire’s shortcuts are special because you usually only need to press a single key.
 
 
-Use the Space bar
------------------
+Press space bar to scroll and go to next unread
+-----------------------------------------------
 
-The easiest way to read articles in NetNewsWire is using the **space bar**.
-
-If you’re reading an article that can be scrolled, pressing **space bar** will scroll it – just like it would in Safari. If you’re at the end of the article, pressing **space bar** will take you to the next unread article.
+When you’re reading, press `space` to scroll the article. When you’re at the end of an article, press `space` again to go to the next unread article.
 
 
-Go to Next Unread
------------------
+Jump to the next unread article
+-------------------------------
 
-Sometimes you may want to skip reading an article entirely – that’s totally fine! Rather than press space bar multiple times, you can jump directly to the next unread item by pressing ⌘-/ or just press **n** or **+**.
-
-If you want to skip the article for now, but plan to come back to it later, the **m** key is for you. Pressing it will mark the current article as unread and then go to the *next unread* item.
+To go to the next unread article from anywhere, press `n`. To mark the current article as unread and then go to the next unread article, use `m` instead.
 
 
-Moving around lists
--------------------
+Move around the interface to read at will
+-----------------------------------------
 
-You may not always want to read linearly – imagine there’s a new article on [Julia Evans’](https://jvns.ca) site you want to read first. You still don’t need to leave the keyboard.
+Press `←` or `→` (Left and Right Arrow keys) to move between the three panes in the NetNewsWire interface: the subscriptions list (left sidebar), articles list timeline (center pane) and the article detail pane (right).
 
-Pressing the Left and Right Arrow keys will move you between the three panes in the NetNewsWire interface. Those panes are, from the left, the subscriptions list (left sidebar), articles list timeline (center pane) and the full article detail pane (right). The selected item’s highlight color gives you a hint to which pane is active.
-
-In the subscription and article lists, the Up and Down Arrow keys will change the currently selected item.
+In the subscription and article lists, use the Up and Down Arrow keys to change the currently selected item.
 
 
-Marking as read or unread
--------------------------
+Mark as read or unread
+----------------------
 
-As you zip through the NetNewsWire interface, you may want to mark an article as read or unread. The easiest way to do this is use either the **r** or **u** key – they both toggle between read and unread.
+Press the `r` or `u` keys to toggle an article as read or unread.
 
-…and more!
+
+Learn more
 ----------
 
-Again, see the [Keyboard Shortcuts](keyboard-shortcuts) help page or **Help › Keyboard Shortcuts** in NetNewsWire for a full list of keyboard shortcuts.
+There are even more [keyboard shortcuts in NetNewsWire](keyboard-shortcuts). Choose **Help › Keyboard Shortcuts** from the menu bar to see the list in the app.

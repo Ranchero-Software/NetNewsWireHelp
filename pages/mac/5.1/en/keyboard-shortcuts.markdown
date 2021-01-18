@@ -1,92 +1,76 @@
-@title Keyboard shortcuts
+@title Use keyboard shortcuts
 @template nnw5mac_en.html
 
-NetNewsWire’s interface is easily navigable using keyboard shortcuts.
+You can use keyboard shortcuts to navigate the NetNewsWire interface.
 
-The most useful shortcuts are for reading articles: **space** to scroll articles and jump to the next unread one, or **n** to jump immediately to the next unread article. There’s also **b** to open the article in your browser, but the **Return** or **Enter** keys work too.
+The most useful shortcuts are for reading articles: `space` to scroll articles and jump to the next unread one, `n` to go to the next unread article, and `b` to open the article in your browser. [Learn more about how to go through your articles.](reading-articles)
 
+You don’t need to use the Command (⌘) key for most keyboard shortcuts. Press the key by itself.
 
-In-app list of keyboard shortcuts
----------------------------------
-
-A comprehensive list of NetNewsWire’s keyboard shortcuts is always accessible to you in NetNewsWire. Just choose **Help › Keyboard Shortcuts** in the menu bar.
-
-The list opens in a separate window. You could even leave it open to remind you of the keys to press. *You’ll be a NetNewsWire keyboard magician in no time.*
-
-
-### Do I need to use the Command key?
-
-No, the Command (⌘) key isn’t used for these keyboard shortcuts – just press the key by itself. Some have alternatives using the Command key, though.
-
-
-NetNewsWire’s keyboard shortcuts
---------------------------------
-
-Many keyboard shortcuts work everywhere in the app, no matter where you last clicked and what’s selected.
-
+Many keyboard shortcuts work everywhere in the app:
 
 <table class="keyboard-shortcuts">
 	<thead>
 		<tr>
-			<th colspan="2"> Everywhere in NetNewsWire </th>
+			<th colspan="2"> Everywhere </th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td> Scroll or go to next unread </td>
-			<td> <strong> space </strong> </td>
+			<td> <code>space</code> </td>
 		</tr>
 		<tr>
 			<td> Go to next unread </td>
-			<td> <strong> n </strong> <em>or</em>
-			     <strong> + </strong>
+			<td> <code>n</code> or
+			     <code>+</code>
 			</td>
 		</tr>
 		<tr>
 			<td> Toggle read status </td>
-			<td> <strong> r </strong> <em>or</em>
-			     <strong> u </strong>
+			<td> <code>r</code> or
+			     <code>u</code>
 			</td>
 		</tr>
 		<tr>
 			<td> Mark all as read </td>
-			<td> <strong> k </strong> </td>
+			<td> <code>k</code> </td>
 		</tr>
 		<tr>
 			<td> Mark older articles as read </td>
-			<td> <strong> o </strong> </td>
+			<td> <code>o</code> </td>
 		</tr>
 		<tr>
 			<td> Mark all as read, go to next unread </td>
-			<td> <strong> l </strong> </td>
+			<td> <code>l</code> </td>
 		</tr>
 		<tr>
 			<td> Mark as unread, go to next unread </td>
-			<td> <strong> m </strong> </td>
+			<td> <code>m</code> </td>
 		</tr>
 		<tr>
 			<td> Toggle starred status </td>
-			<td> <strong> s </strong> </td>
+			<td> <code>s</code> </td>
 		</tr>
 		<tr>
 			<td> Open in browser </td>
-			<td> <strong> b     </strong> <em>or</em>
-			     <strong> ⏎    </strong> <em>or</em>
-			     <strong> Enter </strong>
+			<td> <code>b</code> or
+			     <code>⏎</code> or
+			     <code>Enter</code>
 			</td>
 		</tr>
 		<tr>
 			<td> Previous subscription </td>
-			<td> <strong> a </strong> </td>
+			<td> <code>a</code> </td>
 		</tr>
 		<tr>
 			<td> Next subscription </td>
-			<td> <strong> z </strong> </td>
+			<td> <code>z</code> </td>
 		</tr>
 	</tbody>
 </table>
 
-The following shortcuts only apply depending on the current focus (where your current selection is, or the area where you last clicked).
+The following shortcuts only work depending on where your current selection is, or the area where you last clicked.
 
 <table class="keyboard-shortcuts">
 	<thead>
@@ -97,31 +81,31 @@ The following shortcuts only apply depending on the current focus (where your cu
 	<tbody>
 		<tr>
 			<td> Collapse </td>
-			<td><strong> ,   </strong> <em>or</em>
-			    <strong> ⌥ ← </strong>
+			<td><code>,</code> or
+			    <code>⌥ ←</code>
 			</td>
 		</tr>
 		<tr>
 			<td> Expand </td>
-			<td><strong> .   </strong> <em>or</em>
-			    <strong> ⌥ → </strong>
+			<td><code>.</code> or
+			    <code>⌥ →</code>
 			</td>
 		</tr>
 		<tr>
 			<td> Collapse All (except for group items) </td>
-			<td><strong> ;     </strong> <em>or</em>
-			    <strong> ⌥⌘ ← </strong>
+			<td><code>;</code> or
+			    <code>⌥⌘ ←</code>
 			</td>
 		</tr>
 		<tr>
 			<td> Expand All </td>
-			<td><strong> '     </strong> <em>or</em>
-			    <strong> ⌥⌘ → </strong>
+			<td><code>'</code> or
+			    <code>⌥⌘ →</code>
 			</td>
 		</tr>
 		<tr>
 			<td> Move focus to headlines </td>
-			<td> <strong> → </strong> </td>
+			<td> <code>→</code> </td>
 		</tr>
 	</tbody>
 </table>
@@ -129,17 +113,17 @@ The following shortcuts only apply depending on the current focus (where your cu
 <table class="keyboard-shortcuts">
 	<thead>
 		<tr>
-			<th colspan="2"> Article list timeline </th>
+			<th colspan="2"> Timeline </th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td> Move focus to subscriptions </td>
-			<td> <strong> ← </strong> </td>
+			<td> <code>←</code> </td>
 		</tr>
 		<tr>
 			<td> Move focus to detail </td>
-			<td> <strong> → </strong> </td>
+			<td> <code>→</code> </td>
 		</tr>
 	</tbody>
 </table>
@@ -153,9 +137,12 @@ The following shortcuts only apply depending on the current focus (where your cu
 	<tbody>
 		<tr>
 			<td> Move focus to article list timeline </td>
-			<td> <strong> ← </strong> </td>
+			<td> <code>←</code> </td>
 		</tr>
 	</tbody>
 </table>
 
-*The* ← *and* → *symbols are the Left and Right Arrow keys on your keyboard.*
+Learn more
+----------
+
+You can see a full list of NetNewsWire’s keyboard shortcuts in the app. Choose **Help › Keyboard Shortcuts** in the menu bar.
