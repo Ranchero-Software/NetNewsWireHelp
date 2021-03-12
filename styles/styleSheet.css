@@ -229,6 +229,7 @@ span.badge-note,
 span.badge-note-small,
 span.badge-info,
 span.badge-info-small,
+span.badge-key,
 span.badge,
 span.badge-small {
 	padding: 0em 0.3em;
@@ -261,6 +262,14 @@ span.badge-small {
 	color: white;
 }
 
+span.badge-key {
+	background-color: #919191;
+	border-color: #5E5E5E;
+	color: white;
+	font-size: 0.8em;
+	text-transform: uppercase;
+}
+
 /* reduce the size for the -small ones */
 span.badge-warning-small,
 span.badge-note-small,
@@ -276,6 +285,7 @@ span.badge-small {
 	font-size: 0.8em;
 	line-height: 1.4em;
 }
+
 
 
 
