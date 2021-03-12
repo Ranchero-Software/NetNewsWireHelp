@@ -208,12 +208,18 @@ pre {
 	background-color: #f8f8f8;
 }
 
+.shadow,
 .shadowedBox {
-	box-shadow: 3px 3px 12px rgba(0, 0, 0, 0.2);
+	box-shadow: 0 10px 15px 10px rgba(164, 164, 164, 0.1);
+	border: 1px solid #C7C7C7;
 }
 
 .lightBorder {
 	border: 1px solid #C7C7C7;
+}
+
+.round {
+	border-radius: 8px;
 }
 
 
