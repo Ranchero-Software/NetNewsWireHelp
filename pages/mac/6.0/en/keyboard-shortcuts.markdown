@@ -1,5 +1,5 @@
 @title NetNewsWire keyboard shortcuts
-@template nnw5mac_en.html
+@template nnw6mac_en.html
 
 You can use keyboard shortcuts to read and navigate the NetNewsWire interface. Most don’t require Command, Option, or Control. Just press the key.
 
