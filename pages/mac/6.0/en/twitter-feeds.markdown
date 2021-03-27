@@ -12,8 +12,8 @@ To get started, set up the Twitter extension:
 3. Sign in to your account and authorize NetNewsWire to use your Twitter account.
 
 
-Add a Twitter feed
------------------
+Subscribe to a Twitter feed
+---------------------------
 
 <div class="columns">
 <div class="column-left">
@@ -43,4 +43,4 @@ Learn more
 Learn how to subscribe to other kinds of feeds:
 
 * [Reddit feeds](reddit-feeds)
-* [Micro.blog feeds](twitter-feeds)
+* [Micro.blog feeds](micro-blog-feeds)

@@ -9,11 +9,12 @@ NetNewsWire shows you articles from your favorite blogs and news sites and keeps
 
 This means you can stop going from page to page in your browser looking for new articles to read. Do it the easy way instead: let NetNewsWire bring you the news.
 
-To get started, [download NetNewsWire 6 for Mac](https://github.com/Ranchero-Software/NetNewsWire/releases/download/mac-6.0beta1/NetNewsWire6.0.zip).
+To get started, [download NetNewsWire 6 for Mac](https://ranchero.com/downloads/NetNewsWire6.0.zip).
 
 
 
-## Add an account
+Add an account
+--------------
 
 <span class="badge-note-small">Tip</span> If you’ll read on one Mac only, you don’t need to add an account.
 
@@ -35,7 +36,8 @@ You can use your syncing feed account so you can keep track of your feeds and th
 
 
 
-## Read articles
+Read articles
+-------------
 
 Click a site in the sidebar to see its articles or use <img src="../../../images/mac-icon_today.png" style="height: 1em; vertical-align: -0.1em" /> <span style="font-weight: 500;">Today</span> to see the latest. Click an article to start reading.
 
@@ -68,13 +70,12 @@ NetNewsWire makes it easy to read. You can even use keyboard shortcuts to read o
 If you don’t see all of an article, use Reader View. Click <img src="../../../images/mac-icon_reader_view6.png" alt="the Reader View icon" class="ios-inline-button" /> to see the full article. No need to open it in your browser.
 
 
-## Add a feed
+Subscribe to a feed
+-------------------
 
-Click <img style="height: 1.2em; vertical-align: -0.25em;" src="../../../images/mac-icon_plus_toolbar.png" alt="The plus button"> and choose New Web Feed, then enter the URL for your favorite site or its feed.
+Click <img style="height: 1.2em; vertical-align: -0.25em;" src="../../../images/mac-icon_plus_toolbar.png" alt="The plus button"> and choose New Web Feed, then enter the URL for your favorite site or its feed. If you use Safari, you can [subscribe to a feed from the Safari toolbar](safari-extension).
 
-[Learn how to add a feed in Safari.](safari-extension)
-
-You can also [add a Reddit feed or subreddit](reddit-feeds), or a [Twitter feed](twitter-feeds).
+You can also subscribe to [a Reddit feed or subreddit](reddit-feeds), a [Twitter feed](twitter-feeds), or a [Micro.blog feed](micro-blog-feeds) to read directly in NetNewsWire.
 
 
 Learn more

@@ -12,8 +12,8 @@ To get started, set up the Reddit extension:
 3. Sign in to your account and allow NetNewsWire to access your Reddit account.
 
 
-Add a Reddit feed
------------------
+Subscribe a Reddit feed
+-----------------------
 
 <div class="columns">
 <div class="column-left">
@@ -41,4 +41,4 @@ Learn more
 Learn how to subscribe to other kinds of feeds:
 
 * [Twitter feeds](twitter-feeds)
-* [Micro.blog feeds](twitter-feeds)
+* [Micro.blog feeds](micro-blog-feeds)

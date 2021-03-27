@@ -1,7 +1,7 @@
-@title Add feeds in Safari using the Subscribe to Feed extension
+@title Subscribe to a feed from the Safari toolbar
 @template nnw6mac_en.html
 
-You can use the NetNewsWire *Subscribe to Feed* button to [add the feed for a site](adding-feeds) from Safari without copying and pasting the address.
+You can use the NetNewsWire *Subscribe to Feed* extension to subscribe to a site’s feed directly in Safari.
 
 <img src="../../../images/mac-en-safari_extension_toolbar.png"
      alt="An screenshot of Safari’s toolbar with the “Subscribe to Feed” button circled."
