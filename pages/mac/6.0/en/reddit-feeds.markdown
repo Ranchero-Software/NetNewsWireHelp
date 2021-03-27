@@ -1,21 +1,19 @@
 @title Learn how to subscribe to a Reddit feed or subreddit
 @template nnw6mac_en.html
 
-With NetNewsWire 6, you can browse your favorite Reddit feeds and subreddits just like any other web feed.
+With NetNewsWire 6, you can browse your favorite Reddit feeds and subreddits just like any other web feed. Subscribe to a Reddit feed or to the posts from a subreddit.
 
 Reddit feeds work only with an iCloud or On Your Mac account.
 
 To get started, set up the Reddit extension:
 
 1. Choose NetNewsWire › Preferences from the menu bar.
-2. Click Extensions, then click <img style="height: 1em; vertical-align: -0.1em;" src="../../../images/mac-icon_plus.png" alt="The plus button">.
-3. Choose Reddit, then sign in to your account.
+2. Click Extensions, then click <img style="height: 1em; vertical-align: -0.1em;" src="../../../images/mac-icon_plus.png" alt="The plus button"> and choose Reddit.
+3. Sign in to your account and allow NetNewsWire to access your Reddit account.
 
 
 Add a Reddit feed
 -----------------
-
-You can add a Reddit feed or a feed for a single subreddit:
 
 <div class="columns">
 <div class="column-left">
@@ -23,8 +21,8 @@ You can add a Reddit feed or a feed for a single subreddit:
 		<li>Click <img style="height: 1.2em; vertical-align: -0.25em;" src="../../../images/mac-icon_plus_toolbar.png" alt="The plus button"> and choose New Reddit Feed.</li>
 		<li>Choose the type of feed to subscribe to:</li>
 			<ul>
-				<li><strong>A Reddit feed</strong>: choose Home, Popular, or All.</li>
-				<li><strong>Posts from a single subreddit</strong>: choose Subreddit, then enter its name without the <code>/r/</code> prefix.</li>
+				<li><strong>A Reddit feed:</strong> choose Home, Popular, or All.</li>
+				<li><strong>Posts from a subreddit:</strong> choose Subreddit, then enter its name without the <code>/r/</code> prefix.</li>
 			</ul>
 		<li>Choose how Reddit will sort the posts: Best, Hot, New, Top, or Rising. <a href="https://www.reddit.com/r/TheoryOfReddit/comments/1y8rst/">Learn more about Reddit sorting.</a></li>
 		<li>Then choose the account to save the feed in and click Add.</li>
@@ -32,7 +30,7 @@ You can add a Reddit feed or a feed for a single subreddit:
 </div>
 
 <div class="column-right">
-	<p><img class="round shadow" src="../../../images/mac-en-add_reddit_feed.png" width="220"  alt="Choose an extension to add: Twitter or Reddit" /></p>
+	<p><img class="round shadow" src="../../../images/mac-en-add_reddit_feed.png" width="220" alt="" /></p>
 </div>
 </div>
 
