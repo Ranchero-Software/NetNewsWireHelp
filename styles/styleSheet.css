@@ -1,3 +1,65 @@
+:root {
+	color-scheme: light dark;
+	--font-family: "Helvetica Neue", Helvetica, sans-serif;
+	--background-color: #f9f9f9;
+	--alternate-background-color: #f0f0f0;
+	--main-border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+	--nav-background-color: rgba(0, 0, 0, 0.75);
+	--nav-top-border: 1px solid rgba(0, 0, 0, 0.1);
+	--nav-bottom-border: 1px solid rgba(0, 0, 0, 0.1);
+	--nav-link-color: rgba(255, 255, 255, 0.9);
+	--color: rgba(0, 0, 0, 0.75);
+	--link-color: hsl(214, 65%, 55%);
+	--link-visited-color: hsl(250, 27%, 56%);
+	--bold-color: rgba(0, 0, 0, 0.75);
+	--biglink-color: hsl(5, 56%, 55%);
+	--widequote-background-color: rgba(0, 0, 0, 0.85);
+	--widequote-color: rgba(255, 255, 255, 0.9);
+	--widequote-border: 1px solid black;
+	--separator-background-color: rgba(0, 0, 0, 0.1);
+	--box-shadow: 0px 1px 0px white;
+	--text-shadow: 0px 1px white;
+	--downloads-background-color: var(--biglink-color);
+	--downloads-border-top: 1px solid hsl(5, 56%, 40%);
+	--downloads-separator-background-color: rgba(255, 255, 255, 0.2);
+	--downloads-link-color: rgba(255, 255, 255, 0.9);
+	--pressdate-color: rgba(0, 0, 0, 0.35);
+	--intro-bottom-border: 1px solid white;
+	--lightlink-color: var(--link-color);
+	--footer-color: rgba(0, 0, 0, 0.5);
+	--system-requirements-color: rgba(255, 255, 255, 0.75);
+}
+@media(prefers-color-scheme: dark) {
+	:root {
+	--background-color: hsl(214.4, 30%, 15%);
+	--alternate-background-color: rgba(255, 255, 255, 0.1);
+	--main-border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+	--nav-background-color: rgba(0, 0, 0, 0.75);
+	--nav-top-border: 1px solid rgba(0, 0, 0, 0.15);
+	--nav-bottom-border: 1px solid rgba(0, 0, 0, 0.15);
+	--nav-link-color: rgba(255, 255, 255, 0.5);
+	--color: rgba(255, 255, 255, 0.8);
+	--link-color: hsl(214, 65%, 55%);
+	--link-visited-color: hsl(250, 27%, 56%);
+	--bold-color: rgba(255, 255, 255, 0.95);
+	--biglink-color: rgba(255, 255, 255, 0.95);
+	--widequote-background-color: black;
+	--widequote-color: rgba(255, 255, 255, 0.8);
+	--widequote-border: 1px solid black;
+	--separator-background-color: rgba(255, 255, 255, 0.35);
+	--box-shadow: none;
+	--text-shadow: none;
+	--downloads-background-color: rgba(255, 255, 255, 0.1);
+	--downloads-border-top: 1px solid rgba(0, 0, 0, 0.5);
+	--downloads-separator-background-color: rgba(255, 255, 255, 0.1);
+	--pressdate-color: rgba(255, 255, 255, 0.5);
+	--intro-bottom-border: none;
+	--lightlink-color: rgba(255, 255, 255, 0.9);
+	--footer-color: rgba(255, 255, 255, 0.5);
+	--system-requirements-color: rgba(255, 255, 255, 0.75);
+	}
+}
+
 body
 {
 	margin-top: 0px;
@@ -7,9 +69,12 @@ body
 	line-height: 1.7em;
 	font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
 	font-size: 1.2em;
-	color: #333;
-	background-color: white;
+	color: var(--color);
+	background-color: var(--background-color);
 }
+
+
+
 
 
 /***************************
@@ -24,12 +89,12 @@ header
 	text-align: center;
 	font-size: 24px;
 	font-weight: bold;
-	background-color: rgba(0, 0, 0, 0.8);
+	background-color: var(--nav-background-color);
 }
 
 header a:link, header a:visited
 {
-	color: rgba(255, 255, 255, 1.0);
+	color: var(--color);
 	text-decoration: none;
 }
 
@@ -84,19 +149,18 @@ main
 
 nav
 {
-	color: #999;
+	color: var(--footer-color);
 	text-align: center;
 	padding-top: 52px;
-	border-top: 1px solid #ddd;
+    border-top: var(--main-border-bottom);
 }
+
 
 
 
 /*********************
  *  H E A D I N G S  *
  *********************/
-
-h1, h2, h3, h4, h5, h6 { color: #333; }
 
 h1 {
 	font-size: 34px;
@@ -107,7 +171,7 @@ h2 {
 	font-size: 28px;
 	margin-top: 2em;
 	padding-top: 1em;
-	border-top: 1px solid #cccccc;
+	border-top: 1px solid var(--separator-background-color)
 }
 
 h3 {
@@ -121,7 +185,6 @@ h3 + p {
 
 h4 {
 	margin-bottom: 1em;
-	color: #444;
 }
 
 
@@ -135,12 +198,11 @@ footer
 	margin-bottom: 0;
 	padding-top: 14px;
 	padding-bottom: 32px;
-	color: #999;
 	text-align: center;
+    color: var(--footer-color);
 }
 
 footer p { margin-bottom: 18px; }
-footer a:link, #footer a:visited { color: rgba(70, 140, 220, 0.75); }
 
 
 
@@ -148,10 +210,15 @@ footer a:link, #footer a:visited { color: rgba(70, 140, 220, 0.75); }
  *  T E X T  *
  *************/
 
-a { text-decoration: none; }
-a:link { color: #086aee; }
-a:visited { color: rgba(110, 153, 139, 1.0); }
-
+a {
+	text-decoration: none;
+}
+a:link {
+	color: var(--link-color);
+}
+a:visited {
+	color: var(--link-visited-color);
+}
 code, pre {
 	font-family: "SF Mono", Menlo, "Courier", monospace;
 	font-size: 16px;
@@ -159,8 +226,8 @@ code, pre {
 }
 
 p > code, pre {
-	background-color: #eee;
-	border: 1px solid #ccc;
+	background-color: var(--alternate-background-color);
+	border: var(--main-border-bottom);
 	border-radius: 3px;
 	padding: 0 0.25em;
 }
@@ -336,7 +403,7 @@ table.keyboard-shortcuts {
 }
 
 table.keyboard-shortcuts tbody tr:nth-child(odd) {
-	background-color: #F0F0F0;
+	background-color: var(--alternate-background-color);
 }
 
 table.keyboard-shortcuts tr td:first-child {
