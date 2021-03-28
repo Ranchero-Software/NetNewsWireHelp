@@ -24,6 +24,7 @@
 	--downloads-separator-background-color: rgba(255, 255, 255, 0.2);
 	--downloads-link-color: rgba(255, 255, 255, 0.9);
 	--pressdate-color: rgba(0, 0, 0, 0.35);
+	--note-color: rgba(0, 0, 0, 0.35);
 	--intro-bottom-border: 1px solid white;
 	--lightlink-color: var(--link-color);
 	--footer-color: rgba(0, 0, 0, 0.5);
@@ -171,7 +172,7 @@ h1 {
 
 h2 {
 	font-size: 28px;
-	margin-top: 2em;
+	margin-top: 2.5em;
 	padding-top: 1em;
 	border-top: 1px solid var(--separator-background-color)
 }
@@ -355,9 +356,11 @@ span.badge-small {
 	text-transform: uppercase;
 }
 
-.note {
+p.note, span.note {
 	font-size: 0.8em;
 	line-height: 1.4em;
+	margin-top: -1.2em;
+	color: var(--note-color);
 }
 
 

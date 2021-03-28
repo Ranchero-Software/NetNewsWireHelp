@@ -22,12 +22,12 @@ Subscribe to a Twitter feed
 		<li>Choose the type of feed to subscribe to:</li>
 			<ul>
 				<li><strong>Home Timeline:</strong> tweets from accounts you follow.</li>
-				<li><strong>Mentions:</strong> Tweets that mention you.</li>
-				<li><strong>Screen Name:</strong> Tweets from a single account.</li>
-				<li><strong>Search:</strong> Tweets that match a search term.</li>
+				<li><strong>Mentions:</strong> tweets that mention you.</li>
+				<li><strong>Screen Name:</strong> tweets from a single account.</li>
+				<li><strong>Search:</strong> tweets that match a search term.</li>
 			</ul>
 		<li>Choose the account to use or enter the screen name or search terms to use.</li>
-		<li>Enter a name for the feed and choose where to save it, then click Add.</li>
+		<li>Enter a name for the feed and choose the account or folder to save it in, then click Add.</li>
 	</ol>
 </div>
 
@@ -40,7 +40,7 @@ Subscribe to a Twitter feed
 Learn more
 ----------
 
-Learn how to subscribe to other kinds of feeds:
-
-* [Reddit feeds](reddit-feeds)
-* [Micro.blog feeds](micro-blog-feeds)
+* Learn how to subscribe to other kinds of feeds:
+  * [Reddit feeds](reddit-feeds)
+  * [Micro.blog feeds](micro-blog-feeds)
+* [Learn how to import feeds from OPML](import-opml)

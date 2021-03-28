@@ -30,10 +30,22 @@ You can use your syncing feed account so you can keep track of your feeds and th
 </div>
 
 <div class="column-right">
-	<img class="round shadow" src="../../../images/mac-en-prefs_accounts_list.png" width="297"  alt="Choose the account type to add: On My Mac, iCloud, BazQux, Feedbin, Feedly, Innoreader, NewsBlur, The Old Reader or FreshRSS" />
+	<img class="round shadow" src="../../../images/mac-en-prefs_accounts_list.png" width="297"  alt="Choose the account type to add: On My Mac, iCloud, BazQux, Feedbin, Feedly, Innoreader, NewsBlur, The Old Reader, or FreshRSS" />
 </div>
 </div>
 
+
+
+Subscribe to a feed
+-------------------
+
+Click <img style="height: 1.2em; vertical-align: -0.25em;" src="../../../images/mac-icon_plus_toolbar.png" alt="The plus button"> and choose New Web Feed, then enter the URL for your favorite site or its feed.
+
+You can also subscribe to [a Reddit feed or subreddit](reddit-feeds), a [Twitter feed](twitter-feeds), or a [Micro.blog feed](micro-blog-feeds) to read directly in NetNewsWire.
+
+<p class="note">Twitter and Reddit feeds only work with an iCloud or On My Mac account.</p>
+
+If you use another feed reader and don’t have a syncing account, you can [import an OPML file of your subscriptions](import-opml).
 
 
 Read articles
@@ -42,7 +54,7 @@ Read articles
 Click a site in the sidebar to see its articles or use <img src="../../../images/mac-icon_today.png" style="height: 1em; vertical-align: -0.1em" /> <span style="font-weight: 500;">Today</span> to see the latest. Click an article to start reading.
 
 
-### Use your keyboard
+### Use your keyboard to read one-handed
 
 NetNewsWire makes it easy to read. You can even use keyboard shortcuts to read one-handed.
 
@@ -65,22 +77,16 @@ NetNewsWire makes it easy to read. You can even use keyboard shortcuts to read o
 [Learn more keyboard shortcuts.](keyboard-shortcuts)
 
 
-### Always see the full article
+### See the whole article, every time
 
 If you don’t see all of an article, use Reader View. Click <img src="../../../images/mac-icon_reader_view6.png" alt="the Reader View icon" class="ios-inline-button" /> to see the full article. No need to open it in your browser.
 
-
-Subscribe to a feed
--------------------
-
-Click <img style="height: 1.2em; vertical-align: -0.25em;" src="../../../images/mac-icon_plus_toolbar.png" alt="The plus button"> and choose New Web Feed, then enter the URL for your favorite site or its feed. If you use Safari, you can [subscribe to a feed from the Safari toolbar](safari-extension).
-
-You can also subscribe to [a Reddit feed or subreddit](reddit-feeds), a [Twitter feed](twitter-feeds), or a [Micro.blog feed](micro-blog-feeds) to read directly in NetNewsWire.
 
 
 Learn more
 ----------
 
 * [What is RSS? What are feeds?](what-is-rss)
+* [Learn how to subscribe to a feed from the Safari toolbar](safari-extension)
 * [Learn about NetNewsWire and your privacy](privacy)
 * [Contribute to NetNewsWire](contributing)

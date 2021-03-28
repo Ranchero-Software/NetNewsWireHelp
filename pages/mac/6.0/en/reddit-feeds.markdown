@@ -25,7 +25,7 @@ Subscribe a Reddit feed
 				<li><strong>Posts from a subreddit:</strong> choose Subreddit, then enter its name without the <code>/r/</code> prefix.</li>
 			</ul>
 		<li>Choose how Reddit will sort the posts: Best, Hot, New, Top, or Rising. <a href="https://www.reddit.com/r/TheoryOfReddit/comments/1y8rst/">Learn more about Reddit sorting.</a></li>
-		<li>Then choose the account to save the feed in and click Add.</li>
+		<li>Then choose the account or folder to save it in and click Add.</li>
 	</ol>
 </div>
 
@@ -38,7 +38,7 @@ Subscribe a Reddit feed
 Learn more
 ----------
 
-Learn how to subscribe to other kinds of feeds:
-
-* [Twitter feeds](twitter-feeds)
-* [Micro.blog feeds](micro-blog-feeds)
+* Learn how to subscribe to other kinds of feeds:
+  * [Twitter feeds](twitter-feeds)
+  * [Micro.blog feeds](micro-blog-feeds)
+* [Learn how to import feeds from OPML](import-opml)
