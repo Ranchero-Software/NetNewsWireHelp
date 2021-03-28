@@ -97,7 +97,7 @@ header
 
 header a:link, header a:visited
 {
-	color: var(--color);
+	color: var(--nav-link-color);
 	text-decoration: none;
 }
 
