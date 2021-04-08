@@ -30,6 +30,7 @@
 	--footer-color: rgba(0, 0, 0, 0.5);
 	--system-requirements-color: rgba(255, 255, 255, 0.75);
 	--screenshot-shadow: 0 10px 15px 10px rgba(164, 164, 164, 0.1);
+	--alert-color: #ffeaa6;
 }
 @media(prefers-color-scheme: dark) {
 	:root {
@@ -60,6 +61,7 @@
 	--footer-color: rgba(255, 255, 255, 0.5);
 	--system-requirements-color: rgba(255, 255, 255, 0.75);
 	--screenshot-shadow: none;
+	--alert-color: #584300;
 	}
 }
 
@@ -363,6 +365,14 @@ p.note, span.note {
 	color: var(--note-color);
 }
 
+p.alert {
+	background: #ffeaa6;
+	padding: 1em;
+	border-radius: 0.5em;
+	margin-top: 0;
+	margin-bottom: 2em;
+	font-size: 1.1rem;
+}
 
 
 
@@ -376,12 +386,12 @@ p.note, span.note {
 @media (min-width: 760px)
 {
 	div.columns { display: flex; }
-	
+
 	div.column-left
 	{
 		padding: 0 0.5em 0 0;
 	}
-	
+
 	div.column-right
 	{
 		padding: 0 0 0 0.5em;
