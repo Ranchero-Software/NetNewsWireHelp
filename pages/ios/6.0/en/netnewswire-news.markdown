@@ -11,4 +11,4 @@ The NetNewsWire News Feed is part of the default subscription list that was adde
 
 Tap <img src="../../../images/ios-icon-settings.png" alt="the Settings button" class="ios-inline-button-large" /> on the Feeds screen, then tap Add NetNewsWire News Feed.
 
-NetNewsWire will open the [New Feed screen](adding-feeds) pre-filled with the name and address (`https://nnw.ranchero.com/feed.json`). Tap Add.
+NetNewsWire will open the [New Feed screen](adding-feeds) pre-filled with the name and URL. Tap Add.

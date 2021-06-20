@@ -64,19 +64,10 @@ Manage feeds
 
 
 
-Need more help?
----------------
-
-[Get more help using NetNewsWire](getting-more-help)
-
-
-
 The NetNewsWire Project
 -----------------------
 
 [Get NetNewsWire news](netnewswire-news)
-
-[Join the NetNewsWire for iOS TestFlight program](testflight)
 
 [Learn about NetNewsWire and your privacy](privacy)
 
