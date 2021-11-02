@@ -27,7 +27,7 @@ How we make the help books
 
 ### Text
 
-Write in Markdown, and use HTML when necessary. Save pages as `.markdown` files. [Wildcat][wc] will tranform these into a site of HTML files. We publish the help books on the NetNewsWire site: <https://ranchero.com/netnewswire/help/>.
+Write in Markdown, and use HTML when necessary. Save pages as `.markdown` files. [Wildcat][wc] will transform these into a site of HTML files. We publish the help books on the NetNewsWire site: <https://ranchero.com/netnewswire/help/>.
 
 [wc]: https://github.com/brentsimmons/wildcat
 
