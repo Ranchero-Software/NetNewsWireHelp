@@ -1,5 +1,5 @@
 @title Smart Feeds
-@template nnw5ios_en.html
+@template nnw61ios_en.html
 
 NetNewsWire has *Smart Feeds*, collections of articles built from your subscriptions, based on certain criteria. NetNewsWire offers three of these for you: Today, All Unread, and Starred.
 

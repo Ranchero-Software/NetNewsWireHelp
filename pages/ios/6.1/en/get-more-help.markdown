@@ -1,5 +1,5 @@
 @title Get more help with NetNewsWire
-@template nnw61mac_en.html
+@template nnw61ios_en.html
 
 NetNewsWire is open source and made by volunteers. As such, support comes from the community.
 

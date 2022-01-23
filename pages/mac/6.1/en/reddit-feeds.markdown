@@ -1,5 +1,5 @@
 @title Learn how to subscribe to a Reddit feed or subreddit
-@template nnw6mac_en.html
+@template nnw61mac_en.html
 
 With NetNewsWire 6, you can browse your favorite Reddit feeds and subreddits just like any other web feed. Subscribe to a Reddit feed or to the posts from a subreddit.
 

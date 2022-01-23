@@ -1,5 +1,5 @@
 @title Sharing to other apps
-@template nnw5ios_en.html
+@template nnw61ios_en.html
 
 When you’re reading an interesting article, you may feel compelled to share it with a friend, to your blog, or to a social media account. Tap <img src="../../../images/ios-icon-share.png" alt="the Share button" class="ios-inline-button-large" /> when you’re reading an article.
 

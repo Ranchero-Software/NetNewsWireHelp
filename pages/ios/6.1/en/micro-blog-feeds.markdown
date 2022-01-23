@@ -1,5 +1,5 @@
 @title Micro.blog feeds
-@template nnw5ios_en.html
+@template nnw61ios_en.html
 
 We’re fans of [Micro.blog][mb], an open microblogging platform.
 

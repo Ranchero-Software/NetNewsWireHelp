@@ -1,5 +1,5 @@
 @title Export feeds to OPML
-@template nnw6mac_en.html
+@template nnw61mac_en.html
 
 Your subscription list is portable, so you can easily switch to another app or service at any time. NetNewsWire can save an OPML file containing all your subscriptions for you to use with another app or service.
 

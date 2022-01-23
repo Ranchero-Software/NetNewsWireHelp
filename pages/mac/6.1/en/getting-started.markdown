@@ -1,5 +1,5 @@
 @title Get started with NetNewsWire 6 for Mac
-@template nnw6mac_en.html
+@template nnw61mac_en.html
 
 NetNewsWire is a free and open source RSS reader for Mac, iPhone, and iPad.
 

@@ -1,5 +1,5 @@
 @title Contributing
-@template nnw5ios_en.html
+@template nnw61ios_en.html
 
 NetNewsWire is open-source and contributions from the community are welcomed. We gather in two places:
 

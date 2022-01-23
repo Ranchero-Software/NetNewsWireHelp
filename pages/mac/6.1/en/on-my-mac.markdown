@@ -1,5 +1,5 @@
 @title Use the On My Mac account
-@template nnw6mac_en.html
+@template nnw61mac_en.html
 
 The On My Mac account requires no additional service or software. It’s just you, your subscriptions and NetNewsWire.
 

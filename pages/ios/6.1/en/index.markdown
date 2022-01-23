@@ -64,6 +64,15 @@ Manage feeds
 
 
 
+Get More Help
+-------------
+
+[Manage and Use Article Themes](themes)
+
+[Get more help with NetNewsWire](get-more-help)
+
+
+
 The NetNewsWire Project
 -----------------------
 

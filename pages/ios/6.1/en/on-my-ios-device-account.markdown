@@ -1,5 +1,5 @@
 @title Local accounts: On My iPhone and On My iPad
-@template nnw5ios_en.html
+@template nnw61ios_en.html
 
 A local account – *On My iPhone* or *On My iPad* – is the simplest way to use NetNewsWire. Using a local account requires no additional service or software, just NetNewsWire. It’s totally free.
 

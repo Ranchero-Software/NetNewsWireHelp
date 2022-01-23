@@ -1,5 +1,5 @@
 @title Learn how to subscribe to a Twitter feed
-@template nnw6mac_en.html
+@template nnw61mac_en.html
 
 With NetNewsWire 6, you can read Twitter just like any other web feed. Subscribe to your home timeline, your mentions, results of a search, or tweets from an account.
 

@@ -33,6 +33,8 @@ Get more help
 
 [Use keyboard shortcuts](keyboard-shortcuts)
 
+[Manage and Use Article Themes](themes)
+
 [Get more help with NetNewsWire](get-more-help)
 
 

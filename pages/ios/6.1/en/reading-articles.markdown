@@ -1,5 +1,5 @@
 @title How to go through your articles in NetNewsWire
-@template nnw5ios_en.html
+@template nnw61ios_en.html
 
 NetNewsWire is designed to make reading fast, easy and natural. These are some of the different ways to go through your articles.
 

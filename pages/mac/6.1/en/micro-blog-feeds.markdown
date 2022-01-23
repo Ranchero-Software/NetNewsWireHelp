@@ -1,5 +1,5 @@
 @title Learn how to subscribe to Micro.blog feeds
-@template nnw6mac_en.html
+@template nnw61mac_en.html
 
 We’re fans of [Micro.blog][mb], an open microblogging platform.
 

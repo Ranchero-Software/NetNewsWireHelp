@@ -1,5 +1,5 @@
 @title Learn how to subscribe to a feed from the Safari toolbar
-@template nnw6mac_en.html
+@template nnw61mac_en.html
 
 You can use the NetNewsWire *Subscribe to Feed* extension to subscribe to a site’s feed directly in Safari.
 

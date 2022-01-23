@@ -1,5 +1,5 @@
 @title Contribute to NetNewsWire
-@template nnw6mac_en.html
+@template nnw61mac_en.html
 
 NetNewsWire is open-source and contributions from the community are welcomed.
 

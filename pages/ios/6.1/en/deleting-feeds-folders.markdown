@@ -1,5 +1,5 @@
 @title Deleting feeds and folders
-@template nnw5ios_en.html
+@template nnw61ios_en.html
 
 To delete a feed or folder:
 

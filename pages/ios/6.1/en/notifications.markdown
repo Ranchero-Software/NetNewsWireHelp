@@ -1,5 +1,5 @@
 @title Be notified of new articles
-@template nnw5ios_en.html
+@template nnw61ios_en.html
 
 NetNewsWire for iOS and iPadOS can notify you when it gets new articles for your favorite or most important feeds.
 
