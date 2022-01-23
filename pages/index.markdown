@@ -5,9 +5,9 @@
 
 #### Current Help Books
 
-[NetNewsWire 6 for Mac Help Book](mac/6.0/en/) (English)
+[NetNewsWire 6.1 for Mac Help Book](mac/6.1/en/) (English)
 
-[NetNewsWire 6 for iPhone and iPad Help Book](ios/6.0/en/) (English)
+[NetNewsWire 6.1 for iPhone and iPad Help Book](ios/6.1/en/) (English)
 
 A “Help Book” is really just a small website. We call them that because it’s the traditional name for Mac app manuals.
 
@@ -25,4 +25,8 @@ Also see [Frequently Asked Questions](https://netnewswire.com/frequently-asked-q
 
 [NetNewsWire 5.1 for Mac Help Book](mac/5.1/en/) (English)
 
+[NetNewsWire 6 for Mac Help Book](mac/6.0/en/) (English)
+
 [NetNewsWire 5 for iPhone and iPad Help Book](ios/5.0/en/) (English)
+
+[NetNewsWire 6 for iPhone and iPad Help Book](ios/6.0/en/) (English)
