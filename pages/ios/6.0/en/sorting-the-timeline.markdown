@@ -1,5 +1,5 @@
 @title Sorting the NetNewsWire timeline
-@template nnw5ios_en.html
+@template nnw6ios_en.html
 
 The NetNewsWire timeline is the list of articles for a feed or Smart Feed.
 

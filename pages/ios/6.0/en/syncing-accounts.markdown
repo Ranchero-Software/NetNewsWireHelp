@@ -1,5 +1,5 @@
 @title Using syncing accounts with NetNewsWire
-@template nnw5ios_en.html
+@template nnw6ios_en.html
 
 NetNewsWire can sync your feeds and articles with third-party feed aggregating services like [Feedbin][] and [Feedly][].
 

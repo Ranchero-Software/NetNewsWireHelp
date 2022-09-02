@@ -1,5 +1,5 @@
 @title How to add a feed to NetNewsWire
-@template nnw5ios_en.html
+@template nnw6ios_en.html
 
 
 NetNewsWire collects items for you from feeds published on web sites. To do this, it needs to know the address for the feed. For example: `https://cate.blog/feed/` or `http://mattgemmell.com/atom.xml`
