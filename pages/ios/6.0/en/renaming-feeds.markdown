@@ -1,5 +1,5 @@
 @title Renaming feeds and folders
-@template nnw5ios_en.html
+@template nnw6ios_en.html
 
 
 The feeds you subscribe to publish a title for their site or feed. This is usually the name of the site or the author. Other feed titles may be unusually or unhelpfully long. In the worst case, the title may be completely wrong.

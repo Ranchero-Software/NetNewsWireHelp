@@ -1,5 +1,5 @@
 @title How to import feeds from other apps with OPML
-@template nnw5ios_en.html
+@template nnw6ios_en.html
 
 You can use an OPML subscription list to import your subscriptions from another app or service into NetNewsWire.
 
