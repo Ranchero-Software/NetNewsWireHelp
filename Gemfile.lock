@@ -1,0 +1,23 @@
+PATH
+  remote: ../../development/ruby/wildcat
+  specs:
+    wildcat (0.0.1)
+      kramdown
+      stringex
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    kramdown (2.4.0)
+      rexml
+    rexml (3.2.5)
+    stringex (2.8.5)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  wildcat!
+
+BUNDLED WITH
+   2.3.18
