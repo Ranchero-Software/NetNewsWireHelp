@@ -10,7 +10,7 @@ NetNewsWire is designed to make reading fast, easy and natural. These are some o
 
 The Next Unread button helps you move effortlessly between articles and feeds.
 
-Tap <img src="../../../images/ios-icon-next_unread.png" alt="the Next Unread button" class="ios-inline-button" /> and no matter where you are, you will see the next unread item. It doesn’t matter if it’s in another feed, it opens it straightaway.
+Tap <img src="../../../images/ios-icon-next_unread.png" alt="the Next Unread button" class="ios-inline-button" /> and no matter where you are, you will see the next unread item. It doesn’t matter if it’s in another feed, it opens it straight away.
 
 This is a great way to zip through your articles, stopping to read what you’re interested in.
 

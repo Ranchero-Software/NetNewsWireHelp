@@ -1,5 +1,5 @@
 @title Add feeds using the Share Extension
-@template nnw5ios_en.html
+@template nnw6ios_en.html
 
 NetNewsWire provides a Share Extension which allows you to subscribe to a site’s feed from within other apps.
 

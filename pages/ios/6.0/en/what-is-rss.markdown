@@ -1,5 +1,5 @@
 @title What is RSS? What are feeds?
-@template nnw5ios_en.html
+@template nnw6ios_en.html
 
 Lots of websites have news or updates of some kind.
 

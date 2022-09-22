@@ -1,5 +1,5 @@
 @title Keyboard shortcuts
-@template nnw5ios_en.html
+@template nnw6ios_en.html
 
 <span class="badge">For keyboard-connected devices</span>
 

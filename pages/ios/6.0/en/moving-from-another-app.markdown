@@ -1,5 +1,5 @@
 @title Move from another RSS app
-@template nnw5ios_en.html
+@template nnw6ios_en.html
 
 There are lots of great feed readers. Fortunately, it’s easy to switch amongst them to find the perfect one for you.
 

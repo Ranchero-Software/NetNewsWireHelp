@@ -1,5 +1,5 @@
 @title How to get NetNewsWire news
-@template nnw5ios_en.html
+@template nnw6ios_en.html
 
 The very best way to get news about NetNewsWire is with NetNewsWire itself, using the *NetNewsWire News Feed*. Important and notable news about NetNewsWire will appear there: app updates, critical bug notices, tech notes and important project announcements.
 

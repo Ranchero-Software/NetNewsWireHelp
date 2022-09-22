@@ -1,5 +1,5 @@
 @title Use the Filter to hide read items
-@template nnw5ios_en.html
+@template nnw6ios_en.html
 
 NetNewsWire can filter out stuff you’ve already seen, and only show you what’s unread.
 
