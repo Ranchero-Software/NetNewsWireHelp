@@ -54,7 +54,7 @@ Our advice is do the following procedure right before you go to bed.
 This really is **not** recommended, but if you get desperate, you can start over from scratch.
 
 1. Export an OPML file of your current iCloud account.
-2. Delete all iCloud accounts from all of your devices.
+2. Delete all iCloud accounts from NetNewsWire on all of your devices.
 3. Under Settings, go to your Apple ID and select iCloud. Select Manage Account Storage (Manage... on macOS) and look for
 NetNewsWire. Select it and then delete your NetNewsWire data from iCloud.
 4. On one device, create a new iCloud account.
@@ -64,8 +64,8 @@ NetNewsWire. Select it and then delete your NetNewsWire data from iCloud.
 ### Look at Alternate Account Types
 
 If you find that iCloud is too slow or just doesn't work for you, we recommend you try one of our Web 
-Accounts. The Web Accounts don't have the same bandwidth constraints that iCloud does and can move
-data much faster.
+Accounts. We support all the common ones including Feedbin, Feedly, and more. The Web Accounts 
+don't have the same bandwidth constraints that iCloud does and can move data much faster.
 
 Many have free tiers of usage and the subscription ones are very reasonably priced. Prices range from about $3 per
 month for a basic Web account service to $5 or $6 for the premium ones. The premium ones provide many valuable features 
