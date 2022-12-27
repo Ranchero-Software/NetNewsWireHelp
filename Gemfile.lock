@@ -1,5 +1,6 @@
-PATH
-  remote: ../../development/ruby/wildcat
+GIT
+  remote: https://github.com/brentsimmons/wildcat.git
+  revision: 857b7b43431b1abe0d2ec457e163d13f23ec674d
   specs:
     wildcat (0.0.1)
       kramdown
@@ -20,4 +21,4 @@ DEPENDENCIES
   wildcat!
 
 BUNDLED WITH
-   2.3.18
+   2.3.26
