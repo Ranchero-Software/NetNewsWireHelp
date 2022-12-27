@@ -2,7 +2,7 @@
 
 Help books for NetNewsWire, a free and open source RSS reader for Mac and iOS.
 
-Available on the web at <https://ranchero.com/netnewswire/help/>.
+Available on the web at <https://netnewswire.com/help/>.
 
 
 
@@ -37,7 +37,7 @@ Write in Markdown, and use HTML when necessary. Save pages as `.markdown` files.
 Use a `@title` directive to set the page title. This sets it in the HTML page’s head and inserts a top level page heading (h1) when we generate the site:
 
 	@title This cat is wild
-	
+
 
 ### Links
 
@@ -104,7 +104,7 @@ All images must include an `alt` attribute whose text is descriptive of the link
 You can use the standard Markdown syntax for images:
 
 	![Alt text](/path/to/img.jpg "Optional title")
-	
+
 But for more control, it’s best to just use HTML.
 
 	<img src="../../../images/mac-en-share_menu_more_selected.png"

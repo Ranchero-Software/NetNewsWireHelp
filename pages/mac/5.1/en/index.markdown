@@ -1,9 +1,6 @@
 @title NetNewsWire 5.1 for Mac Help
 @template index.html
 
-# NetNewsWire 5.1 for Mac Help
-
-
 Get started
 -----------
 

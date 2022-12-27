@@ -1,9 +1,6 @@
 @title NetNewsWire 5 for iPhone and iPad Help
 @template index_ios.html
 
-NetNewsWire 5 for iPhone and iPad Help
-======================================
-
 
 Getting Started
 ---------------
