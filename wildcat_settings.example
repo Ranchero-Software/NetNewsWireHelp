@@ -1,0 +1,7 @@
+@site_name NetNewsWire Help
+@site_url https://ranchero.com/netnewswire/help/
+@output_file_suffix .html
+@output_folder ./output/
+@favicon_url https://ranchero.com/images/nnw_icon_32.png
+@icon_url https://ranchero.com/images/nnw_icon_256.png
+@has_blog false
