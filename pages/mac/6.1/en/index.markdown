@@ -37,6 +37,7 @@ Get more help
 
 [Get more help with NetNewsWire](get-more-help)
 
+[Customizing NetNewsWire](customizing) – Dock icon badge
 
 Learn about the NetNewsWire project
 -----------------------------------
