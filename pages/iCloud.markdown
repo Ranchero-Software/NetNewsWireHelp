@@ -43,7 +43,7 @@ devices display go to sleep, you won't complete a long running sync.
 Our advice is do the following procedure right before you go to bed.
 
 1. Go to Settings and set Auto-Lock to Never in the Display & Brightness section.
-2. Plug your device in. Because the screen will be all night it will drain your battery to zero if you don't.
+2. Plug your device in. Because the screen will be on all night it will drain your battery to zero if you don't.
 3. Launch NetNewsWire and leave it in the foreground. Don't switch away from NetNewsWire or you will have to start over.
 4. Get some sleep.
 5. If you have an average amount of data the sync should be done by the time you get up.
