@@ -15,10 +15,6 @@ Get started
 Subscribe to feeds
 ------------------
 
-[Subscribe to a Reddit feed or subreddit](reddit-feeds)
-
-[Subscribe to a Twitter feed](twitter-feeds)
-
 [Subscribe to Micro.blog feeds](micro-blog-feeds)
 
 [Import feeds from OPML](import-opml)
