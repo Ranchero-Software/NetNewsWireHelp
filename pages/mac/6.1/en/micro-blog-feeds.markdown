@@ -62,12 +62,6 @@ Learn more
 
 * [About Micro.blog feeds][mb-feeds]
 
-Learn how to subscribe to other kinds of feeds:
-
-* [Reddit feeds or subreddits](reddit-feeds)
-* [Twitter feeds](twitter-feeds)
-
-
 [d]: https://micro.blog/discover
 [tagmoji]: https://help.micro.blog/2018/tagmoji/
 [mb-feeds]: https://help.micro.blog/t/feeds/94
