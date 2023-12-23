@@ -5,7 +5,7 @@ NetNewsWire can sync your feeds and articles with third-party feed aggregating s
 
 Using these services lets you maintain a single subscription list across different apps, platforms, and devices. Article status is also tracked, so your unread and starred articles stay in sync too.
 
-If you’re not using a feed aggregator, you can use NetNewsWire in local account mode with an [On My iPhone or iPad account](on-my-ios-device-account).
+If you’re not using a feed aggregator, you can use NetNewsWire in local account mode with an [On My iPhone or iPad account](on-my-ios-device-account.html).
 
 [feedbin]: https://feedbin.com/ "Feedbin"
 [feedly]: https://feedly.com/i/welcome "Welcome to Feedly"

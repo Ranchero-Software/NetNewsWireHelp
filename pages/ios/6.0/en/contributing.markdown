@@ -21,5 +21,5 @@ GitHub
 The [NetNewsWire project on GitHub][nnw-git] is the place to raise formal issues like bugs and feature requests. If you want to make contributions to NetNewsWire’s code or documentation, please refer to our [contribution guidelines][contrib] page on GitHub.
 
 [nnw-git]: https://github.com/Ranchero-Software/NetNewsWire/
-[slack]: https://ranchero.com/netnewswire/slack
+[slack]: https://netnewswire.com/slack
 [contrib]: https://github.com/Ranchero-Software/NetNewsWire/blob/master/CONTRIBUTING.md

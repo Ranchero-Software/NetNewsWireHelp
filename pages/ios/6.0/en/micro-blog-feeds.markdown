@@ -26,8 +26,8 @@ If your Micro.blog username is *abigail*, then you’d subscribe to:
 You can use the same technique to subscribe to *someone else’s* timeline.
 
 This is not their posts – for that, see below. This allows you to see the posts from people *they* follow. For example, if you want to read the same timeline as Miraz Jordan reads, subscribe to:
-	
-	https://micro.blog/feeds/miraz.xml	
+
+	https://micro.blog/feeds/miraz.xml
 
 
 
@@ -55,7 +55,7 @@ There’s a lot happening at Micro.blog. It’s no surprise they offer feeds to 
 Posts in the Discover section of Micro.blog are categorised using [emoji][tagmoji]. Each of those has a separate feed as well:
 
 	https://micro.blog/posts/discover/EMOJI
-	
+
 You’ll need to know the word which corresponds to an emoji, so consult the [Discover emoji][tagmoji] list. Some may be obvious, like 🐈 or 🐱:
 
 	https://micro.blog/posts/discover/cats

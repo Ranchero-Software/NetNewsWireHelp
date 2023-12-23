@@ -6,7 +6,7 @@ NetNewsWire collects items for you from feeds published on web sites. To do this
 
 *It’s okay if you don’t know that.* NetNewsWire can help you find the address automatically.
 
-When you’re using Safari, tap <img src="../../../images/ios-icon-share.png" alt="" class="ios-inline-button-large" /> to add a feed using the [Share Extension](share-extension).
+When you’re using Safari, tap <img src="../../../images/ios-icon-share.png" alt="" class="ios-inline-button-large" /> to add a feed using the [Share Extension](share-extension.html).
 
 
 
@@ -28,16 +28,16 @@ Tap Add and NetNewsWire will fetch the URL you entered. If you entered an addres
 Choose an alternative title for a feed
 --------------------------------------
 
-Feeds specify their own title, but you may want to change it to something shorter or easier to remember. “Cate” rather than “Accidentally in Code”, for example. You can [rename it any time later](renaming-feeds), too.
+Feeds specify their own title, but you may want to change it to something shorter or easier to remember. “Cate” rather than “Accidentally in Code”, for example. You can [rename it any time later](renaming-feeds.html), too.
 
 
 
 Choose a feed’s folder
 ----------------------
 
-Before you add a feed, you can choose the account and folder where it will be saved. 
+Before you add a feed, you can choose the account and folder where it will be saved.
 
-This option is especially important if you’re using multiple accounts. You can choose whether to save the subscription to your [syncing account](syncing-accounts) or a local [On my iPhone or iPad account](on-my-ios-device-account).
+This option is especially important if you’re using multiple accounts. You can choose whether to save the subscription to your [syncing account](syncing-accounts.html) or a local [On my iPhone or iPad account](on-my-ios-device-account.html).
 
 In either case, if you use folders, you can also choose which folder to keep the feed in.
 
@@ -55,4 +55,4 @@ You may be able to find a feed manually by visiting the site. There, look for a 
 Import feeds from other services
 --------------------------------
 
-If you have an existing OPML subscription list from another app or service, you can [import those feeds into NetNewsWire](import-opml), too.
+If you have an existing OPML subscription list from another app or service, you can [import those feeds into NetNewsWire](import-opml.html), too.

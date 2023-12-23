@@ -3,14 +3,14 @@
 
 There are lots of great feed readers. Fortunately, it’s easy to switch amongst them to find the perfect one for you.
 
-NetNewsWire is no different: coming is just as easy as [going](export-opml). Though we hope NetNewsWire is right up your street.
+NetNewsWire is no different: coming is just as easy as [going](export-opml.html). Though we hope NetNewsWire is right up your street.
 
 
 
 If you use Feedbin or Feedly
 ----------------------------
 
-You can use your Feedbin or Feedly account directly in NetNewsWire. [Add your account](syncing-accounts) to get started.
+You can use your Feedbin or Feedly account directly in NetNewsWire. [Add your account](syncing-accounts.html) to get started.
 
 Other syncing services aren’t supported yet, but you can still use a local account.
 
@@ -27,4 +27,4 @@ How to export your subscription list will vary depending on the app, though it o
 
 Save the OPML file to a location in the Files app. Be sure to choose a service like iCloud Drive if you want to use the subscription list on another device.
 
-After you’ve saved the file, open NetNewsWire and [import the OPML file](import-opml). We hope you enjoy using NetNewsWire.
+After you’ve saved the file, open NetNewsWire and [import the OPML file](import-opml.html). We hope you enjoy using NetNewsWire.
