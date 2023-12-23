@@ -39,9 +39,9 @@ Get help with *Subscribe to Feed*
 
 ### The button is dimmed
 
-If the *Subscribe to Feed* is dimmed, it wasn’t able to find any feeds automatically. The button will only be turned on for sites that advertise a feed in their code. 
+If the *Subscribe to Feed* is dimmed, it wasn’t able to find any feeds automatically. The button will only be turned on for sites that advertise a feed in their code.
 
-You may be able to find a link to a feed by checking the site. There, look for a link to an RSS, Atom or JSON feed. If one exists, you can [add this URL to NetNewsWire directly](adding-feeds). Control-click on the link, copy the URL, and paste it into the Add Feed dialog in NetNewsWire.
+You may be able to find a link to a feed by checking the site. There, look for a link to an RSS, Atom or JSON feed. If one exists, you can [add this URL to NetNewsWire directly](adding-feeds.html). Control-click on the link, copy the URL, and paste it into the Add Feed dialog in NetNewsWire.
 
 
 ### The button opens another app

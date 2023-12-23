@@ -35,10 +35,10 @@ If you want to help test new features, or just want to be at the bleeding edge, 
 To report bugs and make enhancement requests, file an issue on the [NetNewsWire GitHub page][nnw-issues]. You can also share and discuss issues on the [NetNewsWire Slack][slack] group.
 
 [nnw-issues]: https://github.com/Ranchero-Software/NetNewsWire/issues
-[slack]: https://ranchero.com/netnewswire/slack
+[slack]: https://netnewswire.com/slack
 
 
 Privacy
 -------
 
-When checking for updates, whether automatically or manually, no personally-identifiable information is collected – not even an anonymous system profile. For more information about your privacy and NetNewsWire, please see the [NetNewsWire Privacy Policy](https://ranchero.com/netnewswire/privacypolicy).
+When checking for updates, whether automatically or manually, no personally-identifiable information is collected – not even an anonymous system profile. For more information about your privacy and NetNewsWire, please see the [NetNewsWire Privacy Policy](https://netnewswire.com/privacypolicy.html).

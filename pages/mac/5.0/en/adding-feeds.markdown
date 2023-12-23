@@ -19,15 +19,15 @@ Click **Add** and NetNewsWire will fetch the URL you entered. If you entered an 
 Choosing an alternative name for a feed
 ---------------------------------------
 
-Feeds specify their own name, but you may want to change it to something shorter or easier to remember. “Cate” rather than “Accidentally in Code”, for example. You can [rename it anytime later](renaming-feeds), too.
+Feeds specify their own name, but you may want to change it to something shorter or easier to remember. “Cate” rather than “Accidentally in Code”, for example. You can [rename it anytime later](renaming-feeds.html), too.
 
 
 Choosing a feed’s folder
 ------------------------
 
-Before you add a feed, you can choose the account and folder where it will be saved. 
+Before you add a feed, you can choose the account and folder where it will be saved.
 
-This option is especially important if you’re using multiple accounts. You can choose whether to save the subscription to your [On My Mac](on-my-mac) account or [Feedbin](syncing-accounts) account.
+This option is especially important if you’re using multiple accounts. You can choose whether to save the subscription to your [On My Mac](on-my-mac.html) account or [Feedbin](syncing-accounts.html) account.
 
 In either case, if you use folders, you can also choose which one keep the feed in.
 
@@ -43,6 +43,6 @@ You may be able to find a feed manually by visiting the site. There, look for a 
 Other ways to add feeds
 -----------------------
 
-Adding feeds in the NetNewsWire app isn’t the only way. You can also add feeds from Safari using the [NetNewsWire Safari Extension](safari-extension).
+Adding feeds in the NetNewsWire app isn’t the only way. You can also add feeds from Safari using the [NetNewsWire Safari Extension](safari-extension.html).
 
-If you have an existing OPML subscription list from another app or service, you can [import those feeds into NetNewsWire](import-opml), too.
+If you have an existing OPML subscription list from another app or service, you can [import those feeds into NetNewsWire](import-opml.html), too.

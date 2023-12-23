@@ -7,7 +7,7 @@ NetNewsWire manages everything for the On My Mac account. It keeps your subscrip
 
 On My Mac account data *does not sync* to any other location. It works best for those people who only read NetNewsWire feeds on one Mac, and nowhere else.
 
-*NetNewsWire can also be used with a [syncing service](syncing-accounts) like Feedbin.*
+*NetNewsWire can also be used with a [syncing service](syncing-accounts.html) like Feedbin.*
 
 
 Refreshing On My Mac feeds

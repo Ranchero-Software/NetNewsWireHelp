@@ -5,7 +5,7 @@ NetNewsWire was built to make it easy to read your articles one-handed. This is 
 
 One-handed reading can be accomplished with keyboard shortcuts. NetNewsWire’s shortcuts are special because many only require pressing *a single key*.
 
-(For a full list of keyboard shortcuts, including Command (⌘) key alternatives, see the [Keyboard Shortcuts](keyboard-shortcuts) help page, or use **Help** → **Keyboard Shortcuts** in NetNewsWire.)
+(For a full list of keyboard shortcuts, including Command (⌘) key alternatives, see the [Keyboard Shortcuts](keyboard-shortcuts.html) help page, or use **Help** → **Keyboard Shortcuts** in NetNewsWire.)
 
 
 Use the Space bar
@@ -42,4 +42,4 @@ As you zip through the NetNewsWire interface, you may want to mark an article as
 …and more!
 ----------
 
-Again, see the [Keyboard Shortcuts](keyboard-shortcuts) help page or **Help** → **Keyboard Shortcuts** in NetNewsWire for a full list of keyboard shortcuts.
+Again, see the [Keyboard Shortcuts](keyboard-shortcuts.html) help page or **Help** → **Keyboard Shortcuts** in NetNewsWire for a full list of keyboard shortcuts.

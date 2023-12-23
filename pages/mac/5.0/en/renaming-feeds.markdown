@@ -5,4 +5,4 @@ Each feed publishes a name for their feed. If you want to change it to be more d
 
 To change a feed or folder’s name, control-click on the feed or folder in the sidebar and choose **Rename**. Enter the new name and press Return.
 
-You can also choose a different name for a feed when you [add a new feed](adding-feeds).
+You can also choose a different name for a feed when you [add a new feed](adding-feeds.html).

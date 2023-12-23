@@ -1,7 +1,7 @@
 @title Using syncing accounts with NetNewsWire
 @template nnw5mac_en.html
 
-In addition to the [On My Mac account](on-my-mac), NetNewsWire can also sync your feeds and articles with third-party feed aggregating services.
+In addition to the [On My Mac account](on-my-mac.html), NetNewsWire can also sync your feeds and articles with third-party feed aggregating services.
 
 If you use a feed aggregator service, you can keep your read status and subscription list in sync even when you use multiple apps.
 
