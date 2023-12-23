@@ -16,7 +16,7 @@ Reporting bugs and making feature requests
 You can make feature requests and add bug reports to our [bug tracker on GitHub][gh].
 
 
-[faq]: https://ranchero.com/netnewswire/frequently-asked-questions
+[faq]: https://netnewswire.com/frequently-asked-questions.html
 [tn]: https://github.com/Ranchero-Software/NetNewsWire/tree/master/Technotes
-[slack]: https://ranchero.com/netnewswire/slack
+[slack]: https://netnewswire.com/slack
 [gh]: https://github.com/Ranchero-Software/NetNewsWire/issues

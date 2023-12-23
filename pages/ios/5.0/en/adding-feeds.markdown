@@ -35,9 +35,9 @@ Feeds specify their own title, but you may want to change it to something shorte
 Choose a feed’s folder
 ----------------------
 
-Before you add a feed, you can choose the account and folder where it will be saved. 
+Before you add a feed, you can choose the account and folder where it will be saved.
 
-This option is especially important if you’re using multiple accounts. You can choose whether to save the subscription to your [syncing account](syncing-accounts) or a local [On my iPhone or iPad account](on-my-ios-device-account).
+This option is especially important if you’re using multiple accounts. You can choose whether to save the subscription to your [syncing account](syncing-accounts.html) or a local [On my iPhone or iPad account](on-my-ios-device-account.html).
 
 In either case, if you use folders, you can also choose which folder to keep the feed in.
 
@@ -55,4 +55,4 @@ You may be able to find a feed manually by visiting the site. There, look for a 
 Import feeds from other services
 --------------------------------
 
-If you have an existing OPML subscription list from another app or service, you can [import those feeds into NetNewsWire](import-opml), too.
+If you have an existing OPML subscription list from another app or service, you can [import those feeds into NetNewsWire](import-opml.html), too.

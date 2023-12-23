@@ -6,9 +6,9 @@ A local account – *On My iPhone* or *On My iPad* – is the simplest way to us
 Local accounts don’t sync
 -------------------------
 
-On My iPhone and On My iPad account data *does not sync* to any other location. It works best for people who only read NetNewsWire feeds on one device, or want to keep separate subscription lists on different devices. 
+On My iPhone and On My iPad account data *does not sync* to any other location. It works best for people who only read NetNewsWire feeds on one device, or want to keep separate subscription lists on different devices.
 
-If you want everything synced across devices, you can use NetNewsWire with a [syncing service](syncing-accounts) like Feedbin or Feedly, too.
+If you want everything synced across devices, you can use NetNewsWire with a [syncing service](syncing-accounts.html) like Feedbin or Feedly, too.
 
 
 
