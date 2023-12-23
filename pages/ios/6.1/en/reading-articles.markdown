@@ -56,4 +56,4 @@ When using your iOS device with a keyboard connected, you can navigate using the
 
 If you’re reading an article that can be scrolled, pressing space bar will scroll it – like in Safari and other apps. When you get to the end of the article, pressing the space bar will take you to the next unread.
 
-<span class="badge-small">Tip</span> There are many more useful [keyboard shortcuts](keyboard-shortcuts) to use when you’ve got a keyboard connected to your device.
+<span class="badge-small">Tip</span> There are many more useful [keyboard shortcuts](keyboard-shortcuts.html) to use when you’ve got a keyboard connected to your device.

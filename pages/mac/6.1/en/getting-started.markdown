@@ -43,7 +43,7 @@ Click <img style="height: 1.2em; vertical-align: -0.25em;" src="../../../images/
 
 You can also subscribe to a [Micro.blog feed](micro-blog-feeds) to read directly in NetNewsWire.
 
-If you use another feed reader and don’t have a syncing account, you can [import an OPML file of your subscriptions](import-opml).
+If you use another feed reader and don’t have a syncing account, you can [import an OPML file of your subscriptions](import-opml.html).
 
 
 Read articles
@@ -84,7 +84,7 @@ If you don’t see all of an article, use Reader View. Click <img src="../../../
 Learn more
 ----------
 
-* [What is RSS? What are feeds?](what-is-rss)
-* [Learn how to subscribe to a feed from the Safari toolbar](safari-extension)
-* [Learn about NetNewsWire and your privacy](privacy)
-* [Contribute to NetNewsWire](contributing)
+* [What is RSS? What are feeds?](what-is-rss.html)
+* [Learn how to subscribe to a feed from the Safari toolbar](safari-extension.html)
+* [Learn about NetNewsWire and your privacy](privacy.html)
+* [Contribute to NetNewsWire](contributing.html)

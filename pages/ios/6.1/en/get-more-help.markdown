@@ -16,7 +16,7 @@ Report bugs or make a feature request
 To report a bug or make a feature request, file an issue on our [GitHub bug tracker][gh].
 
 
-[faq]: https://netnewswire.com/frequently-asked-questions
+[faq]: https://netnewswire.com/frequently-asked-questions.html
 [tn]: https://github.com/Ranchero-Software/NetNewsWire/tree/master/Technotes
 [slack]: https://netnewswire.com/slack
 [gh]: https://github.com/Ranchero-Software/NetNewsWire/issues

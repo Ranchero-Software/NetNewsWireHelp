@@ -23,7 +23,7 @@ If the Subscribe to Feed button isn’t in the Safari toolbar, turn it on:
 Get help
 --------
 
-If you can’t click the *Subscribe to Feed* button, it wasn’t able to find any feeds automatically. Not all sites have feeds, but you may be able to find a link to one on the site. Find the RSS, Atom or JSON feed link for the site and [add it to NetNewsWire manually](adding-feeds).
+If you can’t click the *Subscribe to Feed* button, it wasn’t able to find any feeds automatically. Not all sites have feeds, but you may be able to find a link to one on the site. Find the RSS, Atom or JSON feed link for the site and [add it to NetNewsWire manually](adding-feeds.html).
 
 <!--
 ### If the button opens another app

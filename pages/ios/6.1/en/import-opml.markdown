@@ -23,4 +23,4 @@ Add the feeds to NetNewsWire
 
 The new feeds will be added to your current subscription list.
 
-After you import the feeds, you can delete the downloaded `.opml` file. If you need a copy later, you can [export your OPML subscription list](export-opml) from NetNewsWire.
+After you import the feeds, you can delete the downloaded `.opml` file. If you need a copy later, you can [export your OPML subscription list](export-opml.html) from NetNewsWire.

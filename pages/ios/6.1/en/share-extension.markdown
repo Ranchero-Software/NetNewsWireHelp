@@ -34,6 +34,6 @@ If the Share Extension can’t find a feed
 
 Some sites may not have a feed available, or may not list the feed address in an expected way. In either case, NetNewsWire won’t be able to add the feed automatically.
 
-You may be able to find a link to a feed by browsing the site. Look for a link to an RSS, Atom or JSON feed. If one exists, you can copy the address and [add it to NetNewsWire directly](adding-feeds).
+You may be able to find a link to a feed by browsing the site. Look for a link to an RSS, Atom or JSON feed. If one exists, you can copy the address and [add it to NetNewsWire directly](adding-feeds.html).
 
 If you can’t find a feed at all, you may not be able to subscribe to the site. Consider writing to the web site author or administrator to request they add one.

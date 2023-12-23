@@ -1,7 +1,7 @@
 @title NetNewsWire and your privacy
 @template nnw61ios_en.html
 
-[The NetNewsWire Privacy Policy](https://ranchero.com/netnewswire/privacypolicy)
+[The NetNewsWire Privacy Policy](https://netnewswire.com/privacypolicy.html)
 
 We don’t want any private information about you.
 
