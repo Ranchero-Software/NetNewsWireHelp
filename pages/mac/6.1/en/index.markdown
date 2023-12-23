@@ -1,9 +1,6 @@
 @title NetNewsWire 6.1 for Mac Help
 @template index6.html
 
-# NetNewsWire 6.1 for Mac Help
-
-
 Get started
 -----------
 
