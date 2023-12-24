@@ -33,4 +33,4 @@ Press the `r` or `u` keys to toggle an article as read or unread.
 Learn more
 ----------
 
-There are even more [keyboard shortcuts in NetNewsWire](keyboard-shortcuts). Choose **Help › Keyboard Shortcuts** from the menu bar to see the list in the app.
+There are even more [keyboard shortcuts in NetNewsWire](keyboard-shortcuts.html). Choose **Help › Keyboard Shortcuts** from the menu bar to see the list in the app.

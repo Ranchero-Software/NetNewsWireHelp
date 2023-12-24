@@ -7,7 +7,7 @@ With an On My Mac account, NetNewsWire keeps your subscription list and takes ca
 
 On My Mac account information *does not sync* to any other location. If you use more than one Mac or an iOS device, you’ll have to set up feeds and folders on each device yourself.
 
-<span class="badge-note-small">Tip</span> You can also use NetNewsWire with a [syncing service](syncing-accounts) like Feedbin or Feedly.
+<span class="badge-note-small">Tip</span> You can also use NetNewsWire with a [syncing service](syncing-accounts.html) like Feedbin or Feedly.
 
 
 Refreshing On My Mac feeds

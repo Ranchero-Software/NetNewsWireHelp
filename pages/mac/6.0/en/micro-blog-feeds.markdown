@@ -64,8 +64,8 @@ Learn more
 
 Learn how to subscribe to other kinds of feeds:
 
-* [Reddit feeds or subreddits](reddit-feeds)
-* [Twitter feeds](twitter-feeds)
+* [Reddit feeds or subreddits](reddit-feeds.html)
+* [Twitter feeds](twitter-feeds.html)
 
 
 [d]: https://micro.blog/discover

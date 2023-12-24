@@ -5,7 +5,7 @@ NetNewsWire can sync your feeds and articles with third-party feed aggregating s
 
 If you use a feed aggregator service, you can keep your read status and subscription list in sync even when you use multiple apps.
 
-If you’re not using a feed aggregator, you can use the [On My Mac account](on-my-mac).
+If you’re not using a feed aggregator, you can use the [On My Mac account](on-my-mac.html).
 
 
 Add a syncing account

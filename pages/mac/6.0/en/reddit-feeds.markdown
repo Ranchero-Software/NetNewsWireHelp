@@ -39,6 +39,6 @@ Learn more
 ----------
 
 * Learn how to subscribe to other kinds of feeds:
-  * [Twitter feeds](twitter-feeds)
-  * [Micro.blog feeds](micro-blog-feeds)
-* [Learn how to import feeds from OPML](import-opml)
+  * [Twitter feeds](twitter-feeds.html)
+  * [Micro.blog feeds](micro-blog-feeds.html)
+* [Learn how to import feeds from OPML](import-opml.html)

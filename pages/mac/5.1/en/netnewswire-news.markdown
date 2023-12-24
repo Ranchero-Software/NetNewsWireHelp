@@ -9,4 +9,4 @@ Add the NetNewsWire News Feed
 
 The NetNewsWire News Feed is part of the default subscription list installed the first time you launched NetNewsWire. If it’s no longer in your list, add it back.
 
-From the menu bar, choose **Help › Add NetNewsWire News Feed**. NetNewsWire will open the [New Feed dialog](adding-feeds) pre-filled with the name and address (`https://nnw.ranchero.com/feed.json`). Click **Add**.
+From the menu bar, choose **Help › Add NetNewsWire News Feed**. NetNewsWire will open the [New Feed dialog](adding-feeds.html) pre-filled with the name and address of the NetNewsWire feed. Click **Add**.

@@ -41,6 +41,6 @@ Learn more
 ----------
 
 * Learn how to subscribe to other kinds of feeds:
-  * [Reddit feeds](reddit-feeds)
-  * [Micro.blog feeds](micro-blog-feeds)
-* [Learn how to import feeds from OPML](import-opml)
+  * [Reddit feeds](reddit-feeds.html)
+  * [Micro.blog feeds](micro-blog-feeds.html)
+* [Learn how to import feeds from OPML](import-opml.html)

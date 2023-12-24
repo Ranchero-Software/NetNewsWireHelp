@@ -11,7 +11,7 @@ Information about your accounts, subscribed feeds, and read status of articles  
 
 	~/Library/Containers/com.ranchero.NetNewsWire-Evergreen/Data/Library/Application Support/NetNewsWire
 
-<span class="badge-note-small">Tip</span> You can [export an OPML list of your subscribed feeds](export-opml).
+<span class="badge-note-small">Tip</span> You can [export an OPML list of your subscribed feeds](export-opml.html).
 
 
 Preferences
