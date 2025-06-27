@@ -7,8 +7,6 @@ Your question might be answered on the [Frequently Asked Questions][faq] page or
 
 If not, consider joining the [NetNewsWire Slack group][slack]. You can ask questions there — and also help us think things through as we talk about future versions. It’s the home of the NetNewsWire community.
 
-You can also email <brent@ranchero.com>, but this is probably the slowest way to get help.
-
 
 Report bugs or make a feature request
 -------------------------------------

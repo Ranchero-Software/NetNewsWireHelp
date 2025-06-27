@@ -1,10 +1,6 @@
 @title NetNewsWire 6.1 for iPhone and iPad Help
 @template index_ios.html
 
-NetNewsWire 6.1 for iPhone and iPad Help
-======================================
-
-
 Getting Started
 ---------------
 
