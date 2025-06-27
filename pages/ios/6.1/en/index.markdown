@@ -33,7 +33,7 @@ Filter to hide read items](filters.html)
 
 [Sort the timeline by oldest or newest](sorting-the-timeline.html)
 
-[See notifications and badges for new articles](notification.htmls)
+[See notifications and badges for new articles](notifications.html)
 
 [Share to other apps](sharing-articles.html)
 
