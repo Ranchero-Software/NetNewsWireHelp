@@ -1,0 +1,385 @@
+:root {
+	color-scheme: light dark;
+	--font-family: "Helvetica Neue", Helvetica, sans-serif;
+	--background-color: #f9f9f9;
+	--alternate-background-color: #f0f0f0;
+	--main-border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+	--nav-background-color: rgba(0, 0, 0, 0.75);
+	--nav-link-color: rgba(255, 255, 255, 0.9);
+	--color: rgba(0, 0, 0, 0.75);
+	--link-color: hsl(214, 65%, 55%);
+	--link-visited-color: hsl(250, 27%, 56%);
+	--separator-background-color: rgba(0, 0, 0, 0.1);
+	--note-color: rgba(0, 0, 0, 0.35);
+	--footer-color: rgba(0, 0, 0, 0.5);
+	--screenshot-shadow: 0 10px 15px 10px rgba(164, 164, 164, 0.1);
+}
+@media(prefers-color-scheme: dark) {
+	:root {
+	--background-color: hsl(214.4, 30%, 15%);
+	--alternate-background-color: rgba(255, 255, 255, 0.1);
+	--main-border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+	--nav-background-color: rgba(0, 0, 0, 0.75);
+	--nav-link-color: rgba(255, 255, 255, 0.5);
+	--color: rgba(255, 255, 255, 0.8);
+	--link-color: hsl(214, 65%, 55%);
+	--link-visited-color: hsl(250, 27%, 56%);
+	--separator-background-color: rgba(255, 255, 255, 0.35);
+	--note-color: rgba(255, 255, 255, 0.35);
+	--footer-color: rgba(255, 255, 255, 0.5);
+	--screenshot-shadow: none;
+
+	}
+}
+
+body
+{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	line-height: 1.7em;
+	font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
+	font-size: 1.2em;
+	color: var(--color);
+	background-color: var(--background-color);
+}
+
+
+
+
+
+/***************************
+ *  P A G E   H E A D E R  *
+ ***************************/
+
+header
+{
+	line-height: 2em;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	text-align: center;
+	font-size: 24px;
+	font-weight: bold;
+	background-color: var(--nav-background-color);
+}
+
+header a:link, header a:visited
+{
+	color: var(--nav-link-color);
+	text-decoration: none;
+}
+
+
+/*************
+ *  M A I N  *
+ *************/
+
+main
+{
+	padding-top: 40px;
+	padding-bottom: 2em;
+	max-width: 650px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+@media (max-width: 760px)
+{
+	main
+	{
+		width: 500px;
+		max-width: 500px;
+		min-width: 500px;
+	}
+}
+
+@media (max-width: 600px)
+{
+	main
+	{
+		width: 450px;
+		max-width: 450px;
+		min-width: 450px;
+	}
+}
+
+@media (max-width: 480px)
+{
+	main
+	{
+		width: 300px;
+		max-width: 300px;
+		min-width: 300px;
+	}
+}
+
+
+/*********************************
+ *  N A V I G A T I O N   B A R  *
+ *********************************/
+
+nav
+{
+	color: var(--footer-color);
+	text-align: center;
+	padding-top: 52px;
+    border-top: var(--main-border-bottom);
+}
+
+
+
+
+/*********************
+ *  H E A D I N G S  *
+ *********************/
+
+h1 {
+	font-size: 34px;
+	line-height: 1.3em;
+}
+
+h2 {
+	font-size: 28px;
+	margin-top: 2.5em;
+	padding-top: 1em;
+	border-top: 1px solid var(--separator-background-color)
+}
+
+h3 {
+	font-size: 22px;
+	margin-bottom: 0;
+}
+
+h3 + p {
+	margin-top: 0;
+}
+
+h4 {
+	margin-bottom: 1em;
+}
+
+
+
+/*****************
+ *  F O O T E R  *
+ *****************/
+
+footer
+{
+	margin-bottom: 0;
+	padding-top: 14px;
+	padding-bottom: 32px;
+	text-align: center;
+    color: var(--footer-color);
+}
+
+footer p { margin-bottom: 18px; }
+
+
+
+/*************
+ *  T E X T  *
+ *************/
+
+a {
+	text-decoration: none;
+}
+a:link {
+	color: var(--link-color);
+}
+a:visited {
+	color: var(--link-visited-color);
+}
+code, pre {
+	font-family: "SF Mono", Menlo, "Courier", monospace;
+	font-size: 16px;
+	white-space: pre-wrap;
+}
+
+p > code, pre {
+	background-color: var(--alternate-background-color);
+	border: var(--main-border-bottom);
+	border-radius: 3px;
+	padding: 0 0.25em;
+}
+
+pre {
+	margin-left: 2em;
+}
+
+
+
+
+/*****************
+ *  I M A G E S  *
+ *****************/
+
+.centeredImage
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.listImage {
+	margin-top: 1.7em;
+	margin-bottom: 1.7em;
+}
+
+.ios-inline-button {
+	height: 1em;
+	vertical-align: -0.1em;
+}
+
+.ios-inline-button-large {
+	height: 1.2em;
+	vertical-align: -0.2em;
+}
+
+.mac-inline-toolbar-button {
+	height: 1em;
+	vertical-align: -0.2em;
+	padding: 0.1em 0.5em;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	background-color: #f8f8f8;
+}
+
+.shadow,
+.shadowedBox {
+	box-shadow: var(--screenshot-shadow);
+	border: 1px solid #C7C7C7;
+}
+
+.lightBorder {
+	border: 1px solid #C7C7C7;
+}
+
+.round {
+	border-radius: 8px;
+}
+
+
+
+/*****************
+ *  B A D G E S  *
+ *****************/
+
+/* all badges have these properties */
+span.badge-warning,
+span.badge-warning-small,
+span.badge-note,
+span.badge-note-small,
+span.badge-info,
+span.badge-info-small,
+span.badge-key,
+span.badge,
+span.badge-small {
+	padding: 0em 0.3em;
+	font-weight: 600;
+	border: 2px solid;
+	border-radius: 6px;
+}
+
+/* set colours for each badge type */
+span.badge-warning,
+span.badge-warning-small {
+	background-color: #FFCA00;
+	border-color: #F1A100;
+	color: black;
+}
+
+span.badge-note,
+span.badge-note-small {
+	background-color: #00AF88;
+	border-color: #008C6D;
+	color: white;
+}
+
+span.badge-info,
+span.badge-info-small,
+span.badge,
+span.badge-small {
+	background-color: #3170DC;
+	border-color: #1E49AF;
+	color: white;
+}
+
+span.badge-key {
+	background-color: #919191;
+	border-color: #5E5E5E;
+	color: white;
+	font-size: 0.8em;
+	text-transform: uppercase;
+}
+
+/* reduce the size for the -small ones */
+span.badge-warning-small,
+span.badge-note-small,
+span.badge-info-small,
+span.badge-small {
+	padding-top: 0.05em;
+	padding-bottom: 0.05em;
+	font-size: 0.9rem;
+	text-transform: uppercase;
+}
+
+p.note, span.note {
+	font-size: 0.8em;
+	line-height: 1.4em;
+	margin-top: -1.2em;
+	color: var(--note-color);
+}
+
+
+
+
+/*******************
+ *  C O L U M N S  *
+ *******************/
+
+/* only display columns if the
+   browser window is large enough */
+
+@media (min-width: 760px)
+{
+	div.columns { display: flex; }
+
+	div.column-left
+	{
+		padding: 0 0.5em 0 0;
+	}
+
+	div.column-right
+	{
+		padding: 0 0 0 0.5em;
+	}
+}
+
+
+
+/*****************
+ *  T A B L E S  *
+ *****************/
+
+table { font-size: inherit; line-height: inherit; }
+
+th, caption {
+	font-size: 22px;
+}
+
+table.keyboard-shortcuts {
+	width: 80%;
+	margin: 0 auto 2em auto;
+	-webkit-border-horizontal-spacing: 0;
+	-webkit-border-vertical-spacing: 0;
+}
+
+table.keyboard-shortcuts tbody tr:nth-child(odd) {
+	background-color: var(--alternate-background-color);
+}
+
+table.keyboard-shortcuts tr td:first-child {
+	width: 70%;
+}
