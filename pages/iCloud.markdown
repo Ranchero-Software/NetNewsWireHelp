@@ -15,7 +15,7 @@ With Apple’s limits, sync times can take hours and hours as they force limits 
 
 Larger numbers of unread articles cause a lot of data to be stored in iCloud. This is because we sync the article content of unread items. We do this so that if an article has dropped off of the RSS feed by the time another device syncs, that article will still appear on that other device. We compress the article content to make this take less time. Still, the fewer unread articles that you keep around, the faster syncing will be.
 
-Since iCloud syncing can be frustrating long, we will give you a couple of tips to help.
+Below are a few tips to help.
 
 ### Mac
 
