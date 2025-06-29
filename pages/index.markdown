@@ -1,15 +1,17 @@
-@title Help Books for NetNewsWire
-@template helpBooksIndex.html
+@title NetNewsWire Help
+@template page.html
 
-### Help Books for Current Versions
+### Articles
 
-[NetNewsWire 6.1 for Mac](mac/6.1/en/)
+[What is RSS? What are feeds?](what-is-rss.html)
 
-[NetNewsWire 6.1 for iPhone and iPad](ios/6.1/en/)
+[Frequently Asked Questions](https://netnewswire.com/frequently-asked-questions.html)
+
+#### Troubleshooting
+
+[iCloud Syncing Limitations and Solutions](iCloud.html)
 
 ### Other Ways to Get Help
-
-See [Frequently Asked Questions](https://netnewswire.com/frequently-asked-questions.html), which answers many common questions.
 
 [Join the Slack group](https://netnewswire.com/slack) and ask questions there.
 
@@ -17,12 +19,13 @@ Post bug reports and feature requests on the [NetNewsWire issues tracker](https:
 
 ### Help Books for Older Versions
 
-[NetNewsWire 6 for Mac](mac/6.0/en/)
+[NetNewsWire 6.1 for Mac](mac/6.1/en/)<br>
+[NetNewsWire 6.1 for iPhone and iPad](ios/6.1/en/)
 
+[NetNewsWire 6 for Mac](mac/6.0/en/)<br>
 [NetNewsWire 6 for iPhone and iPad](ios/6.0/en/)
 
 [NetNewsWire 5.1 for Mac](mac/5.1/en/)
 
-[NetNewsWire 5 for Mac](mac/5.0/en/)
-
+[NetNewsWire 5 for Mac](mac/5.0/en/)<br>
 [NetNewsWire 5 for iPhone and iPad](ios/5.0/en/)
