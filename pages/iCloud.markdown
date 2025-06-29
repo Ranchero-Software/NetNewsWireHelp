@@ -1,7 +1,5 @@
 @title iCloud Syncing Limitations and Solutions
-@template helpBooksIndex.html
-
-# iCloud Syncing Limitations and Solutions
+@template page.html
 
 ## The Problem
 
