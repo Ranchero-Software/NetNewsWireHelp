@@ -15,7 +15,7 @@ And that’s what RSS is. It’s just that part, minus the rest of the stuff.
 
 ## Details
 
-That “good part” is actually made available as a *feed.* A feed is just a specially-formatted text file that readers like NetNewsWire can read. The files look weird. they kind of look like the source behind web pages, with a lot of &lt; and &gt; and everything.
+That “good part” is actually made available as a *feed.* A feed is just a specially-formatted text file that readers like NetNewsWire can read. The files look weird. They kind of look like the source behind web pages, with a lot of <code>&lt;</code> and <code>&gt;</code> and everything.
 
 The important thing is: it’s NetNewsWire’s job to know how to read the feed. And it’s NetNewsWire’s job to remember which articles you’ve read and to show you the ones you haven’t read.
 
