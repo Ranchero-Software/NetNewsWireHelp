@@ -127,32 +127,17 @@ nav
     border-top: var(--main-border-bottom);
 }
 
-
-
-
-/*********************
- *  H E A D I N G S  *
- *********************/
-
 h1 {
 	font-size: 34px;
 	line-height: 1.3em;
 }
-
 h2 {
 	font-size: 28px;
 	margin-top: 2rem;
 }
-
 h3 {
 	font-size: 22px;
-	margin-bottom: 0;
 }
-
-h3 + p {
-	margin-top: 0;
-}
-
 h4 {
 	margin-bottom: 1em;
 }
