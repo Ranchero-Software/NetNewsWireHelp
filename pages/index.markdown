@@ -3,9 +3,9 @@
 
 ### Help Books for Current Versions
 
-[NetNewsWire 6.1 for Mac](mac/6.1/en/) (English)
+[NetNewsWire 6.1 for Mac](mac/6.1/en/)
 
-[NetNewsWire 6.1 for iPhone and iPad](ios/6.1/en/) (English)
+[NetNewsWire 6.1 for iPhone and iPad](ios/6.1/en/)
 
 ### Other Ways to Get Help
 
@@ -17,12 +17,12 @@ Post bug reports and feature requests on the [NetNewsWire issues tracker](https:
 
 ### Help Books for Older Versions
 
-[NetNewsWire 6 for Mac](mac/6.0/en/) (English)
+[NetNewsWire 6 for Mac](mac/6.0/en/)
 
-[NetNewsWire 6 for iPhone and iPad](ios/6.0/en/) (English)
+[NetNewsWire 6 for iPhone and iPad](ios/6.0/en/)
 
-[NetNewsWire 5.1 for Mac](mac/5.1/en/) (English)
+[NetNewsWire 5.1 for Mac](mac/5.1/en/)
 
-[NetNewsWire 5 for Mac](mac/5.0/en/) (English)
+[NetNewsWire 5 for Mac](mac/5.0/en/)
 
-[NetNewsWire 5 for iPhone and iPad](ios/5.0/en/) (English)
+[NetNewsWire 5 for iPhone and iPad](ios/5.0/en/)
