@@ -141,9 +141,7 @@ h1 {
 
 h2 {
 	font-size: 28px;
-	margin-top: 2.5em;
-	padding-top: 1em;
-	border-top: 1px solid var(--separator-background-color)
+	margin-top: 2rem;
 }
 
 h3 {
