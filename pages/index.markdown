@@ -1,5 +1,7 @@
 @title NetNewsWire Help
-@template page.html
+@template main-index.html
+
+# How to Get Help and Support
 
 ### Articles
 
