@@ -5,14 +5,19 @@
 	--alternate-background-color: #f0f0f0;
 	--main-border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 	--nav-background-color: rgba(0, 0, 0, 0.75);
-	--nav-link-color: rgba(255, 255, 255, 0.9);
+	--header-link-color: rgba(255, 255, 255, 0.9);
 	--color: rgba(0, 0, 0, 0.75);
 	--link-color: hsl(214, 65%, 55%);
+	--alternate-link-color: hsl(214, 65%, 65%);
 	--link-visited-color: hsl(250, 27%, 56%);
 	--separator-background-color: rgba(0, 0, 0, 0.1);
 	--note-color: rgba(0, 0, 0, 0.35);
-	--footer-color: rgba(0, 0, 0, 0.5);
+	--footer-color: rgba(255, 255, 255, 0.65);
 	--screenshot-shadow: 0 10px 15px 10px rgba(164, 164, 164, 0.1);
+/* 	--header-background-color: #414141; */
+	--header-background-color: var(--link-color);
+	--header-border-color: hsl(214, 65%, 25%);
+	--footer-background-color: #414141;
 }
 @media(prefers-color-scheme: dark) {
 	:root {
@@ -45,36 +50,20 @@ body
 	background-color: var(--background-color);
 }
 
-
-
-
-
-/***************************
- *  P A G E   H E A D E R  *
- ***************************/
-
-header
-{
+header {
 	line-height: 2em;
 	padding-top: 8px;
 	padding-bottom: 8px;
 	text-align: center;
 	font-size: 24px;
 	font-weight: bold;
-	background-color: var(--nav-background-color);
+	background-color: var(--header-background-color);
+	border-boxttom: 1px solid var(--header-border-color);
 }
 
-header a:link, header a:visited
-{
-	color: var(--nav-link-color);
-	text-decoration: none;
+header a:link, header a:visited {
+	color: var(--header-link-color);
 }
-
-
-/*************
- *  M A I N  *
- *************/
-
 main
 {
 	padding-top: 40px;
@@ -114,17 +103,9 @@ main
 	}
 }
 
-
-/*********************************
- *  N A V I G A T I O N   B A R  *
- *********************************/
-
-nav
-{
+nav {
 	color: var(--footer-color);
 	text-align: center;
-	padding-top: 52px;
-    border-top: var(--main-border-bottom);
 }
 
 h1 {
@@ -142,28 +123,18 @@ h4 {
 	margin-bottom: 1em;
 }
 
-
-
-/*****************
- *  F O O T E R  *
- *****************/
-
-footer
-{
-	margin-bottom: 0;
-	padding-top: 14px;
-	padding-bottom: 32px;
+footer {
+	padding-top: 1rem;
+	padding-bottom: 1.5rem;
 	text-align: center;
     color: var(--footer-color);
+    background-color: var(--footer-background-color);
+    border-top: 1px solid black;
 }
 
-footer p { margin-bottom: 18px; }
-
-
-
-/*************
- *  T E X T  *
- *************/
+footer a:link, footer a:visited {
+	color: var(--footer-link-color);
+}
 
 a {
 	text-decoration: none;
@@ -173,6 +144,10 @@ a:link {
 }
 a:visited {
 	color: var(--link-visited-color);
+}
+a:hover {
+	text-decoration: underline;
+	text-underline-offset: 3px;
 }
 code, pre {
 	font-family: "SF Mono", Menlo, "Courier", monospace;
@@ -190,13 +165,6 @@ p > code, pre {
 pre {
 	margin-left: 2em;
 }
-
-
-
-
-/*****************
- *  I M A G E S  *
- *****************/
 
 .centeredImage
 {
@@ -220,92 +188,8 @@ pre {
 	vertical-align: -0.2em;
 }
 
-.mac-inline-toolbar-button {
-	height: 1em;
-	vertical-align: -0.2em;
-	padding: 0.1em 0.5em;
-	border: 1px solid #ccc;
-	border-radius: 5px;
-	background-color: #f8f8f8;
-}
-
-.shadow,
-.shadowedBox {
-	box-shadow: var(--screenshot-shadow);
-	border: 1px solid #C7C7C7;
-}
-
-.lightBorder {
-	border: 1px solid #C7C7C7;
-}
-
 .round {
 	border-radius: 8px;
-}
-
-
-
-/*****************
- *  B A D G E S  *
- *****************/
-
-/* all badges have these properties */
-span.badge-warning,
-span.badge-warning-small,
-span.badge-note,
-span.badge-note-small,
-span.badge-info,
-span.badge-info-small,
-span.badge-key,
-span.badge,
-span.badge-small {
-	padding: 0em 0.3em;
-	font-weight: 600;
-	border: 2px solid;
-	border-radius: 6px;
-}
-
-/* set colours for each badge type */
-span.badge-warning,
-span.badge-warning-small {
-	background-color: #FFCA00;
-	border-color: #F1A100;
-	color: black;
-}
-
-span.badge-note,
-span.badge-note-small {
-	background-color: #00AF88;
-	border-color: #008C6D;
-	color: white;
-}
-
-span.badge-info,
-span.badge-info-small,
-span.badge,
-span.badge-small {
-	background-color: #3170DC;
-	border-color: #1E49AF;
-	color: white;
-}
-
-span.badge-key {
-	background-color: #919191;
-	border-color: #5E5E5E;
-	color: white;
-	font-size: 0.8em;
-	text-transform: uppercase;
-}
-
-/* reduce the size for the -small ones */
-span.badge-warning-small,
-span.badge-note-small,
-span.badge-info-small,
-span.badge-small {
-	padding-top: 0.05em;
-	padding-bottom: 0.05em;
-	font-size: 0.9rem;
-	text-transform: uppercase;
 }
 
 p.note, span.note {
@@ -314,13 +198,6 @@ p.note, span.note {
 	margin-top: -1.2em;
 	color: var(--note-color);
 }
-
-
-
-
-/*******************
- *  C O L U M N S  *
- *******************/
 
 /* only display columns if the
    browser window is large enough */
@@ -340,11 +217,6 @@ p.note, span.note {
 	}
 }
 
-
-
-/*****************
- *  T A B L E S  *
- *****************/
 
 table { font-size: inherit; line-height: inherit; }
 
