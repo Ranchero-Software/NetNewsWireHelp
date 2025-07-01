@@ -9,7 +9,7 @@ Like this imaginary squished-down web page:
 
 <img src="images/websitediagram.png" width="255" height="256" alt="Website diagram that shows the good part — where RSS comes from" />
 
-The good part is the part in the middle — that’s the part with the news. That’s the part that you read. That’s the part you’re interested in.
+The good part is the part in the middle — that’s the part with the news. That’s the part you read. That’s the part you’re interested in.
 
 And that’s what RSS is. It’s just that part, minus the rest of the stuff.
 
