@@ -9,6 +9,10 @@
 
 [Frequently Asked Questions](https://netnewswire.com/frequently-asked-questions.html)
 
+### How-tos
+
+[How to get NetNewsWire News](how-to-get-netnewswire-news.html)
+
 #### Troubleshooting
 
 [iCloud Syncing Limitations and Solutions](iCloud.html)
