@@ -14,58 +14,47 @@
 	--note-color: rgba(0, 0, 0, 0.35);
 	--footer-color: rgba(255, 255, 255, 0.65);
 	--screenshot-shadow: 0 10px 15px 10px rgba(164, 164, 164, 0.1);
-/* 	--header-background-color: #414141; */
-	--header-background-color: var(--link-color);
+	--header-background-color: #414141;
 	--header-border-color: hsl(214, 65%, 25%);
 	--footer-background-color: #414141;
 }
-@media(prefers-color-scheme: dark) {
-	:root {
-	--background-color: hsl(214.4, 30%, 15%);
-	--alternate-background-color: rgba(255, 255, 255, 0.1);
-	--main-border-bottom: 1px solid rgba(255, 255, 255, 0.1);
-	--nav-background-color: rgba(0, 0, 0, 0.75);
-	--nav-link-color: rgba(255, 255, 255, 0.5);
-	--color: rgba(255, 255, 255, 0.8);
-	--link-color: hsl(214, 65%, 55%);
-	--link-visited-color: hsl(250, 27%, 56%);
-	--separator-background-color: rgba(255, 255, 255, 0.35);
-	--note-color: rgba(255, 255, 255, 0.35);
-	--footer-color: rgba(255, 255, 255, 0.5);
-	--screenshot-shadow: none;
 
+@media (prefers-color-scheme: dark) {
+	:root {
+		--background-color: hsl(214.4, 30%, 15%);
+		--alternate-background-color: rgba(255, 255, 255, 0.1);
+		--main-border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+		--nav-background-color: rgba(0, 0, 0, 0.75);
+		--nav-link-color: rgba(255, 255, 255, 0.5);
+		--color: rgba(255, 255, 255, 0.8);
+		--link-color: hsl(214, 65%, 55%);
+		--link-visited-color: hsl(250, 27%, 56%);
+		--separator-background-color: rgba(255, 255, 255, 0.35);
+		--note-color: rgba(255, 255, 255, 0.35);
+		--footer-color: rgba(255, 255, 255, 0.5);
+		--screenshot-shadow: none;
 	}
 }
 
-body
-{
-	margin-top: 0px;
-	margin-bottom: 0px;
-	margin-left: 0px;
-	margin-right: 0px;
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+body {
 	line-height: 1.7em;
 	font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
 	font-size: 1.2em;
 	color: var(--color);
 	background-color: var(--background-color);
 }
-
-header {
-	line-height: 2em;
-	padding-top: 8px;
-	padding-bottom: 8px;
-	text-align: center;
-	font-size: 24px;
-	font-weight: bold;
-	background-color: var(--header-background-color);
-	border-boxttom: 1px solid var(--header-border-color);
+.page {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
 }
-
-header a:link, header a:visited {
-	color: var(--header-link-color);
-}
-main
-{
+main {
+	flex: 1;
 	padding-top: 40px;
 	padding-bottom: 2em;
 	max-width: 650px;
@@ -73,34 +62,43 @@ main
 	margin-right: auto;
 }
 
-@media (max-width: 760px)
-{
-	main
-	{
+@media (max-width: 760px) {
+	main {
 		width: 500px;
 		max-width: 500px;
 		min-width: 500px;
 	}
 }
 
-@media (max-width: 600px)
-{
-	main
-	{
+@media (max-width: 600px) {
+	main {
 		width: 450px;
 		max-width: 450px;
 		min-width: 450px;
 	}
 }
 
-@media (max-width: 480px)
-{
-	main
-	{
+@media (max-width: 480px) {
+	main {
 		width: 300px;
 		max-width: 300px;
 		min-width: 300px;
 	}
+}
+
+header {
+	width: 100%;
+	line-height: 2em;
+	padding: 8px 0;
+	text-align: center;
+	font-size: 24px;
+	font-weight: bold;
+	background-color: var(--header-background-color);
+	border-bottom: 1px solid var(--header-border-color);
+}
+
+header a:link, header a:visited {
+	color: var(--header-link-color);
 }
 
 nav {
@@ -124,12 +122,13 @@ h4 {
 }
 
 footer {
+	width: 100%;
 	padding-top: 1rem;
 	padding-bottom: 1.5rem;
 	text-align: center;
-    color: var(--footer-color);
-    background-color: var(--footer-background-color);
-    border-top: 1px solid black;
+	color: var(--footer-color);
+	background-color: var(--footer-background-color);
+	border-top: 1px solid black;
 }
 
 footer a:link, footer a:visited {
@@ -149,6 +148,7 @@ a:hover {
 	text-decoration: underline;
 	text-underline-offset: 3px;
 }
+
 code, pre {
 	font-family: "SF Mono", Menlo, "Courier", monospace;
 	font-size: 16px;
@@ -166,8 +166,7 @@ pre {
 	margin-left: 2em;
 }
 
-.centeredImage
-{
+.centeredImage {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -199,26 +198,23 @@ p.note, span.note {
 	color: var(--note-color);
 }
 
-/* only display columns if the
-   browser window is large enough */
-
-@media (min-width: 760px)
-{
-	div.columns { display: flex; }
-
-	div.column-left
-	{
+/* Columns layout for wider screens */
+@media (min-width: 760px) {
+	div.columns {
+		display: flex;
+	}
+	div.column-left {
 		padding: 0 0.5em 0 0;
 	}
-
-	div.column-right
-	{
+	div.column-right {
 		padding: 0 0 0 0.5em;
 	}
 }
 
-
-table { font-size: inherit; line-height: inherit; }
+table {
+	font-size: inherit;
+	line-height: inherit;
+}
 
 th, caption {
 	font-size: 22px;
