@@ -19,7 +19,7 @@
 
 ### Other Ways to Get Help
 
-[Join the Slack group](https://netnewswire.com/slack) and ask questions there.
+[Join the NetNewsWire forum](https://discourse.netnewswire.com/) and ask questions there.
 
 Post bug reports and feature requests on the [NetNewsWire issues tracker](https://github.com/Ranchero-Software/NetNewsWire/issues).
 
