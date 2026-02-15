@@ -32,10 +32,9 @@ If you want to help test new features, or just want to be at the bleeding edge, 
 
 **Important:** Test builds may have bugs. You may lose data. NetNewsWire may crash.
 
-To report bugs and make enhancement requests, file an issue on the [NetNewsWire GitHub page][nnw-issues]. You can also share and discuss issues on the [NetNewsWire Slack][slack] group.
+To report bugs and make enhancement requests, file an issue on the [NetNewsWire GitHub page][nnw-issues]. You can also share and discuss issues on the [NetNewsWire forum](https://discourse.netnewswire.com/).
 
 [nnw-issues]: https://github.com/Ranchero-Software/NetNewsWire/issues
-[slack]: https://netnewswire.com/slack
 
 
 Privacy
