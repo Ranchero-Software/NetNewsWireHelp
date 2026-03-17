@@ -48,6 +48,12 @@ body {
 	color: var(--color);
 	background-color: var(--background-color);
 }
+
+img {
+	max-width: 100%;
+	height: auto;                                                                                   
+}
+
 .page {
 	display: flex;
 	flex-direction: column;
