@@ -3,15 +3,19 @@
 
 The Error Log shows you the recent errors in syncing, downloading feeds, reading from the keychain, and in other operations.
 
-Each entry includes date and time, the account name (usually), what it was doing, the error message, and the line of code where the error was logged.
+Each entry includes date and time, the account name (usually), what it was doing, the error message, and the line of code where the error was logged. Like this:
 
-It can be useful in helping figure out why a certain feed or an entire account isn’t updating, for instance.
+	[2026-03-12 21:20:28] Feedbin - Syncing starred status: HTTP 401 Unauthorized
+	(NetNewsWire/AppDelegate.swift:postFakeErrorsForTesting():721)
+
+The log can be useful in helping figure out why a certain feed or an entire account isn’t updating, for instance.
 
 It can also be useful when trying to get help — you can copy and paste all or part of the log when reporting a bug on the [issues tracker](https://github.com/Ranchero-Software/NetNewsWire/issues) or asking for help in the [forum](https://discourse.netnewswire.com/).
 
-But please note that the error log may contain information, such as feed URLs, that you may not want to share. Please review and edit before you share with anybody, including with the NetNewsWire team.
-
-The Error Log includes a warning about sharing, as you can see in the screenshots below. You don’t have to try to remember — it will remind you.
+<div class=warning>
+<p><strong>Warning:</strong> the error log may contain information, such as feed URLs, that you <strong>may not want to share</strong>. Please review and edit before you share with anybody, including with the NetNewsWire team.</p>
+<p>The Error Log includes a warning about sharing, as you can see in the screenshots below. You don’t have to try to remember — it will remind you.</p>
+</div>
 
 (The Error Log was added in NetNewsWire 7.0.2, released in March 2026.)
 

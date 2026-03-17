@@ -13,6 +13,8 @@
 
 [How to get NetNewsWire News](how-to-get-netnewswire-news.html)
 
+[How to Use the Error Log](error-log.html)
+
 #### Troubleshooting
 
 [iCloud Syncing Limitations and Solutions](iCloud.html)
