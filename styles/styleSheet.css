@@ -154,6 +154,10 @@ main {
 	padding-bottom: 46px;
 }
 
+main a {
+	text-decoration: underline;
+}
+
 /* Headings */
 
 h1 {
@@ -187,6 +191,7 @@ footer {
 }
 footer a {
 	color: var(--footer-link);
+	text-decoration: underline;
 	text-underline-offset: 3px;
 }
 footer a:visited {
