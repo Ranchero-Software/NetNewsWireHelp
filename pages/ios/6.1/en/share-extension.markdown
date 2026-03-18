@@ -11,17 +11,11 @@ Add a subscription using the Share button
 
 2. Tap the NetNewsWire icon. You may need to scroll and tap More to find it.
 
-<img src="../../../images/ios-en-system_share_menu.png"
-     alt="A screenshot of the iOS share sheet with the NetNewsWire icon visible."
-     class="centeredImage inlineImage"
-     style="width: 40%;" />
+<img src="../../../images/ios-en-system_share_menu.png" alt="A screenshot of the iOS share sheet with the NetNewsWire icon visible." class="centeredImage inlineImage" style="width: 40%;" />
 
 3. If you want, rename the feed and choose where to save it.
 
-<img src="../../../images/ios-en-system_share_menu_add.png"
-     alt="A screenshot of the add feed dialog in the iOS share sheet."
-     class="centeredImage"
-     style="width: 50%;" />
+<img src="../../../images/ios-en-system_share_menu_add.png" alt="A screenshot of the add feed dialog in the iOS share sheet." class="centeredImage" style="width: 50%;" />
 
 4. Tap Add Feed.
 

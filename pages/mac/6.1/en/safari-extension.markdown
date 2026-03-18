@@ -3,10 +3,7 @@
 
 You can use the NetNewsWire *Subscribe to Feed* extension to subscribe to a site’s feed directly in Safari.
 
-<img src="../../../images/mac-en-safari_extension_toolbar.png"
-     alt="An screenshot of Safari’s toolbar with the “Subscribe to Feed” button circled."
-     class="centeredImage"
-     style="width: 100%" />
+<img src="../../../images/mac-en-safari_extension_toolbar.png" alt="An screenshot of Safari’s toolbar with the “Subscribe to Feed” button circled." class="centeredImage"  style="width: 100%" />
 
 If the Subscribe to Feed button isn’t in the Safari toolbar, turn it on:
 
@@ -14,10 +11,7 @@ If the Subscribe to Feed button isn’t in the Safari toolbar, turn it on:
 2. Choose Safari and then Preferences (⌘,) from the menu bar.
 3. Click Extensions, then turn on Subscribe to Feed.
 
-<img src="../../../images/mac-en-safari_extension_preferences.png"
-     alt="A screenshot of Safari’s Extensions preferences, with the “Subscribe to Feed” extension circled."
-     class="centeredImage"
-     style="width: 80%;" />
+<img src="../../../images/mac-en-safari_extension_preferences.png" alt="A screenshot of Safari’s Extensions preferences, with the “Subscribe to Feed” extension circled."  class="centeredImage"  style="width: 80%;" />
 
 
 Get help

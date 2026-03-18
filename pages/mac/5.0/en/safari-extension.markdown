@@ -15,17 +15,11 @@ The Safari Extension is installed automatically with NetNewsWire. However, it mu
 4. From the list, select the **Subscribe to Feed** extension to turn it on
 5. Close the Preferences window
 
-<img src="../../../images/mac-en-safari_extension_preferences.png"
-     alt="A screenshot of Safari’s Extensions preferences, with the “Subscribe to Feed” extension circled."
-     class="centeredImage"
-     style="width: 80%;" />
+<img src="../../../images/mac-en-safari_extension_preferences.png" alt="A screenshot of Safari’s Extensions preferences, with the “Subscribe to Feed” extension circled." class="centeredImage" style="width: 80%;" />
 
 The *Subscribe to Feed* button will be added to your Safari toolbar.
 
-<img src="../../../images/mac-en-safari_extension_toolbar.png"
-     alt="An screenshot of Safari’s toolbar with the “Subscribe to Feed” button circled."
-     class="centeredImage"
-     style="width: 100%" />
+<img src="../../../images/mac-en-safari_extension_toolbar.png" alt="An screenshot of Safari’s toolbar with the “Subscribe to Feed” button circled." class="centeredImage" style="width: 100%" />
 
 
 Add a feed using the Safari Extension

@@ -9,10 +9,7 @@ Check for updates
 
 To turn on automatic update checking, choose **NetNewsWire** → **Preferences…** from the menu bar, and click Advanced. Then turn on “Check automatically”.
 
-<img src="../../../images/mac-en-prefs_advanced_autocheck.png"
-     alt="A screenshot of NetNewsWire’s Advanced preferences pane, highlighting the app update checking preference."
-     class="centeredImage"
-     style="width: 70%;" />
+<img src="../../../images/mac-en-prefs_advanced_autocheck.png" alt="A screenshot of NetNewsWire’s Advanced preferences pane, highlighting the app update checking preference." class="centeredImage" style="width: 70%;" />
 
 
 To check for an update manually, choose **NetNewsWire** → **Check for Updates…** from the menu bar.
@@ -25,10 +22,7 @@ Get test builds
 
 If you want to help test new features, or just want to be at the bleeding edge, you can update to Test builds.
 
-<img src="../../../images/mac-en-prefs_advanced_check_for.png"
-     alt="A screenshot of NetNewsWire’s Advanced preferences pane, highlighting the option to download release builds or test builds of NetNewsWire."
-     class="centeredImage"
-     style="width: 70%;" />
+<img src="../../../images/mac-en-prefs_advanced_check_for.png" alt="A screenshot of NetNewsWire’s Advanced preferences pane, highlighting the option to download release builds or test builds of NetNewsWire." class="centeredImage" style="width: 70%;" />
 
 <span class="badge-warning-small">Important</span> Test builds may have bugs. You may lose data. NetNewsWire may crash.
 
