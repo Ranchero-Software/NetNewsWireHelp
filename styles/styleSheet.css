@@ -23,6 +23,8 @@
 	--screenshot-shadow: 0 10px 15px 10px rgba(164, 164, 164, 0.1);
 	--warning-background-color: rgba(232, 168, 32, 0.1);
 	--warning-border-color: #d49618;
+	--info-background-color: rgba(40, 167, 69, 0.1);
+	--info-border-color: #28a745;
 	--nav-shadow: #fff;
 }
 
@@ -49,6 +51,8 @@
 		--screenshot-shadow: none;
 		--warning-background-color: rgba(232, 168, 32, 0.14);
 		--warning-border-color: #8a6a10;
+		--info-background-color: rgba(40, 167, 69, 0.14);
+		--info-border-color: #1e7e34;
 		--nav-shadow: transparent;
 	}
 }
@@ -303,14 +307,24 @@ table.keyboard-shortcuts tr td:first-child {
 	width: 70%;
 }
 
-/* Warning box */
+/* Callout boxes */
 
-div.warning {
+div.warning,
+div.info {
 	margin: 1.5em 0;
 	padding: 0.75em 1em;
-	border-left: 4px solid var(--warning-border-color);
-	background-color: var(--warning-background-color);
+	border-left: 4px solid;
 	border-radius: 4px;
+}
+
+div.warning {
+	border-left-color: var(--warning-border-color);
+	background-color: var(--warning-background-color);
+}
+
+div.info {
+	border-left-color: var(--info-border-color);
+	background-color: var(--info-background-color);
 }
 
 /* Responsive */
