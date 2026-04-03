@@ -17,7 +17,7 @@
 
 [How to Use the Error Log](error-log.html)
 
-[iCloud Syncing Limitations and Solutions](iCloud.html)
+[How to Optimize iCloud Syncing](optimize-icloud.html)
 
 ### Other Ways to Get Help
 
