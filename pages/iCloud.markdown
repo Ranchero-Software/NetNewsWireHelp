@@ -1,6 +1,10 @@
 @title iCloud Syncing Limitations and Solutions
 @template page.html
 
+<div class=info>
+<p>This page is for versions of NetNewsWire older than 7.0.4. If you’re using NetNewsWire 7.0.4 or newer, see <a href=https://netnewswire.com/help/optimize-icloud.html>How to Optimize iCloud Syncing</a>.</p>
+</div>
+
 ## The Problem
 
 If you’re syncing using iCloud and the progress indicator appears stalled with no new articles appearing, it’s because iCloud syncing is sometimes extraordinarily slow.
