@@ -2,7 +2,7 @@
 @template page.html
 
 <div class=info>
-<p>This page describes features introduced in NetNewsWire 7.0.4. If you’re using an earlier version, see <a href=https://netnewswire.com/help/iCloud.html>iCloud Syncing Limitations and Solutions</a>.</p>
+<p>This page is for NetNewsWire 7.0.4 and newer. If you’re using an earlier version, see <a href=https://netnewswire.com/help/iCloud.html>iCloud Syncing Limitations and Solutions</a>.</p>
 </div>
 
 iCloud syncing can be slow and your iCloud storage may be large, especially if you’ve been using NetNewsWire with iCloud syncing for a long time.
@@ -29,8 +29,8 @@ Also turn it off in your iOS device or devices. Open the settings screen in NetN
 
 ![iOS screenshot showing iCloud account settings with checkbox off for syncing content of unread articles](images/ios-icloud-sync-content-unread-articles-setting.png)
 
-<div class=warning>
-<p><strong>Important:</strong> you should turn it off on each computer and device where you use NetNewsWire, or the ones you miss will continue to upload the content of unread articles to iCloud.</p>
+<div class=info>
+<p>This setting is synced between all your copies of NetNewsWire. You should have to turn it off only once. (It’s not a bad idea to check your other copies of NetNewsWire, though, to be sure.)</p>
 </div>
 
 ## Step 2. Relax — NetNewsWire is doing automatic cleanups on its own now
@@ -51,25 +51,21 @@ On Mac, from the Window menu, choose **iCloud Storage Stats**. The window will s
 
 ![Mac screenshot showing iCloud Storage Stats window with a completed scan. Includes statistics for status records and article content records.](images/mac-icloud-storage-stats.png)
 
+On iOS, open the settings screen in the app, scroll down to the Troubleshooting section, then tap on iCloud Storage Stats.
+
+![iOS screenshot showing iCloud Storage Stats screen with a completed scan. Includes statistics for status records and article content records.](images/ios-icloud-storage-stats.png)
+
 Here’s what it’s showing:
 
 ### Status Records
 
-These are quite small: just an ID and enough data to say whether an article is read or unread and starred or not. It’s okay that there are many thousands of these — that’s expected.
-
-In the screenshot there are 12,138 total, 5 starred, 237 unread, and 11,901 read. Totally normal.
-
-There are also, however, 876 listed as stale: those can be deleted, since they no longer apply to any articles still in your NetNewsWire.
-
-(Stale is defined as created six months ago or more and without a corresponding article still in your local database.)
-
-Even though it’s a good idea to get rid of the stale status records, that’s not where the real savings will come from. (But we will get rid of them anyway, in a moment.)
+These are quite small: just an ID and enough data to say whether an article is read or unread and starred or not. It’s okay that there are many thousands of these — that’s expected. Totally normal.
 
 ### Article Content Records
 
 These are the big ones, the actual content of each article. You want this number to be as small as possible — ideally it’s just the content of your starred articles and nothing more.
 
-In the screenshot, you can see that there are 7,734 total articles stored, which is a lot. Just five are starred. There are 200 unread and 7,534 read.
+In the screenshot, you can see that there are 8,387 total articles stored, which is a lot. Just five are starred. There are 212 unread and 8,170 read.
 
 Why so many for *read* articles? Don’t we *not* sync content for read articles?
 
@@ -81,19 +77,20 @@ Here’s what to do about it:
 
 ## Step 4. Clean up your iCloud storage
 
-Click the Clean Up button at the bottom of the window. It will first confirm that you want to do the cleanup, then it will run it. This too may take many minutes to complete.
+<div class=warning>
+<p><strong>Warning:</strong> Your next syncs after cleaning up may take an extra long time! This is because iCloud syncs <i>deletions</i>, and doing a cleanup means doing a lot of deletions.</p>
+<p>If you’d rather not do this all at once, you can let NetNewsWire clean up your iCloud storage automatically — it will do fewer deletions at a time and will eventually get everything cleaned up.</p>
+</div>
+
+Click or tap the Clean Up button at the bottom. It will first confirm that you want to do the cleanup, then it will run it. This too may take several minutes to complete.
 
 Once it’s finished, you will see something like this:
 
 ![Mac screenshot showing the iCloud Storage Stats window having completed a cleanup and reporting stats.](images/mac-icloud-storage-cleanup.png)
 
+![iOS screenshot showing the iCloud Storage Stats having completed a cleanup and reporting stats.](images/ios-icloud-storage-stats-cleanup.png)
+
 It shows you exactly how many of each category were deleted, and then gives you the option to go back to your scan or run a new scan (if you have time).
-
-If you were to run another scan, it should look something like this:
-
-![Mac screenshot showing the iCloud Storage Stats window after rescanning after running a cleanup.](images/mac-icloud-storage-scan-after-cleanup.png)
-
-Note how in the screenshot there are zero stale status records, zero unread article content records, zero read content records, and zero orphaned content records. Everything that could be deleted was deleted. Note how the remaining content records are just for starred articles. This is exactly what you want.
 
 At this point you may have deleted way more than half of NetNewsWire’s iCloud storage. (It was about 90% in testing, but mileage will vary.) From here on sync times should be faster and iCloud storage needs should be lower. (Remember that NetNewsWire now does a weekly cleanup too, so it can stay on top of this.)
 
