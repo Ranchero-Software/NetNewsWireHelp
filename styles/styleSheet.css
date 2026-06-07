@@ -10,7 +10,7 @@
 	--nav-gradient-bottom: #d49618;
 	--nav-border: rgba(0, 0, 0, 0.2);
 	--body-background: #f5f8fc;
-	--content-width: 700px;
+	--content-width: 850px;
 	--separator-color: #d4dce8;
 	--secondary-text: rgba(0, 0, 0, 0.45);
 	--pre-background: rgba(0, 0, 0, 0.05);
@@ -313,7 +313,6 @@ div.warning,
 div.info {
 	margin: 1.5em 0;
 	padding: 0.75em 1em;
-	border-left: 4px solid;
 	border-radius: 4px;
 }
 
