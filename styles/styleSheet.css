@@ -226,7 +226,8 @@ p > code, pre {
 }
 
 pre {
-	overflow-x: auto;
+	white-space: pre-wrap;
+	word-wrap: break-word;
 	padding: 12px 16px;
 	border-radius: 6px;
 }

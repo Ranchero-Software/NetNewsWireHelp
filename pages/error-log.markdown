@@ -25,6 +25,10 @@ To open it, choose **Window > Error Log** or type cmd-9. Screenshot:
 
 ![Screenshot of the Mac Error Log window](images/mac-error-log.png)
 
+## Tip: Find
+
+On Mac, type cmd-F to open the Find bar and search within the log.
+
 ## iOS
 
 To open it, open the settings screen, then tap **Troubleshooting > Error Log**. Screenshot:

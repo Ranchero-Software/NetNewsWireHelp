@@ -11,11 +11,19 @@
 
 ### How-tos
 
+[How to Find Stale Feeds with the Dinosaurs Window](dinosaurs.html)
+
 [How to get NetNewsWire News](how-to-get-netnewswire-news.html)
 
 #### Troubleshooting
 
 [How to Use the Error Log](error-log.html)
+
+[How to See What the App Is Doing Right Now with Current Activity](current-activity.html)
+
+[How to See What Happened with the Activity Log](activity-log.html)
+
+[How to View Account Stats](account-stats.html)
 
 [How to Optimize iCloud Syncing](optimize-icloud.html)
 

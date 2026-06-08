@@ -1,7 +1,7 @@
 @title How to View Account Stats
 @template page.html
 
-On the Mac, choose Window > Account Stats to open the window. You’ll see something like this:
+On your Mac, choose Window > Account Stats to open the window. You’ll see something like this:
 
 ![Screenshot of the Account Stats window](images/mac-account-stats.png)
 
@@ -12,6 +12,8 @@ On iOS (TBD…)
 ## What the fields mean
 
 Each account has its own row, and, if you have multiple accounts, there’s also a Totals row.
+
+(Inactive accounts also appear in this list: they’re grayed-out, as in the top row in the Mac screenshot.)
 
 The Databases column adds up the sizes for all the databases for that account.
 
