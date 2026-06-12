@@ -3,15 +3,19 @@
 
 On your Mac, choose Window > Dinosaurs to open the window. You’ll see something like this:
 
-![Screenshot of the Dinosaurs window](images/mac-dinosaurs.png)
+![Screenshot of the Mac Dinosaurs window](images/mac-dinosaurs.png)
 
-On iOS (TBD…)
+On iOS, open Settings, scroll down to Troubleshooting, then tap Dinosaurs. You’ll see something like this:
+
+![Screenshot of the iOS Dinosaurs screen](images/ios-dinosaurs.png)
 
 (The Dinosaurs feature was added in NetNewsWire 7.1, released in July 2026.)
 
 ## How to list stale feeds
 
-Edit the text field at the top of the window to choose a number of months. (You can also click the stepper on Mac.)
+On Mac: edit the text field at the top of the window to choose a number of months. (You can also click the stepper.)
+
+On iOS: tap in the months bar.
 
 The default is six months, but you might want to see feeds that haven’t updated in 24 months, for instance.
 
@@ -38,13 +42,21 @@ A feed can respond with a 404 and not actually be gone. At this writing, YouTube
 However, if a feed responds with 410 it’s almost surely gone for good. This is a very deliberate choice on the part of a publisher. (And super rare.)
 </div>
 
-## What the Buttons Do
+## How to Delete a Feed
 
-**Select in Sidebar** selects the feed in the main window. This way you can see what articles are included in the feed.
+On Mac: click the Delete button to remove the selected feed or feeds.
 
-**Delete** removes the selected feed or feeds. It will confirm first before deleting.
+On iOS: swipe on the feed, then click the trash button to delete the feed.
 
-**Open Home Page** opens the home page of the feed in your browser.
+## Other Actions
+
+On Mac: see the other buttons at the bottom of the window.
+
+On iOS: swipe to reveal the more menu — the one with the … character.
+
+**Go to Feed** selects the feed in the feeds list. This way you can see what articles are included in the feed.
+
+**Open Home Page** opens the home page of the feed in a web view.
 
 **Copy Feed URL** copies the feed URL of the selected feed or feeds.
 
