@@ -7,7 +7,7 @@ On your Mac, choose Window > Current Activity to open the window. You’ll see s
 
 On iOS, tap the icon at the bottom left of the Feeds screen — the one immediately to the right of the gear icon (the Settings icon). You’ll see something like this:
 
-<img src="images/ios-current-activity.png" alt="Screenshot of the iOS Current Activity screen" class="iosScreenshot" />
+<img src=images/ios-current-activity.png alt="Screenshot of the iOS Current Activity screen" class=iosScreenshot>
 
 (The Current Activity feature was added in NetNewsWire 7.1, released in July 2026.)
 

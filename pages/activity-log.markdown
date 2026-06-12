@@ -5,7 +5,9 @@ On your Mac, choose Window > Activity Log to open the window. You’ll see somet
 
 ![Screenshot of the Activity Log window](images/mac-activity-log.png)
 
-On iOS (TBD…)
+On iOS, open Settings, scroll down to Troubleshooting, then tap Activity Log. You’ll see something like this:
+
+<img src=images/ios-activity-log.png alt="Screenshot of the iOS Activity Log screen" class=iosScreenshot>
 
 (The Activity Log feature was added in NetNewsWire 7.1, released in July 2026.)
 

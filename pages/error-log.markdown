@@ -33,4 +33,4 @@ On Mac, type cmd-F to open the Find bar and search within the log.
 
 To open it, open the settings screen, then tap **Troubleshooting > Error Log**. Screenshot:
 
-<img src="images/ios-error-log.png" alt="Screenshot of the iOS Error Log window" class="iosScreenshot" />
+<img src=images/ios-error-log.png alt="Screenshot of the iOS Error Log window" class=iosScreenshot>

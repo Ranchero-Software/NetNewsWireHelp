@@ -7,7 +7,7 @@ On your Mac, choose Window > Account Stats to open the window. You’ll see some
 
 On iOS, open Settings, scroll down to Troubleshooting, then tap Account Stats. You’ll see something like this:
 
-<img src="images/ios-account-stats.png" alt="Screenshot of the iOS Account Stats screen" class="iosScreenshot" />
+<img src=images/ios-account-stats.png alt="Screenshot of the iOS Account Stats screen" class=iosScreenshot>
 
 (The Account Stats feature was added in NetNewsWire 7.1, released in July 2026.)
 
