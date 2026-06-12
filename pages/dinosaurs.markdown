@@ -7,7 +7,7 @@ On your Mac, choose Window > Dinosaurs to open the window. You’ll see somethin
 
 On iOS, open Settings, scroll down to Troubleshooting, then tap Dinosaurs. You’ll see something like this:
 
-![Screenshot of the iOS Dinosaurs screen](images/ios-dinosaurs.png)
+<img src="images/ios-dinosaurs.png" alt="Screenshot of the iOS Dinosaurs screen" class="iosScreenshot" />
 
 (The Dinosaurs feature was added in NetNewsWire 7.1, released in July 2026.)
 

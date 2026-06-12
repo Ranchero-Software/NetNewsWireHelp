@@ -245,6 +245,14 @@ pre {
 	margin-bottom: 1.7em;
 }
 
+.iosScreenshot {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	max-width: 390px;
+}
+
 .ios-inline-button {
 	height: 1em;
 	vertical-align: -0.1em;

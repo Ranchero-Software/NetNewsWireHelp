@@ -27,7 +27,7 @@ Open the Settings window on Mac and navigate to your iCloud account settings. Ma
 
 Also turn it off in your iOS device or devices. Open the settings screen in NetNewsWire, navigate to your iCloud account, and make sure the switch for “Sync Content of Unread Articles” is off, as in the screenshot.
 
-![iOS screenshot showing iCloud account settings with checkbox off for syncing content of unread articles](images/ios-icloud-sync-content-unread-articles-setting.png)
+<img src="images/ios-icloud-sync-content-unread-articles-setting.png" alt="iOS screenshot showing iCloud account settings with checkbox off for syncing content of unread articles" class="iosScreenshot" />
 
 <div class=info>
 <p>This setting is synced between all your copies of NetNewsWire. You should have to turn it off only once. (It’s not a bad idea to check your other copies of NetNewsWire, though, to be sure.)</p>
@@ -53,7 +53,7 @@ On Mac, from the Window menu, choose **iCloud Storage Stats**. The window will s
 
 On iOS, open the settings screen in the app, scroll down to the Troubleshooting section, then tap on iCloud Storage Stats.
 
-![iOS screenshot showing iCloud Storage Stats screen with a completed scan. Includes statistics for status records and article content records.](images/ios-icloud-storage-stats.png)
+<img src="images/ios-icloud-storage-stats.png" alt="iOS screenshot showing iCloud Storage Stats screen with a completed scan. Includes statistics for status records and article content records." class="iosScreenshot" />
 
 Here’s what it’s showing:
 
@@ -88,7 +88,7 @@ Once it’s finished, you will see something like this:
 
 ![Mac screenshot showing the iCloud Storage Stats window having completed a cleanup and reporting stats.](images/mac-icloud-storage-cleanup.png)
 
-![iOS screenshot showing the iCloud Storage Stats having completed a cleanup and reporting stats.](images/ios-icloud-storage-stats-cleanup.png)
+<img src="images/ios-icloud-storage-stats-cleanup.png" alt="iOS screenshot showing the iCloud Storage Stats having completed a cleanup and reporting stats." class="iosScreenshot" />
 
 It shows you exactly how many of each category were deleted, and then gives you the option to go back to your scan or run a new scan (if you have time).
 
