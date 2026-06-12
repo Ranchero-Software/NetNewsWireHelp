@@ -3,9 +3,11 @@
 
 On your Mac, choose Window > Current Activity to open the window. You’ll see something like this:
 
-![Screenshot of the Current Activity window](images/mac-current-activity.png)
+![Screenshot of the Mac Current Activity window](images/mac-current-activity.png)
 
-On iOS (TBD…)
+On iOS, tap the icon at the bottom left of the Feeds screen — the one immediately to the right of the gear icon (the Settings icon). You’ll see something like this:
+
+![Screenshot of the iOS Current Activity screen](images/ios-current-activity.png)
 
 (The Current Activity feature was added in NetNewsWire 7.1, released in July 2026.)
 
@@ -25,4 +27,4 @@ The [Activity Log](activity-log.html) lists the most recent activity — instead
 
 The [Error Log](error-log.html) lists recent errors, also with additional detail.
 
-The two buttons at the bottom of the screen open these logs.
+On Mac, the two buttons at the bottom of the window open these logs.
