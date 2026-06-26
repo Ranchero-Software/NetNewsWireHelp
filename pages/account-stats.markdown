@@ -9,7 +9,7 @@ On iOS, open Settings, scroll down to Troubleshooting, then tap Account Stats. Y
 
 <img src=images/ios-account-stats.png alt="Screenshot of the iOS Account Stats screen" class=iosScreenshot>
 
-(The Account Stats feature was added in NetNewsWire 7.1, released in July 2026.)
+(The Account Stats feature was added in NetNewsWire 7.1, released in June 2026.)
 
 ## What the fields mean
 
