@@ -20,7 +20,7 @@ Each account has its own row on Mac, or section on iOS, and, if you have multipl
 The Databases field adds up the sizes for all the databases for that account.
 
 <div class=info>
-Most accounts have three databases. DB.sqlite3 is the big one — it contains articles and status. FeedSettings.db contains metadata about feeds, and Sync.sqlite3 contains sync database that has been queued up to send.
+Most accounts have three databases. DB.sqlite3 is the big one — it contains articles and status. FeedSettings.db contains metadata about feeds, and Sync.sqlite3 contains sync data that has been queued up to send.
 </div>
 
 The rest of the fields tell how many of each are stored by that account.
