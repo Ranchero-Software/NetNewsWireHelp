@@ -9,20 +9,23 @@ Here’s how to get started:
 
 You will start getting beta builds whenever you do a Check for Updates and a beta is available. (You can always switch back to release builds whenever you want.)
 
-**iOS**: [https://netnewswire.com/test-ios.html](Join the TestFlight progam).
+**iOS**: [Join the TestFlight progam](https://netnewswire.com/test-ios.html).
 
 ### Bug reports and feedback
 
-You can use either or both of the two options below — we don’t care which. We just want to hear from you, because it really helps make the app better.
+You can use any or all of the options below — we don’t care which. We just want to hear from you, because it really helps make the app better.
 
-- The NetNewsWire forum has a [Beta Testing category](https://discourse.netnewswire.com/c/beta-testing/)
-- The NetNewsWire repo on GitHub has an [issues tracker](https://github.com/Ranchero-Software/NetNewsWire/issues)
+- Post to the NetNewsWire forum in the [Beta Testing category](https://discourse.netnewswire.com/c/beta-testing/)
+- Report bugs on the NetNewsWire repo on GitHub in the [issues tracker](https://github.com/Ranchero-Software/NetNewsWire/issues)
+- Send feedback and screenshots using TestFlight on iOS
 
 But, again, don’t get hung up on which one. Do whatever.
 
+And, when in doubt, say something — it might seem obvious, but you might be the only person who saw it!
+
 #### Bonus points
 
-Often we get bug reports that are missing two really, really important pieces of information — it would be really helpful if you include these:
+Often we get bug reports that are missing two really, really important pieces of information — it’s really helpful when you include these:
 
 - Feed URL
 - Type of syncing account (On My Mac, iCloud, Feedbin, etc.)
