@@ -9,7 +9,7 @@ On iOS, open Settings, scroll down to Troubleshooting, then tap Activity Log. Yo
 
 <img src=images/ios-activity-log.png alt="Screenshot of the iOS Activity Log screen" class=iosScreenshot>
 
-(The Activity Log feature was added in NetNewsWire 7.1, released in July 2026.)
+(The Activity Log feature was added in NetNewsWire 7.1, released in June 2026.)
 
 ## What Happened
 

@@ -13,7 +13,9 @@
 
 [How to Find Stale Feeds with the Dinosaurs Window](dinosaurs.html)
 
-[How to get NetNewsWire News](how-to-get-netnewswire-news.html)
+[How to Get NetNewsWire News](how-to-get-netnewswire-news.html)
+
+[How to Beta Test NetNewsWire](beta-testing.html)
 
 #### Troubleshooting
 

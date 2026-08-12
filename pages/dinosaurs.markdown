@@ -9,7 +9,7 @@ On iOS, open Settings, scroll down to Troubleshooting, then tap Dinosaurs. Youâ€
 
 <img src=images/ios-dinosaurs.png alt="Screenshot of the iOS Dinosaurs screen" class=iosScreenshot>
 
-(The Dinosaurs feature was added in NetNewsWire 7.1, released in July 2026.)
+(The Dinosaurs feature was added in NetNewsWire 7.1, released in June 2026.)
 
 ## How to list stale feeds
 

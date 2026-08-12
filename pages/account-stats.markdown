@@ -9,7 +9,7 @@ On iOS, open Settings, scroll down to Troubleshooting, then tap Account Stats. Y
 
 <img src=images/ios-account-stats.png alt="Screenshot of the iOS Account Stats screen" class=iosScreenshot>
 
-(The Account Stats feature was added in NetNewsWire 7.1, released in July 2026.)
+(The Account Stats feature was added in NetNewsWire 7.1, released in June 2026.)
 
 ## What the fields mean
 
@@ -20,7 +20,7 @@ Each account has its own row on Mac, or section on iOS, and, if you have multipl
 The Databases field adds up the sizes for all the databases for that account.
 
 <div class=info>
-Most accounts have three databases. DB.sqlite3 is the big one — it contains articles and status. FeedSettings.db contains metadata about feeds, and Sync.sqlite3 contains sync database that has been queued up to send.
+Most accounts have three databases. DB.sqlite3 is the big one — it contains articles and status. FeedSettings.db contains metadata about feeds, and Sync.sqlite3 contains sync data that has been queued up to send.
 </div>
 
 The rest of the fields tell how many of each are stored by that account.

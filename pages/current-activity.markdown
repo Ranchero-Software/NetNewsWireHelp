@@ -9,7 +9,7 @@ On iOS, tap the icon at the bottom left of the Feeds screen — the one immediat
 
 <img src=images/ios-current-activity.png alt="Screenshot of the iOS Current Activity screen" class=iosScreenshot>
 
-(The Current Activity feature was added in NetNewsWire 7.1, released in July 2026.)
+(The Current Activity feature was added in NetNewsWire 7.1, released in June 2026.)
 
 ## What’s Happening Right Now
 
