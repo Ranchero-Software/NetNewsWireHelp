@@ -5,4 +5,5 @@
 @favicon_url https://netnewswire.com/images/nnw_icon_32.png
 @icon_url https://netnewswire.com/images/nnw_icon_256.png
 @has_blog false
+@time_zone America/Los_Angeles
 @rsync_remote_path 209.38.65.123:/var/www/netnewswire.com/html/help/
